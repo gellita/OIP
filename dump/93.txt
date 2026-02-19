@@ -1,0 +1,328 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML lang="ru">
+
+<HEAD>
+<TITLE>П. П. Бажов. Орлиное перо. Текст произведения</TITLE>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<META NAME="Keywords" CONTENT="русская классическая литература интернет-библиотека Алексея Комарова текст читать Павел Бажов Орлиное перо">
+<META NAME="Description" CONTENT='Павел Бажов. Орлиное перо. Текст произведения. Источник: П. П. Бажов. Сочинения в трех томах. Т. 2. М.: Правда, 1986. Интернет-библиотека Алексея Комарова'>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+<link id="mainCSS" rel=stylesheet type="text/css" href="/etc/styles4_18.css">
+<script src="https://yandex.ru/ads/system/header-bidding.js" async></script>
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+<script async src="https://cdn.skcrtxr.com/roxot-wrapper/js/roxot-manager.js?pid=8c86a31e-948e-4d37-9b5a-304d2fbc4c0c"></script>
+
+<script src="/js/adplacements3.js"></script>
+<script async>
+lgl=1;function ge(e){return document.getElementById(e)}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function gr(e){return e.getBoundingClientRect()}
+function ih(e,c){e.innerHTML=c}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+id_t=4614;</script>
+<script src="/js/ev3.js"></script>
+</HEAD>
+
+<BODY>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<span id="svg"></span>
+<div id="hdr" class="hdr">
+ <div class="logo">
+  <div class="logo1 rel">
+   <a href="/" title="Читаем книги онлайн. Интернет-библиотека Алексея Комарова">
+    <div id="lmini"><svg style="width:4.9em;height:2.5em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="800 15 1500 1600"><use xlink:href="#logoMini" /></svg></div>
+    <div id="lmaxi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoBg" /><use xlink:href="#logoMaxi" /></svg></div>
+    <div id="lmidi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoMidi" /></svg></div>
+   </a>
+	</div>
+ </div>
+ <div id="qs1" class="qson">
+  <form id="sf2" method=get action="/search.phtml"><div id="sf1" style="display:flex;align-items:stretch">
+	<div><input class="tf" id="qi1" size=200 type="text" name="q" placeholder="Поиск: автор и/или название произведения" value=""></div>
+	<div id="sb" class="sb" style="">
+	<input id="ss" type="submit" value="Найти"><span id="smg"><svg id="sb1" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="60 0 115 140">
+<use xlink:href="#mglass" /></svg></span></div></div>
+</form>
+</div>
+<div id="sm" class="m"><a style="width:1.2em;white-space:nowrap" href="#" class="ma" onclick="toggle_sf();">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="65 18 115 115"><use xlink:href="#mglass" /></svg>
+</a></div>
+<div class="m"><a href="/author.html" class="ma">Авторы</a></div>
+<div class="spce">&nbsp;</div>
+</div>
+<div id="ex" class="l">
+<div id="lft0">
+<div class="f fc" style="justify-content:space-between">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+
+	<div id="text" class="t hya">
+	<div id="thdr" class="thdr">
+<a href="/author/bazhov/index.html">П. П. Бажов</a>. <a href="/text/4614/index.html">Орлиное перо</a></div>
+
+<div class="author">Павел Бажов</div>
+
+<h2 ID="h1c4775" STYLE="display:none">Книга вторая</h2>
+
+<div class="title"><h1>Орлиное перо</h1></div>
+<z><o></o>В деревне Сарапулке это началось. В недавних годах. Вскорости после гражданской войны. Деревенский народ в те годы не больно грамотен был. Ну, все-таки каждый, кто за советскую власть, придумывал, чем бы ей пособить.</z>
+<z><o></o>В Сарапулке, известно, от дедов-прадедов привычка осталась в камешках разбираться. В междупарье, али еще когда свободное время окажется, старики непременно этими камешками занимались. Про это вот вспомнили и тоже артелку устроили. Стали графит добывать. Вроде и ладно пошло. На тысячи пудов добычу считали, только вскоре забросили. Какая тому причина: то ли графит плохой, то ли цена неподходящая, этого растолковать не умею. Бросили и бросили, за другое принялись &mdash; на Адуй наметились.</z>
+<z><o></o>Адуйское место всякому здешнему хоть маленько ведомо. Там главная приманка &mdash; аквамаринчики да аметистишки. Ну и другое попадается. Кто-то из артелки похвастал: &laquo;Знаю в старой яме щелку с большой надеждой&raquo;. Артельщики на это и поддались. Сперва у них гладко пошло. Два ли, три занорыша нашли. Решеточных! Решетками камень считали. На их удачу глядя, и другие из Сарапулки на Адуй кинулись: нельзя ли, дескать, и нам к тому припаиться. Яма большая &mdash; не запретишь. Тут, видно, и вышла не то фальшь, не то оплошка. Артелка, которая сперва старалась, жилку потеряла. Это с камешками часто случается. Искали, искали, не нашли. Что делать? А в Березовске в ту пору жил горщик один. В больших уж годах, а на славе держался. Артельщики к нему и приехали. Обсказали, в каком месте старались, и просят:</z>
+<z><o></o>&mdash; Сделай милость, Кондрат Маркелыч, поищи жилку!</z>
+<z><o></o>Угощенье, понятно, поставили, словами старика всяко задабривают, на обещанья не скупятся. Тут еще березовские старатели подошли, выхваляют своего горщика:</z>
+<z><o></o>&mdash; У нас Маркелыч на эти штуки дошлый. По всей округе такого не найдешь!</z>
+<z><o></o>Приезжие, конечно, и сами это знают, только помалкивают. Им на руку такая похвальба: не расшевелит ли она старика. Старик все-таки наотрез отказывается:</z>
+<z><o></o>&mdash; Знаю я эти пережимы на Адуе! Глаз у меня теперь их не возьмет.</z>
+<z><o></o>Артельщики свой порядок ведут. Угощают старика да наговаривают: одна надежда на тебя. Коли тебе не в силу, к кому пойти? Старику лестно такое слушать, да и стаканчиками зарядился. Запошевеливал плечами-то, сам похваляться стал: это нашел, другое нашел, там место открыл, там показал. Одним словом, дотолкали старика. Разгорячился, по столу стукнул:</z>
+<z><o></o>&mdash; Не гляди, что старый, я еще покажу, как жилки искать!</z>
+<z><o></o>Артельщикам того и надо.</z>
+<z><o></o>&mdash; Покажи, Кондрат Маркелыч, покажи, а мы в долгу не останемся. От первого занорыша половина в твою пользу.</z>
+<z><o></o>Кондрат от этого в отпор.</z>
+<z><o></o>&mdash; Не из-за этого стараюсь! Желаю доказать, какие горщики бывают, ежели с понятием который.</z>
+<z><o></o>Правильно слово сказано: пьяный похвалился, а трезвому отвечать. Пришлось Маркелычу на Адуй идти. Расспросил на месте, как жилка шла, стал сам постукивать да смекать, где потерю искать, а удачи нет. Артельщики, которые старика в это дело втравили, видят &mdash; толку нет, живо от работы отстали. Рассудили по-своему:</z>
+<z><o></o>&mdash; Коли Кондрат найти не может, так нечего и время терять.</z>
+<z><o></o>Другие старатели, которые около той же ямы колотились, тоже один за другим отставать стали. Да и время подошло покосное. Всякому охота впору сенца поставить. На Адуйских-то ямах людей, как корова языком слизнула: никого не видно. Один Кондрат у ямы бьется. Старик, видишь, самондравный. Сперва-то он для артельщиков старался, а как увидел, что камень упирается, не хочет себя показать, старик в азарт вошел:</z>
+<z><o></o>&mdash; Добьюсь своего! Добьюсь!</z>
+<z><o></o>Не одну неделю тут старался в одиночку. Из сил выбиваться стал, а толку не видит. Давно бы отстать надо, а ему это зазорно. Ну, как! Первый по нашим местам горщик не мог жилку найти! Куда годится. Люди засмеют. Кондрат тогда и придумал:</z>
+<z><o></o>&mdash; Не попытать ли по старинке?</z>
+<z><o></o>В старину, сказывают, места искали рудознатной лозой да притягательной стрелой. Лоза для всякой руды шла, а притягательная стрела &mdash; для камешков. Кондрат про это сызмала слыхал, да не больно к тому приверженность оказывал, &mdash; за пустяк считал. Иной раз и посмеивался, а тут решил попробовать.</z>
+<z><o></o>&mdash; Коли не выйдет, больше тут и топтаться не стану.</z>
+<z><o></o>А правило такое было. Надо наконечник стрелы сперва магнит-камнем потереть, потом поисковым. Тем, значит, на который охотишься. Слова какие-то требовалось сказать. Эту заговоренную стрелу пускали из простого лучка, только надо было глаза зажмурить и трижды повернуться перед тем, как стрелу пустить.</z>
+<z><o></o>Кондрат знал все эти слова и правила, только ему вроде стыдно показалось этим заниматься, он и придумал пристроить к этому своего не то внучонка, не то правнучка. Не поленился, сходил домой. Там, конечно, виду не показал, что по работе незадача. Какие из березовских старателей подходили с разговором, всех обнадеживал: на недельку еще сходить придется.</z>
+<z><o></o>Сходил, как полагается, в баню, попарился, полежал денек дома, а как стал собираться, говорит внучонку:</z>
+<z><o></o>&mdash; Пойдешь, Мишунька, со мной камешки искать?</z>
+<z><o></o>Мальчонку, понятно, лестно с дедушком пойти.</z>
+<z><o></o>&mdash; Пойду, &mdash; отвечает.</z>
+<z><o></o>Вот и привел Кондрат своего внучонка на Адуй. Сделал ему лучок, стрелу по всем старинным правилам изготовил, велел Мишуньке зажмуриться, покрутиться и стрелять, куда придется. Мальчонка рад стараться. Все исполнил, как требовалось. До трех раз стрелял. Только видит Кондрат &mdash; ничего путного не выходит. Первый раз стрела в пенек угодила, второй &mdash; в траву пала, третий &mdash; около камня ткнулась и ниже скатилась. Старик по всем местам поковырялся маленько. Так, для порядка больше, чтоб выполнить все по старинке. Мишунька, понятно, тем лучком да стрелой играть стал. Набегался, наигрался. Дедушко покормил его и спать устроил в балагашке, а самому не до сна. Обидно. На старости лет опозорился. Вышел из балагашка, сидит, раздумывает, нельзя ли еще как попытать. Тут ему и пришло в голову: потому, может, стрела не подействовала, что не той рукой пущена.</z>
+<z><o></o>&mdash; Мальчонка, конечно, несмысленыш. Самый вроде к тому делу подходящий, а все-таки не он искал, потому и показа нет. Придется, видно, самому испробовать.</z>
+<z><o></o>Заговорил стрелу, приготовил все, как требовалось, зажмурил глаза, покрутился и спустил стрелу. Полетела она не в ту сторону, где яма была. А на тропке оказался какой-то проходящий. Идет налегке. На руке только корзинка корневая, в каких у нас ягоды носят. Подхватил прохожий стрелу, которая близенько от него упала, и говорит с усмешкой:</z>
+<z><o></o>&mdash; Не по годам тебе, дедушка, ребячьей забавой тешиться. Не по годам!</z>
+<z><o></o>Кондрату неловко, что его за таким делом застали, говорит в сердцах:</z>
+<z><o></o>&mdash; Проходи своей дорогой! Тебя не касаемо.</z>
+<z><o></o>Прохожий смеется.</z>
+<z><o></o>&mdash; Как не касаемо, коли чуть стрелой мне в ногу не угодил.</z>
+<z><o></o>Подошел к старику, подал стрелу и говорит укорительно, а то со смешком:</z>
+<z><o></o>&mdash; Эх, дед, дед! Много прожил, а присловья не знаешь: то не стрела, коя орлиным пером не оперена.</z>
+<z><o></o>Маркелычу этот разговор не по нраву. Сердито отвечает:</z>
+<z><o></o>&mdash; Нет по нашим местам такой птицы! Неоткуда и перо брать.</z>
+<z><o></o>&mdash; Неправильно, &mdash; говорит, &mdash; твое слово. Орлиное перо везде есть, да только искать-то его надо под высоким светом.</z>
+<z><o></o>Кондрат посомневался:</z>
+<z><o></o>&mdash; Мудришь ты! Над стариком, гляжу, посмеяться надумал, а я ведь в своем деле не хуже людей разумею.</z>
+<z><o></o>&mdash; Какое, &mdash; спрашивает, &mdash; дело?</z>
+<z><o></o>Старик тут и распоясался. Всю свою жизнь этому человеку рассказал. Сам себе дивится, а рассказывает. Прохожий сидит на камешке, слушает да подгоняет:</z>
+<z><o></o>&mdash; Так, так, дедушка, а дальше что?</z>
+<z><o></o>Кончил старик свой рассказ. Прохожий похвалил:</z>
+<z><o></o>&mdash; Честно, дед, поработал. Много полезного добыл, а стрелу зачем пускал?</z>
+<z><o></o>Кондрат и это не потаил. Прохожий поглядел этак вприщур, да и говорит:</z>
+<z><o></o>&mdash; То-то и есть. Орлиного пера твоей стреле не хватает.</z>
+<z><o></o>Кондрат тут вовсе рассердился. Обидно показалось. Всю, можно сказать, жизнь выложил, а он с перьями своими! Закричал этак сердито:</z>
+<z><o></o>&mdash; Говорю, нет по нашим местам такой птицы! Не найдешь пера! Глухой ты, что ли?</z>
+<z><o></o>Прохожий усмехнулся, да и спрашивает:</z>
+<z><o></o>&mdash; Хочешь, покажу?</z>
+<z><o></o>Кондрат, понятно, не поверил, а все-таки говорит:</z>
+<z><o></o>&mdash; Покажи, коли умеешь, да не шутишь.</z>
+<z><o></o>Прохожий тут достал из корзинки камешек кубастенький. Ростом кулака в два. Сверху и снизу ровнехонько срезано, а с боков обделано на пять граней. В потемках не разберешь, какого цвету камень, а по гладкой шлифовке &mdash; орлец. На верхней стороне чуть видны беленькие пятнышки, против каждой грани.</z>
+<z><o></o>Поставил прохожий этот камешек рядом с собой, задел пальцем одно пятнышко, и вдруг их светом накрыло, как большим колоколом. Свет яркий-яркий, с голубым отливом, а что горит &mdash; не видно. Световой колокол не больно высок. Так в три либо четыре человечьих роста. В свету мошкары вьется видимо-невидимо, летучие мыши шныряют, а вверху пташки пролетают, и каждая по перышку роняет. Перышки кружатся, на землю падать не торопятся.</z>
+<z><o></o>&mdash; Видишь, &mdash; спрашивает, &mdash; перья?</z>
+<z><o></o>&mdash; Вижу, &mdash; отвечает, &mdash; только это вовсе не орлиные.</z>
+<z><o></o>&mdash; Правильно, не орлиные, а больше воробьиные, &mdash; говорит прохожий и объясняет: &mdash; Это твоя жизнь, дед, показана. Трудился много, а крылышки маленькие, слабые, на таких высоко не подняться. Мошкара глаза забивает, да еще всякая нечисть мешает. А вот гляди, как дальше будет.</z>
+<z><o></o>Задел опять пальцем которое-то пятнышко, и световой колокол во много раз больше стал. К голубому отливу зеленый примешался. Под ногами будто первый пласт земли сняли, а вверху птицы пролетают. Пониже утки да гуси, повыше журавли, еще выше &mdash; лебеди. Каждая птица по перу сбрасывает, и эти перья книзу ровнее летят, потому &mdash; вес другой.</z>
+<z><o></o>Прохожий еще задел пальцем пятнышко, и световой колокол раздался и ввысь взлетел. Свет такой, что глаза слепит. Голубым, зеленым и красным отливает. На земле на две сажени в глубину все видно, а вверху птицы плывут. Каждая в свету перо роняет. Те перья к земле, как стрелы, летят и у самого того места, где камешек поставлен, падают. Прохожий глядит на Кондрата, улыбается светленько и говорит:</z>
+<z><o></o>&mdash; И выше орла, дед, птицы есть, да показать опасаюсь: глаза у тебя не выдержат. А пока попытай свою стрелу!</z>
+<z><o></o>Подобрал с земли столько-то перьев, живо пристроил, будто век таким делом занимался, и наказывает старику:</z>
+<z><o></o>&mdash; Опускай в то место, где жилку ждешь, а зажмуривать глаза да крутиться не надо.</z>
+<z><o></o>Кондрат послушался. Полетела стрела, а яма навстречу ей раскрылась. Не то что все каменные жилки-ходочки, а и занорыши видно. Один вовсе большой. Аквамаринов в нем чуть не воз набито, и они как смеются. Старик, понятно, растревожился, побежал поближе посмотреть, а свет и погас. Маркелыч кричит:</z>
+<z><o></o>&mdash; Прохожий, ты где?</z>
+<z><o></o>А тот отвечает:</z>
+<z><o></o>&mdash; Дальше пошел.</z>
+<z><o></o>&mdash; Куда ты в темень такую? Хитники пообидеть могут. Не ровен час, еще отберут у тебя эту штуку! &mdash; кричит Маркелыч, а прохожий отвечает:</z>
+<z><o></o>&mdash; Не беспокойся, дед! Эта штука только в моих руках действует да у того, кому сам отдам.</z>
+<z><o></o>&mdash; Ты хоть кто такой? &mdash; спрашивает Маркелыч.</z>
+<z><o></o>А прохожий уж далеко. Едва слышно донеслось:</z>
+<z><o></o>&mdash; У внучонка спроси. Он знает.</z>
+<z><o></o>Мишунька весь этот ночной случай не проспал. Светом-то его разбудило, он и глядел из балагашка. Как дедушко пришел, Мишунька и говорит:</z>
+<z><o></o>&mdash; А ведь это, дедушко, у тебя был Ленин!</z>
+<z><o></o>Старик все-таки не удивился.</z>
+<z><o></o>&mdash; Верно, Мишунька, он. Не зря люди сказывают &mdash; ходит он по нашим местам. Ходит! Уму-разуму учит. Чтоб не больно гордились своими крылышками, а к высокому свету тянулись. К орлиному, значит, перу.<div class="epigraf_source"></div></z>
+<div class="i0 tc" style="padding-top:.5em;border-bottom:1px solid #666;width:6em;margin:auto;position:relative"><span class="rel bg1" style="top:.4em;color:#666;padding:0em .2em;line-height:.8em">&#10022;</span></div><iframe id="noteFrame"></iframe><div id="tbd"></div><script>
+nf=ge("noteFrame");
+nf.onload = () => {
+	nfd=nf.contentWindow.document;
+	nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+}
+nfd=nf.contentWindow.document;
+nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+
+tf=ge("tocFrame");
+tf.onload = () => {
+	tfd=tf.contentWindow.document;
+	tfd.addEventListener("click",function(e){eid=tfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="tocHide")hideToc();},true);
+}
+</script>
+</div>
+<div id="s" style="height:0em"></div>
+<div class="tc" style="margin:3em -6px 1em">
+<div id="yar"></div>
+</div>
+
+
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">&copy; Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div><script>
+turl = new URL(document.URL);
+if (turl.hash != '')
+{
+	window.addEventListener('load',function(){scrollToId();});
+} 
+
+function scrollToId() {
+	ah_e = document.getElementById('ex_a' + turl.hash.substring(3));
+	ah_e.scrollIntoView({ block: "start" });
+}
+var cntr=0;</script>
+
+</div>
+
+<div id="f_r1" style="background-color:#e6e0d3">
+<div class="f" style="height:100%;border-left:1px solid #7f7f96;padding:0em"><div id="in" class="f fc jsb ci" style="width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div class="rel tc">
+<div id="right-rectangle-stick-1" class="ib" style="max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+</script>
+<div id="gglad" class="ib" style="max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+ <div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+  <div class="tc">
+	 <div id="right-rectangle-stick-2" class="ib" style="max-width:400px"></div>
+   <div id="btmad" class="ib" style="max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+	</div>
+ </div></div>
+</div>
+</div></div>
+</div>
+</div>
+
+</div>
+</div><div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: <a href="mailto:otklik@ilibrary.ru">otklik@ilibrary.ru</a></span><span class="bmi"><a href="/aboutilibrary/">О библиотеке</a></span><span class="bmi"><a href="/reklama.phtml">Реклама на сайте</a></span></div>
+<div>&copy;1996&#151;2026 Алексей Комаров. Подборка&nbsp;произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+<a href="https://metrika.yandex.ru/stat/?id=5179000&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/5179000/3_0_FFFFF0FF_E0E0D0FF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="5179000" data-lang="ru" /></a>
+<script type="text/javascript" >   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div><img src="https://mc.yandex.ru/watch/5179000" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+setBrackets();
+setArrows();setPoems();
+window.addEventListener('scroll',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+});
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(setBrackets)!=='undefined') setBrackets();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+if(cntr)document.write(cntr);</script>
+</div>
+</BODY>
+</HTML>
+<!-- 0.00050919 -->

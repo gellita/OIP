@@ -1,0 +1,317 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML lang="ru">
+
+<HEAD>
+<TITLE>П. П. Бажов. Демидовские кафтаны. Текст произведения</TITLE>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<META NAME="Keywords" CONTENT="русская классическая литература интернет-библиотека Алексея Комарова текст читать Павел Бажов Демидовские кафтаны">
+<META NAME="Description" CONTENT='Павел Бажов. Демидовские кафтаны. Текст произведения. Источник: П. П. Бажов. Сочинения в трех томах. Т. 2. М.: Правда, 1986. Интернет-библиотека Алексея Комарова'>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+<link id="mainCSS" rel=stylesheet type="text/css" href="/etc/styles4_18.css">
+<script src="https://yandex.ru/ads/system/header-bidding.js" async></script>
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+<script async src="https://cdn.skcrtxr.com/roxot-wrapper/js/roxot-manager.js?pid=8c86a31e-948e-4d37-9b5a-304d2fbc4c0c"></script>
+
+<script src="/js/adplacements3.js"></script>
+<script async>
+lgl=1;function ge(e){return document.getElementById(e)}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function gr(e){return e.getBoundingClientRect()}
+function ih(e,c){e.innerHTML=c}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+id_t=4668;</script>
+<script src="/js/ev3.js"></script>
+</HEAD>
+
+<BODY>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<span id="svg"></span>
+<div id="hdr" class="hdr">
+ <div class="logo">
+  <div class="logo1 rel">
+   <a href="/" title="Читаем книги онлайн. Интернет-библиотека Алексея Комарова">
+    <div id="lmini"><svg style="width:4.9em;height:2.5em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="800 15 1500 1600"><use xlink:href="#logoMini" /></svg></div>
+    <div id="lmaxi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoBg" /><use xlink:href="#logoMaxi" /></svg></div>
+    <div id="lmidi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoMidi" /></svg></div>
+   </a>
+	</div>
+ </div>
+ <div id="qs1" class="qson">
+  <form id="sf2" method=get action="/search.phtml"><div id="sf1" style="display:flex;align-items:stretch">
+	<div><input class="tf" id="qi1" size=200 type="text" name="q" placeholder="Поиск: автор и/или название произведения" value=""></div>
+	<div id="sb" class="sb" style="">
+	<input id="ss" type="submit" value="Найти"><span id="smg"><svg id="sb1" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="60 0 115 140">
+<use xlink:href="#mglass" /></svg></span></div></div>
+</form>
+</div>
+<div id="sm" class="m"><a style="width:1.2em;white-space:nowrap" href="#" class="ma" onclick="toggle_sf();">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="65 18 115 115"><use xlink:href="#mglass" /></svg>
+</a></div>
+<div class="m"><a href="/author.html" class="ma">Авторы</a></div>
+<div class="spce">&nbsp;</div>
+</div>
+<div id="ex" class="l">
+<div id="lft0">
+<div class="f fc" style="justify-content:space-between">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+
+	<div id="text" class="t hya">
+	<div id="thdr" class="thdr">
+<a href="/author/bazhov/index.html">П. П. Бажов</a>. <a href="/text/4668/index.html">Демидовские кафтаны</a></div>
+
+<div class="author">Павел Бажов</div>
+<div class="title"><h1>Демидовские кафтаны</h1></div>
+<z><o></o>От нашей заводской грани на полдень озеро есть. Иткуль называется. Слыхали поди?</z>
+<z><o></o>Кому на той стороне на рудниках да приисках мытариться доводилось, тот небось не раз на том озере бывал. Близко тут, и рыбешки на том озере полным-полно. Который и вовсе не рыболов, а праздничным делом, глядишь, бежит на Иткуль: хоть разок в неделю, &mdash; думает, &mdash; ушки похлебаю. На приисках-то ведь еда известная. Скучают люди по доброму приварку.</z>
+<z><o></o>Ну, кому золотая жужелка нечаянно в карман залетела, тому тоже на Иткуль дорога. Это озеро, вишь, не в нашей заводской даче, у здешнего начальства тут уж сила не берет. И деревнешечки при озере есть. Башкирские деревнешечки бедные, а все ж таки того-другого достать можно, ежели у кого гулянка случится. Вина там, мяска и протча, про рыбу не говоря. Одно плохо &mdash; стряпать по русскому обычаю не привычны. Ну, да это старателю полбеды. Ему бы хлебнуть было. Зато место тут для гулянки &mdash; лучше не надо.</z>
+<z><o></o>В нашей-то заводской даче свои озерки есть, да что в них! Стоялая вода в низменном месте, берега резуном затянуло, &mdash; не подойдешь. А Иткуль-озеро на высоком местичке пришлось. Берега &mdash; песок да камень, сухим-сухохоньки, а кругом сосна жаровая. Как свечки поставлены. Глядеть любо. Вода как стеклышко &mdash; все камни на дне сосчитай. Только скрасна маленько. Как вот ровно мясо в ней полоскали. Дно, вишь, песок-мясника, к нему этак и отливает. Оттого будто озеро Иткулем и прозывается. По-башкирскому говядину зовут <i>ит</i>, а <i>куль</i> &mdash; по-ихнему озеро, вот и вышло мясно озеро &mdash; Иткуль.</z>
+<z><o></o>Другие опять говорят, будто первый, кто людей на это озеро привел, похвалялся:</z>
+<z><o></o>&mdash; Вон сколь тут живности в воде-то. Все озеро мясом набито.</z>
+<z><o></o>А еще про это посказулька сложена. Наши старики сказывали. Они, вишь, ране-то, как чугунки не было, медь, железо на Чусовую-реку возили и тамошние дела до тонкости знали. И про это наслышались.</z>
+<z><o></o>Причинку тут на Демидовых кладут. Не на тагильских, а на тех, кои Шайтанский завод на Касли строили. Этого же колена Демидовы, только хозяйство у них разное. В этом и загвоздка.</z>
+<z><o></o>Вишь как вышло. Царь отдал Демидову в здешних местах казенный завод и земли отвел &mdash; строй, дескать, сколько сможешь. Демидов и послал в наши места сына Акинтия. Акинтий и начал тут поворачивать &mdash; заводы строить: Шуралу, там, Быньги, оба Тагила и протча. Старик Демидов и сам в наши края перебрался, только он, сказывают, больше по заводскому действию старался, а этот Акинтий все строил да строил. Десятка, поди, два заводов-то настроил. К нашим Сысертским заводам из Акинтьевых ближе всех Ревда подоткнулась. Вот из-за этой самой Ревды, как она еще строилась, узелок и завязался.</z>
+<z><o></o>Разбогател Акинтий Демидов &mdash; дальше некуда. Руда, вишь, тут добрая, лес под боком, за работу платил &mdash; только бы не умер человек. Как не разбогатеть. А у старика Демидова, кроме Акинтия, были и другие сыновья. Тоже заводчики, только не по здешним местам. У одного из этих сыновей &mdash; Никитой же его, как и старика, звали &mdash; Брынский завод был. Ну, и другие какие-то. Тоже сильно богатый был, только где же против Акинтия! Вот этот брынский заводчик Никита и удумал податься в наши же места.</z>
+<z><o></o>&mdash; Братско, дескать, дело, &mdash; отведет мне Акинтий ме&#769;стичко. &mdash; А сам уж давно облюбовал, где теперь Ревда-завод стоит. Тут на Волчихе, да и по другим горам и руду обыскал. Ну, только Акинтий сразу братцу любезному оглобли заворотил.</z>
+<z><o></o>&mdash; У моего-то, &mdash; говорит, &mdash; кармана братьев нету. Сам на том месте завод строить буду.</z>
+<z><o></o>Никите неохота попуститься.</z>
+<z><o></o>&mdash; Еще, &mdash; говорит, &mdash; покойный родитель мне про то место говаривал. Обещал, можно сказать.</z>
+<z><o></o>Акинтий знай посмеивается.</z>
+<z><o></o>&mdash; На мертвого-то что хошь скажи. А только родитель-покойничек не дурак был, чтоб эдакое место, с которого весь сплав по реке зачинается, из своих рук выпустить.</z>
+<z><o></o>Ну, тогда Никита видит &mdash; не идет дело, суд завел с Акинтием из-за рудников. Дескать, я обыскал, а он собирается завод строить. Да где же с Акинтием тягаться, коли цари с ним за ручку! Только и высудил Никита, что ему разрешили теми рудниками пользоваться, если где-нибудь близко завод поставит. А где eгo поставишь, коли земля кругом обрезана.</z>
+<z><o></o>Тут, слышь-ко, еще такая штука вышла. С левого-то берега к Чусовой-реке строгановские земли подошли. Строгановы раньше железными заводами не от силы занимались, а тут и им приспичило, &mdash; на акинтьевы богатства глядючи. Как раз недалеко от тех мест Билимбай-завод строили. С Акинтием тоже суд завели, &mdash; дескать, Ревда-то на строгановской земле приходится. Ну, Никита видит, &mdash; при таком деле у Строгановых ему земли ни за что не добыть. Стал искаться на правом берегу Чусовой. А там, слышь-ко, в диком месте, в Шайтан-логу, деревнешечка башкирская стояла, и она как-то еще никому из заводчиков не отдана была.</z>
+<z><o></o>Вот Никита и подсыпался к этим башкирам, давай их улещать.</z>
+<z><o></o>&mdash; Отдайте, дескать, мне это место. Я тут завод поставлю, а вас своим коштом перевезу, куда выберете. Избы новые поставлю, денег дам на обзаведенье, старикам на каждый год по красному кафтану... К праздникам мясо у вас будет: ешь &mdash; не хочу. А то какие вы жители. Мясо-то у вас когда бывает?</z>
+<z><o></o>Деревнешечка и верно шибко бедная была. Пряменько сказать, на одной кобыле по три семьи ездило. Только тем и питались, что в речках добудут. Все рыба да рыба. Ну, их и потянуло на мяско. Старикам тоже охота в красных кафтанах погулять. Так и сладились и бумаги припечатали.</z>
+<z><o></o>Стал на том месте, в Шайтан-логу, Демидов строить завод, а башкир перевез на дальнее озеро, чуть не за сто верст от старого жилья. Не всех, конечно, перевез.</z>
+<z><o></o>Помоложе-то у себя оставил, на рудниках работу им дал. Молодому, известно, на людях охота пожить.</z>
+<z><o></o>Сперва все как по маслу катилось. Рыбой на новом месте башкиры довольнехоньки, к праздникам им от Демидова мяса привозят: конины, баранины. Кафтаны тоже каждый год выдают. Все, как выряжено.</z>
+<z><o></o>Видишь, завод-от строил не сам Никита, а его сын Василий. Оттого будто Шайтанку и зовут еще Васильевским. Этот Василий тогда, слышь-ко, молодой был, злостью да хитростью еще не настоялся. Он и выполнял все по уговору. Ну, и то сказать, велико ли дело для Демидовых сколько-то возов конины да баранины отправить.</z>
+<z><o></o>Только вот приехал на завод сам Никита. А у него, сказывают, в ту пору жена сбежала, денег много утащила, а больше того долгов оставила, &mdash; заплати, муженек любезный, а жить с тобой я не согласна. Ну, Никита и лютовал по этому случаю и подковыривался ко всякому месту. Увидел, что башкирам мясо направляют, зверем на сына накинулся:</z>
+<z><o></o>&mdash; Ты что это? По материнской дорожке, знать, собираешься? Мастерица была моты мотать, добро разбрасывать!</z>
+<z><o></o>Сын говорит:</z>
+<z><o></o>&mdash; Что ты, батюшка, из-за пустяков себя расстраиваешь. Я ведь негодных лошадей режу. Чем на падинник везти, так мы им в гостинцы. Много если двух-трех баранов подкину.</z>
+<z><o></o>Старик не унимается:</z>
+<z><o></o>&mdash; Тому барана, другому барана, сам с чем останешься?</z>
+<z><o></o>Тогда Василий напомнил, &mdash; дескать, уговор такой был.</z>
+<z><o></o>&mdash; На всякий уговор, &mdash; кричит, &mdash; ум иметь надо, а у тебя башка песком набита!</z>
+<z><o></o>Потом позвал своего подручного, да и сказал ему, как надо сделать.</z>
+<z><o></o>Подручный, конечно, рад стараться. Таких-то ведь хлебом не корми, только бы людям какую ни на есть издевку подстроить.</z>
+<z><o></o>&mdash; Слушаю, &mdash; говорит, &mdash; Никита Никитич. Будьте без сумленья, в лучшем виде устроим. Угостим так, что внукам закажут, как на демидовски гостинцы рот разевать.</z>
+<z><o></o>Вот ладно. Снарядился этот демидовский подручный с возами в дорогу. Человек пяток объездных с собой прихватил, с ружьями. Дорога-де не ближняя. Мало ли что может случиться.</z>
+<z><o></o>Приезжают туда, а башкиры их уж ждут.</z>
+<z><o></o>Обрадовались старики:</z>
+<z><o></o>&mdash; Ай, хорош Демид. Якши-бай, спасиба ему! Спасиба!</z>
+<z><o></o>Велят котлы под мясо готовить. Только раскрывают рогожи, а там свинина. Цельными тушами свиньи лежат и пятачки свои уставили.</z>
+<z><o></o>Старики, конечно, в сторону:</z>
+<z><o></o>&mdash; Ай-яй. Дунгыз-ите наш закон ашать не велит. Ошибку Демид давал. Ай-яй-яй!</z>
+<z><o></o>Ну, а какая ошибка, коли назгал сделано. Подручный знай покрикивает:</z>
+<z><o></o>&mdash; Привезено &mdash; ешь. Какой разговор об этом. Мясо хорошее. Если такого не примете, давайте бумагу хозяину с отказом на предбудущее время.</z>
+<z><o></o>Тут руднишные башкиры случились. На побывку, видно, к своим пришли. Эти руднишные около русских-то уж околтались. Руднишному где разбирать, какой кусок в хлебове попался &mdash; свинина ли, конина ли, лишь бы червей поменьше. Ну, видят &mdash; тут подстроено. Ввязались в это дело. Шире-дале, к драке ближе. Подручный демидовский ружьями пригрожать стал, а те не отстают. На них глядя, и другие осмелели, за колья да топоры взялись, телеги окружили. Подручный видит &mdash; дело плохо, велел поворачивать с возами. Башкиры еще покричали, все-таки выпустили. А подручный отъехал маленько и велел свинину на куски рубить да в озеро кидать. Башкиры видят, назло воду поганят, тулаем за ними кинулись, а подручный демидовский стрелять велел. Ранили которых. Только все-таки башкиры одну телегу захватили и людей сколько-то. Давай их бить. С концом, конечно, потому расстервенился народ. А подручный успел угнать.</z>
+<z><o></o>Ну, дальше, известно, суд да кнут.</z>
+<z><o></o>Приехало к башкирам начальство и давай в первую голову руднишных искать, только их нигде не оказалось, и семейные от них отперлись.</z>
+<z><o></o>&mdash; Вовсе, &mdash; говорят, &mdash; нездешние были. Проходящий народ.</z>
+<z><o></o>Тогда стариков увезли, которые от Демидова кафтаны получали. Этих стариков и судили как за бунт и присудили &mdash; у озера, на том самом месте, где драка была, кнутьями бить. Били, конечно, нещадно, спина в кровь и мясо клочьями. А тот, сукин сын, который драку подстроил, тут же перед всем народом похваляется:</z>
+<z><o></o>&mdash; Помнить-де меня будут. Не хотели в демидовских красных кафтанах гулять, походите в моих! По росту, небось, пришлось. Только носить сладко ли?</z>
+<z><o></o>Тут ему из народу и погрозились:</z>
+<z><o></o>&mdash; Погоди, собака! Сошьем и тебе кафтан по росту! Без единого шва будет!</z>
+<z><o></o>Так и вышло. Вскорости тот демидовский подручник потерялся. Искали-искали, найти не могли. Потом Демидову записку подбросили. Русскими буквами написано.</z>
+<z><o></o>Оказался-де на иткульском Шайтан-камне какой-то человек в красном кафтане, ни с кем не разговаривает, а по всему видать &mdash; из ваших.</z>
+<z><o></o>Послал Демидов поглядеть, &mdash; что за штука?</z>
+<z><o></o>На озере-то камень тычком из воды высунулся. Большой камень, далеко его видно. Вот на этом Шайтан-камне и оказался какой-то человек. Стоит ровно живой, руки растопырил. Одежа на нем красным отливает. Подъехали демидовские доглядчики к камню, глядят, а это мертвый подручный-то. У него вся кожа от шеи до коленок содрана да ему же к шее и привязана.</z>
+<z><o></o>С той поры вот будто озеро Иткулем и прозывается.</z>
+<z><o></o>Пострадала, конечно, деревнешечка. Иных в тюрьме сгноили, кого забили, кто в Нерчинск на вечну каторгу ушел. Ну, а оставшийся народ вовсе изверился в Демидове и во всех заводчиках. Только о том и думали, как бы чем заводам насолить.</z>
+<z><o></o>Когда Пугачев подымался, так эти иткульские из первых к нему приклонились. Даром что деревня махонькая, в глухом месте стоит &mdash; живо дознались!</z>
+<z><o></o>Наш-от барин в ту пору, говорят, только то и наказывал:</z>
+<z><o></o>&mdash; Берегись иткульских! За иткульскими гляди! Самый это отчаянный народ и заводам первые ненавистники.</z>
+<z><o></o>А когда опять ворчать примется:</z>
+<z><o></o>&mdash; Тоже, видно, и в Демидовых дураки водятся: гляди-ко, до чего народишко расстервенили. Не подойдешь к нему. А из-за чего? Корысть-то какая? Палых лошадей жалко стало. Смекалка тожа! Стыд в люди сказать.</z>
+<z><o></o>Сам-от этот барин куда хитрее был. Этот, небось, за палую лошадь вязаться бы не стал. По-другому с народом обходиться умел. Не углядишь, с какой стороны подъедет. Прямо, сказать, петля.</z>
+<z><o></o>Из купцов вышел. К мошенству, стало быть, с малых лет навык.</z>
+<z><o></o>Вот этому барину, видно, и казалось дивом, что Демидовы не смогли маленькую башкирскую деревнешечку круг пальца обвести.</z>
+<z><o></o>Из-за этих барских разговоров, сказывают, потом большая рассорка с ревдинским начальством случилась. Не раз оно наших водой прижимало. Это когда караван спустить по Чусовой приходилось. Только это уж другой разговор пошел, а иткульцы, точно, самые заядлые супротивники заводским барам в те годы были.</z>
+<z><o></o>Как уж пугачево дело по другим местам вовсе на-нет сошло, в этой деревнешечке его не забыли. Нет-нет оттуда и выбежит человек пяток-десяток, на лошадках, конечно. А дорога у них хоть и в разные стороны случалась, а всегда на одно выходила: какого-нибудь заводского барина за горло взять.</z>
+<z><o></o>За это и звали их барскими подорожниками, потому &mdash; простой народ и даже торгашей не задевали, а барам да большому заводскому начальству сильно оберегаться приходилось.</z>
+<z><o></o>На дороге поймают &mdash; не пощадят, случалось, и по домам тревожили.<div class="epigraf_source"></div></z>
+<div class="i0 tc" style="padding-top:.5em;border-bottom:1px solid #666;width:6em;margin:auto;position:relative"><span class="rel bg1" style="top:.4em;color:#666;padding:0em .2em;line-height:.8em">&#10022;</span></div><iframe id="noteFrame"></iframe><div id="tbd"></div><script>
+nf=ge("noteFrame");
+nf.onload = () => {
+	nfd=nf.contentWindow.document;
+	nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+}
+nfd=nf.contentWindow.document;
+nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+
+tf=ge("tocFrame");
+tf.onload = () => {
+	tfd=tf.contentWindow.document;
+	tfd.addEventListener("click",function(e){eid=tfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="tocHide")hideToc();},true);
+}
+</script>
+</div>
+<div id="s" style="height:0em"></div>
+<div class="tc" style="margin:3em -6px 1em">
+<div id="yar"></div>
+</div>
+
+
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">&copy; Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div><script>
+turl = new URL(document.URL);
+if (turl.hash != '')
+{
+	window.addEventListener('load',function(){scrollToId();});
+} 
+
+function scrollToId() {
+	ah_e = document.getElementById('ex_a' + turl.hash.substring(3));
+	ah_e.scrollIntoView({ block: "start" });
+}
+var cntr=0;</script>
+
+</div>
+
+<div id="f_r1" style="background-color:#e6e0d3">
+<div class="f" style="height:100%;border-left:1px solid #7f7f96;padding:0em"><div id="in" class="f fc jsb ci" style="width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div class="rel tc">
+<div id="right-rectangle-stick-1" class="ib" style="max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+</script>
+<div id="gglad" class="ib" style="max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+ <div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+  <div class="tc">
+	 <div id="right-rectangle-stick-2" class="ib" style="max-width:400px"></div>
+   <div id="btmad" class="ib" style="max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+	</div>
+ </div></div>
+</div>
+</div></div>
+</div>
+</div>
+
+</div>
+</div><div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: <a href="mailto:otklik@ilibrary.ru">otklik@ilibrary.ru</a></span><span class="bmi"><a href="/aboutilibrary/">О библиотеке</a></span><span class="bmi"><a href="/reklama.phtml">Реклама на сайте</a></span></div>
+<div>&copy;1996&#151;2026 Алексей Комаров. Подборка&nbsp;произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+<a href="https://metrika.yandex.ru/stat/?id=5179000&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/5179000/3_0_FFFFF0FF_E0E0D0FF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="5179000" data-lang="ru" /></a>
+<script type="text/javascript" >   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div><img src="https://mc.yandex.ru/watch/5179000" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+setBrackets();
+setArrows();setPoems();
+window.addEventListener('scroll',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+});
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(setBrackets)!=='undefined') setBrackets();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+if(cntr)document.write(cntr);</script>
+</div>
+</BODY>
+</HTML>
+<!-- 0.000575774 -->

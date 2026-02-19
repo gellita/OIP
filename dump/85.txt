@@ -1,0 +1,318 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML lang="ru">
+
+<HEAD>
+<TITLE>П. П. Бажов. Марков камень. Текст произведения</TITLE>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<META NAME="Keywords" CONTENT="русская классическая литература интернет-библиотека Алексея Комарова текст читать Павел Бажов Марков камень">
+<META NAME="Description" CONTENT='Павел Бажов. Марков камень. Текст произведения. Источник: П. П. Бажов. Сочинения в трех томах. Т. 2. М.: Правда, 1986. Интернет-библиотека Алексея Комарова'>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+<link id="mainCSS" rel=stylesheet type="text/css" href="/etc/styles4_18.css">
+<script src="https://yandex.ru/ads/system/header-bidding.js" async></script>
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+<script async src="https://cdn.skcrtxr.com/roxot-wrapper/js/roxot-manager.js?pid=8c86a31e-948e-4d37-9b5a-304d2fbc4c0c"></script>
+
+<script src="/js/adplacements3.js"></script>
+<script async>
+lgl=1;function ge(e){return document.getElementById(e)}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function gr(e){return e.getBoundingClientRect()}
+function ih(e,c){e.innerHTML=c}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+id_t=4670;</script>
+<script src="/js/ev3.js"></script>
+</HEAD>
+
+<BODY>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<span id="svg"></span>
+<div id="hdr" class="hdr">
+ <div class="logo">
+  <div class="logo1 rel">
+   <a href="/" title="Читаем книги онлайн. Интернет-библиотека Алексея Комарова">
+    <div id="lmini"><svg style="width:4.9em;height:2.5em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="800 15 1500 1600"><use xlink:href="#logoMini" /></svg></div>
+    <div id="lmaxi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoBg" /><use xlink:href="#logoMaxi" /></svg></div>
+    <div id="lmidi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoMidi" /></svg></div>
+   </a>
+	</div>
+ </div>
+ <div id="qs1" class="qson">
+  <form id="sf2" method=get action="/search.phtml"><div id="sf1" style="display:flex;align-items:stretch">
+	<div><input class="tf" id="qi1" size=200 type="text" name="q" placeholder="Поиск: автор и/или название произведения" value=""></div>
+	<div id="sb" class="sb" style="">
+	<input id="ss" type="submit" value="Найти"><span id="smg"><svg id="sb1" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="60 0 115 140">
+<use xlink:href="#mglass" /></svg></span></div></div>
+</form>
+</div>
+<div id="sm" class="m"><a style="width:1.2em;white-space:nowrap" href="#" class="ma" onclick="toggle_sf();">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="65 18 115 115"><use xlink:href="#mglass" /></svg>
+</a></div>
+<div class="m"><a href="/author.html" class="ma">Авторы</a></div>
+<div class="spce">&nbsp;</div>
+</div>
+<div id="ex" class="l">
+<div id="lft0">
+<div class="f fc" style="justify-content:space-between">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+
+	<div id="text" class="t hya">
+	<div id="thdr" class="thdr">
+<a href="/author/bazhov/index.html">П. П. Бажов</a>. <a href="/text/4670/index.html">Марков камень</a></div>
+
+<div class="author">Павел Бажов</div>
+<div class="title"><h1>Марков камень</h1></div>
+<z><o></o>У старых владельцев, у Турчаниновых-то, Петро да Марко в роду вперемежку ходили. Отец, например, Петро Маркыч, а сын Марко Петрович. У Демидовых тагильских, у тех опять Акинтий да Никита. Глянулось, видно. Мода такая была. Нонешнего барчонка, кой в лета не вошел, тоже, слышь-ко, Марком кличут. Ну, это их дело. Рабочему человеку в том сласти мало. Петро ли, Марко, а все барин. Не к тому разговор, чтобы их имена разбирать.</z>
+<z><o></o>А вот есть чуть не в самой середке нашей заводской дачи гора одна &mdash; Марков камень. Которые заводские и думают, что по Марку Турчанинову гора прозывается. Любил, дескать, который-нибудь туда на охоту ездить либо еще что. Ну, только это напрасно говорят. Там вовсе, может, ни один Турчанинов и не бывал. Шибко глухое место, в болотах кругом. Не барское дело по этим местам бродить. Ноги промочит, из носу закаплет. И добычи близко никакой нету, кроме как мягкой камень маленько ковыряют.</z>
+<z><o></o>Название горы по другому Марку поставлено. Тайности тут нету. Побывальщину эту мне покойный дедушко сказывал. Он еще вовсе маленький был, когда случай тот вышел. Лет, поди, сто, а то и больше тому делу.</z>
+<z><o></o>Была, слышь-ко, на заводах барыня Колтовская. Она тоже в девках-то Турчанинова была, а вышла замуж за какого-то генерала али там поручика &mdash; и стала Колтовская. Почто она в Сысерти жила &mdash; овдовела, али с мужем разошлась, про то мне неизвестно. Одно знаю &mdash; ни про одну старинную барыню у нас в заводах речей нет, а про эту Колтовчиху помнят. Оставила, значит, следок. Которая девчонка или бабенка загуляла, про ту и говорят: &laquo;Колтовчиху покрасить хочет&raquo;.</z>
+<z><o></o>Она &mdash; эта Колтовчиха-то &mdash; до того к мужику жадная была, что удивленье просто. Господишек, конечно, коло ее, сколь хочешь. Известно, господское положение. Что им делать? Только этой барыне тех своих мужиков не хватало. Она и нашим братом, рабочим, который побаще да поскладнее, не брезговала. Нет-нет, из Сысерти слышок дойдет: взяла, дескать, барыня нового кучера, а старого отставила. А уж все знали, в чем тут загвоздка. Взяла и взяла. Дело подневольное, все-таки не в гору человека нарядили. Посмеются еще так-то, а то и не подумают, что это, может, похуже горы.</z>
+<z><o></o>И вот приезжает эта барыня Колтовская к нам в Полевской завод. Как раз о празднике было дело. У нас на Петро-Павла, известно, гулянка. После службы церковной, почитай, весь завод на той вон горке, у старой плотинки, собирался. Сперва ребятишки бороться счунутся, потом и до мужиков дойдет. Лучше того не знали, как силой похвастаться. Ну, и барам это, видно, к руке шло. Жаловали хороших борцов и всяко нахваливали.</z>
+<z><o></o>Которые в медной горе робили, шибко ровно худые были, а сила у них в руках и в ногах большая. Фабричным супротив их неохота неустойку оказать. А тоже у них, у фабричных-то, силка была.</z>
+<z><o></o>Особо у кричных. У которого уж и грыжа от надсады, а подойди к нему, сунься!</z>
+<z><o></o>Был в ту пору в кричной подмастерье один, Марком его звали. Чипуштанов ли как по фамилии, а прозвище было Береговик. Ох, и парень! Высокой, ловкой, из себя чистяк, а сила в нем медвежья. Даром что молодой, а уж который год круг уносил. Никто против него устоять не мог.</z>
+<z><o></o>Гора, конечно, в обиде, что крична большину берет. Вот гора и сделала подвод &mdash; Онисима своего подставила. А тот Онисим у них, прямо сказать, урод в людях был. Мужик уж в годах и на грудь жаловался, а посмотреть на него страшно. Согнулся, ссутулился, а все печатна сажень, и руки чуть не до полу, как клешни, висят. Двадцать пять лет в горе выробил. Гора его сгрызть не могла. С этим Онисимом давно никто не боролся, да и сам он к этому не охотился. А тут подвели дело. Как, значит, самолучшие борцы выходить стали, Онисим и выкатился. Ну, побросал, конечно, всех, как котят. Маркова очередь подошла. Крична и кричит:</z>
+<z><o></o>&mdash; Невзачет Онисима! С этим зверем ни один человек не управится. Что его считать!</z>
+<z><o></o>А гора свое:</z>
+<z><o></o>&mdash; Струсили, жженопятики. Какие у вас борцы после этого!</z>
+<z><o></o>Однем словом, перекор пошел. Тут Онисим и говорит:</z>
+<z><o></o>&mdash; Выходи, Маркушко. Охота мне узнать, какая в тебе силка.</z>
+<z><o></o>&mdash; Ну, что же, попытаем не то, дядя Онисим, &mdash; отвечает Марко. &mdash; Я бы супротив тебя не вышел, кабы не твоя охота.</z>
+<z><o></o>Вот и вышел Марко-то. Борются у нас, известно, взамок. У кого, значит, спина не хрустнет да ноги выдюжат. Ну, и сноровка тоже требуется. Марко супротив Онисима пожиже кажется, а ведь одолел. Это Марко-то. Из трех разов только раз под Онисимом побывал, а два раза его бросил. Молодой все ж таки. Куда старому! Крична, конечно, радуется, а гора кричит:</z>
+<z><o></o>&mdash; Неправильно боролись. Сызнова надо. &mdash; Пошумели, а до драки не дошло. Сам Онисим это дело утихомирил.</z>
+<z><o></o>&mdash; Чего, &mdash; кричит, &mdash; зря гаметь. Правильно все было. Никакой фальши от Марка не видел. И больше я бороться не буду. Попытал &mdash; хватит. Немолодое мое дело этим забавляться.</z>
+<z><o></o>Тем кончилось. Марко, значит, опять круг унес. Борцам выдали подарки: кому пояс, кому шапку, а Марку с Онисимом &mdash; по кафтану.</z>
+<z><o></o>После этого пошли, конечно, в кабак. И Марка с собой ведут, а он, вишь, на вино воздержный парень был, да и молодой еще. Ему охота тут остаться, поглядеть, как девки-бабы хороводы поведут, поплясать с ними, песенок попеть. Ну, опять, как мужикам откажешь, раз круг унес?</z>
+<z><o></o>Уважить надо. Пошел с ними, а сам кричит:</z>
+<z><o></o>&mdash; Ты, Татьяна, не уходи. Сейчас оборочусь. &mdash; Это он своей бабе. Недавно, слышь-ко, женился. Только первый год жили. Ласковая такая ему бабочка попалась, веселая. Они и миловались, прямо сказать, у людей на глазах. Другим бабам-девкам завидно было.</z>
+<z><o></o>Не успели мужики до кабака дойти, подбежал барский казачок &mdash; Марка барыня требует. А она &mdash; барыня-то Колтовчиха &mdash; на круг из коляски своей глядела. Господишки, которые с ней из Сысерти приехали, &mdash; тут же. И приказчик тут, и все начальство заводское. Так и не пришлось Марку стаканчик пропустить. Подходит Марко к барыне, а она ему рубль серебряный подает.</z>
+<z><o></o>&mdash; На-ко, &mdash; говорит, &mdash; молодец. Жалую тебя из своих барских рук.</z>
+<z><o></o>Ну, Марко тоже знал, как ему поступать. Поклонился и говорит:</z>
+<z><o></o>&mdash; Покорнейше благодарим, барыня. Рад стараться.</z>
+<z><o></o>А барыня так в него глазами и впилась. Прямо сказать &mdash; стыда у бабы нисколечко. Всякому видно. Один Марко этого не понял и норовит потихонечку отойти. А барыня видит, что он отодвигается, и говорит:</z>
+<z><o></o>&mdash; Подойди ближе, покажи руку.</z>
+<z><o></o>Марко подошел, конечно, и руку показывает, ладонью кверху. Барыня засмеялась, да и говорит:</z>
+<z><o></o>&mdash; Загни рукав! &mdash; Заскать, значит, ему велит рукав-от.</z>
+<z><o></o>Марко так и сделал, а она хвать его за руку. Щупает, слышь-ко, как ровно лошадь смотрит. Господишки туда же тянутся, бормочут промеж себя не по-русскому. Марку, конечно, обидно, что его так оглядывают, а все ж таки виду не подает. Будто так и надо. Барыня велит ворот расстегнуть, грудь, плечо показать. Марко покраснел весь, зло его взяло, а все исполнил, как она требовала. Колтовчиха схватила его рукой за плечо, похлопывает потихоньку, лотошит с господишками-то, а о чем &mdash; не разберешь. Только и слышно слово какое-то. Вроде как Марку имя дает. Заводские наши бабешки, кои поближе стояли, зашушукали и над Татьяной уж насмешки строят:</z>
+<z><o></o>&mdash; Твоего-то барыня в жеребцы выбрала. Кличку, слышь, ему новую придумала.</z>
+<z><o></o>Татьяна &mdash; женщина молодая, совсем, сказать, девчонка. Сноровки у ней настоящей нет, как, значит, жить-то. Она возьми и зареви. Так голосом и завыла. Все одно как по покойнику.</z>
+<z><o></o>&mdash; Ой, да что же это, девоньки, деется...</z>
+<z><o></o>Марко услышал &mdash; ревет кто-то. Поглядел, а это Татьяна. И барыня углядела, спрашивает приказчика:</z>
+<z><o></o>&mdash; Кто завыл?</z>
+<z><o></o>Приказчик сказывает, что это маркова жена.</z>
+<z><o></o>&mdash; Привести сюда, &mdash; говорит барыня.</z>
+<z><o></o>Привели Татьяну, барыня и спрашивает:</z>
+<z><o></o>&mdash; Ты о чем?</z>
+<z><o></o>А та с простоты и ляпни:</z>
+<z><o></o>&mdash; Бабы сказывают, будто Марка на конный берешь.</z>
+<z><o></o>Барыня этак усмехнулась, да и говорит:</z>
+<z><o></o>&mdash; Хорошо бабы придумали. На конном и верно конюхов надо помоложе да подюжее. Твоего, пожалуй, возьму.</z>
+<z><o></o>Татьяна думает &mdash; и вправду это она сама барыню надоумила, хлоп ей в ноги:</z>
+<z><o></o>&mdash; Помилуй, барыня-сударыня. Не вели у меня Марка брать. Первый годок с ним живем. Да и не умеет он у меня с конями-то.</z>
+<z><o></o>&mdash; Он, гляжу, и с тобой управиться не умеет. Вишь, как ты язык распустила при госпоже своей. Обоих вас поучить надо, &mdash; говорит барыня и приказчику наказ дает: &mdash; Ты эту ко мне в горничные доставь. Завтра же с утра чтоб отправлена была. Вон она как щеки наела. Устиньюшка моя живо обобьет лишнее-то. А ты, молодец, что же жену свою не учишь? &mdash; спрашивает барыня у Марка.</z>
+<z><o></o>Тот и без этого изорвался весь. То скраснеет, то побелеет. Стыдно ему перед народом, как его Колтовчиха оглядывала, за голое тело рукой хватала, а тут еще Татьяна сглупа насмех поставила. Так бы ровно весь свет расшиб. Он и хватил Татьяну-то по уху. Та так и покатилась. А бабешки, которые Татьяну подстраивали, сейчас заойкали:</z>
+<z><o></o>&mdash; Ой, убил! Ой, убил! &mdash; Марко глядит, &mdash; и верно, лежит Татьяна белехонька, глаза закрыла и дыханья нет. А барыня на него же:</z>
+<z><o></o>&mdash; Это еще что за нежности. Разбаловал бабенку. Ударить ее нельзя.</z>
+<z><o></o>Тут Марко и не стерпел. Сгреб ее, барыню-то Колтовчиху, за волосья да как мякнет на землю. Только каблуки сбрякали. А он еще в рожу ей ногой-то. Ну, тут суматоха поднялась. Господишки на Марка бросились, стражник шашку вытащил.</z>
+<z><o></o>А барыня знай визжит:</z>
+<z><o></o>&mdash; Живьем берите! Живьем берите!</z>
+<z><o></o>Господам, конечно, не под силу экого человека живьем захватить. За пожарниками кинулись, а другие опять в кабак побежали за народом. Выбежали пожарники, а народ им наперерез бежит, и Онисим впереди всех. Заздыхался весь, а сам заплотиной машет. Сажени, поди, три заплотина-то.</z>
+<z><o></o>&mdash; Разражу, &mdash; кричит, &mdash; кто Маркушку пальцем заденет!</z>
+<z><o></o>Ну, господишки видят, &mdash; дело худое, наутек надо. Только один возьми да и пальни в Онисима. И ведь что ты думаешь? Попал, собачье мясо! В самую жилку угодил. Онисим сразу носом в землю и не встал больше. Экой могутный человек был. Гора его не сжевала, а от пульки сразу кончился.</z>
+<z><o></o>Народ видит &mdash; Онисима убили, пуще того остервенился. За баринком-то тем, который в Онисима стрелял, в сугонь пошли. А тот на лошадь да по Сысертской дороге. Барыня и другие господишки туда же упалили, а приказчик да начальство разбежались. Ну, пожарникам, конечно, бока намяли. Двух вовсе до смерти благословили, а которых изувечили.</z>
+<z><o></o>Не любил их народ, пожарников-то. Они, вишь, первые прихвостни у начальства были и народ в пожарной пороли. Их за это и помяли.</z>
+<z><o></o>Через день либо через два суд-расправа в заводе началась. Городское начальство наехало, солдат пригнали. В первую голову стали Марка Береговика искать. Барыня тоже прикатила. Уж как только она ни старалась. И грозилась, и всяко людей улещала, чтоб показали, где Марка искать. Нет, ничего не вышло. Все в один голос говорят:</z>
+<z><o></o>&mdash; Откуда нам знать? Убежал куда-то и Татьяну свою уволок.</z>
+<z><o></o>Побились-побились так-то, ничего не узнали. С тем и уехали.</z>
+<z><o></o>Ну, конечно, драли, кого доходя, а Марка с Татьяной в бега списали и по всем местам бумажку дали, &mdash; не поймают ли где, значит. А он, Марко-то, в нашей же даче и жил. Многие огневщики про это знали. Только против народа боялись. Сами же, слышь-ко, оповестят Марка:</z>
+<z><o></o>&mdash; На тебя облава собирается. Поберегись.</z>
+<z><o></o>Марко с Татьяной перейдут куда-нибудь, а как облава кончится, опять на свое место воротятся. У них избушка в полугоре, у ключика, была срублена. Небольшая избушечка, вроде покосного балагашка.</z>
+<z><o></o>Три зимы тут Марко выжил. Все ему охота было Колтовчиху где на дороге застукать. Только она тоже умная оказалась. После того случаю вовсе не стала никуда ездить. Когда в город случится, так с ней народу &mdash; как в поход какой. А в лес либо на пруду покататься, как раньше бывало, ни-ни. Она, видать, знала, что Марко ее подстерегал где-то недалеко. Корила всех:</z>
+<z><o></o>&mdash; Неверные, дескать, вы слуги, беглых в лесах укрываете. Где у вас Марко Береговик? Кто его кормит?</z>
+<z><o></o>Каждый, понятно, отговаривался, как умел, а многие знали.</z>
+<z><o></o>Потом уж Марко с Татьяной ушли. У них, сказывали, ребеночек родился. Ну, где же с дитем в лесу жить. Хлопотно. Они и подались в Сибирь, на вольные земли.</z>
+<z><o></o>Колтовчихе об этом сказывали, да она не поверила.</z>
+<z><o></o>&mdash; Не заманите, &mdash; говорит, &mdash; меня в лес! &mdash; И тоже убралась куда-то с наших заводов.</z>
+<z><o></o>Вот гора, где у Марка избушка стояла, и зовется &mdash; Марков камень.<div class="epigraf_source"></div></z>
+<div class="i0 tc" style="padding-top:.5em;border-bottom:1px solid #666;width:6em;margin:auto;position:relative"><span class="rel bg1" style="top:.4em;color:#666;padding:0em .2em;line-height:.8em">&#10022;</span></div><iframe id="noteFrame"></iframe><div id="tbd"></div><script>
+nf=ge("noteFrame");
+nf.onload = () => {
+	nfd=nf.contentWindow.document;
+	nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+}
+nfd=nf.contentWindow.document;
+nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+
+tf=ge("tocFrame");
+tf.onload = () => {
+	tfd=tf.contentWindow.document;
+	tfd.addEventListener("click",function(e){eid=tfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="tocHide")hideToc();},true);
+}
+</script>
+</div>
+<div id="s" style="height:0em"></div>
+<div class="tc" style="margin:3em -6px 1em">
+<div id="yar"></div>
+</div>
+
+
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">&copy; Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div><script>
+turl = new URL(document.URL);
+if (turl.hash != '')
+{
+	window.addEventListener('load',function(){scrollToId();});
+} 
+
+function scrollToId() {
+	ah_e = document.getElementById('ex_a' + turl.hash.substring(3));
+	ah_e.scrollIntoView({ block: "start" });
+}
+var cntr=0;</script>
+
+</div>
+
+<div id="f_r1" style="background-color:#e6e0d3">
+<div class="f" style="height:100%;border-left:1px solid #7f7f96;padding:0em"><div id="in" class="f fc jsb ci" style="width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div class="rel tc">
+<div id="right-rectangle-stick-1" class="ib" style="max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+</script>
+<div id="gglad" class="ib" style="max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+ <div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+  <div class="tc">
+	 <div id="right-rectangle-stick-2" class="ib" style="max-width:400px"></div>
+   <div id="btmad" class="ib" style="max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+	</div>
+ </div></div>
+</div>
+</div></div>
+</div>
+</div>
+
+</div>
+</div><div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: <a href="mailto:otklik@ilibrary.ru">otklik@ilibrary.ru</a></span><span class="bmi"><a href="/aboutilibrary/">О библиотеке</a></span><span class="bmi"><a href="/reklama.phtml">Реклама на сайте</a></span></div>
+<div>&copy;1996&#151;2026 Алексей Комаров. Подборка&nbsp;произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+<a href="https://metrika.yandex.ru/stat/?id=5179000&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/5179000/3_0_FFFFF0FF_E0E0D0FF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="5179000" data-lang="ru" /></a>
+<script type="text/javascript" >   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div><img src="https://mc.yandex.ru/watch/5179000" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+setBrackets();
+setArrows();setPoems();
+window.addEventListener('scroll',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+});
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(setBrackets)!=='undefined') setBrackets();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+if(cntr)document.write(cntr);</script>
+</div>
+</BODY>
+</HTML>
+<!-- 0.00051777 -->

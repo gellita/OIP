@@ -1,0 +1,279 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML lang="ru">
+
+<HEAD>
+<TITLE>Х. К. Андерсен. Эльф розового куста. Текст произведения</TITLE>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<META NAME="Keywords" CONTENT="русская классическая литература интернет-библиотека Алексея Комарова текст читать Ханс Андерсен Эльф розового куста">
+<META NAME="Description" CONTENT='Ханс Андерсен. Эльф розового куста. Текст произведения. Источник: Х. К. Андерсен. Сказки, рассказанные детям; Новые сказки. М.: Наука, 1983. (Литературные памятники). Интернет-библиотека Алексея Комарова'>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+<link id="mainCSS" rel=stylesheet type="text/css" href="/etc/styles4_18.css">
+<script src="https://yandex.ru/ads/system/header-bidding.js" async></script>
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+<script async src="https://cdn.skcrtxr.com/roxot-wrapper/js/roxot-manager.js?pid=8c86a31e-948e-4d37-9b5a-304d2fbc4c0c"></script>
+
+<script src="/js/adplacements3.js"></script>
+<script async>
+lgl=1;function ge(e){return document.getElementById(e)}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function gr(e){return e.getBoundingClientRect()}
+function ih(e,c){e.innerHTML=c}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+id_t=4645;</script>
+<script src="/js/ev3.js"></script>
+</HEAD>
+
+<BODY>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<span id="svg"></span>
+<div id="hdr" class="hdr">
+ <div class="logo">
+  <div class="logo1 rel">
+   <a href="/" title="Читаем книги онлайн. Интернет-библиотека Алексея Комарова">
+    <div id="lmini"><svg style="width:4.9em;height:2.5em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="800 15 1500 1600"><use xlink:href="#logoMini" /></svg></div>
+    <div id="lmaxi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoBg" /><use xlink:href="#logoMaxi" /></svg></div>
+    <div id="lmidi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoMidi" /></svg></div>
+   </a>
+	</div>
+ </div>
+ <div id="qs1" class="qson">
+  <form id="sf2" method=get action="/search.phtml"><div id="sf1" style="display:flex;align-items:stretch">
+	<div><input class="tf" id="qi1" size=200 type="text" name="q" placeholder="Поиск: автор и/или название произведения" value=""></div>
+	<div id="sb" class="sb" style="">
+	<input id="ss" type="submit" value="Найти"><span id="smg"><svg id="sb1" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="60 0 115 140">
+<use xlink:href="#mglass" /></svg></span></div></div>
+</form>
+</div>
+<div id="sm" class="m"><a style="width:1.2em;white-space:nowrap" href="#" class="ma" onclick="toggle_sf();">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="65 18 115 115"><use xlink:href="#mglass" /></svg>
+</a></div>
+<div class="m"><a href="/author.html" class="ma">Авторы</a></div>
+<div class="spce">&nbsp;</div>
+</div>
+<div id="ex" class="l">
+<div id="lft0">
+<div class="f fc" style="justify-content:space-between">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+
+	<div id="text" class="t hya">
+	<div id="thdr" class="thdr">
+<a href="/author/hkandersen/index.html">Х. К. Андерсен</a>. <a href="/text/4645/index.html">Эльф розового куста</a></div>
+
+<div class="author">Ханс Кристиан Андерсен</div>
+<div class="title"><h1>Эльф розового куста</h1></div>
+<z><o></o>В саду красовался розовый куст, весь усыпанный чудными розами. В одной из них, самой прекрасной меж всеми, жил эльф, такой крошечный, что человеческим глазом его и не разглядеть было. За каждым лепестком розы у него было по спальне; сам он был удивительно нежен и мил, ну точь-в-точь хорошенький ребенок, только с большими крыльями за плечами. А какой аромат стоял в его комнатах, как красивы и прозрачны были их стены! То были ведь нежные лепестки розы.</z>
+<z><o></o>Весь день эльф играл на солнышке, порхал с цветка на цветок, плясал на крыльях у резвых мотыльков и подсчитывал, сколько шагов пришлось бы ему сделать, чтобы обежать все дорожки и тропинки на одном липовом листе. За дорожки и тропинки он принимал жилки листа, да они и были для него бесконечными дорогами! Раз не успел он обойти и половины их, глядь &mdash; солнышко уж закатилось; он и начал-то, впрочем, не рано.</z>
+<z><o></o>Стало холодно, пала роса, подул ветер, эльф рассудил, что пора домой и заторопился изо всех сил, но когда добрался до своей розы, оказалось, что она уже закрылась и ему нельзя было попасть в нее; успели закрыться и все остальные розы. Бедный крошка эльф перепугался: никогда еще не оставался он на ночь без приюта, всегда сладко спал между розовыми лепестками, а теперь!.. Ах, верно, не миновать ему смерти!</z>
+<z><o></o>Вдруг он вспомнил, что на другом конце сада есть беседка, вся увитая чудеснейшими каприфолиями; в одном из этих больших пестрых цветков, похожих на рога, он и решил проспать до утра.</z>
+<z><o></o>И вот он полетел туда. Тсс! Тут были люди: красивый молодой человек и премиленькая девушка. Они сидели рядышком и хотели бы век не расставаться &mdash; они так горячо любили друг друга, куда горячее, нежели самый добрый ребенок любит своих маму и папу.</z>
+<z><o></o><i>&mdash;</i> Увы! Мы должны расстаться! &mdash; сказал молодой человек. &mdash; Твой брат не хочет нашего счастья и потому отсылает меня с поручением далеко-далеко за море! Прощай же, дорогая моя невеста! Я все-таки имею право назвать тебя так!</z>
+<z><o></o>И они поцеловались. Молодая девушка заплакала и дала ему на намять о себе розу, но сначала запечатлела на ней такой крепкий и горячий поцелуй, что цветок раскрылся. Эльф сейчас же влетел в него и прислонился головкой к нежным, душистым стенкам.</z>
+<z><o></o>Вот раздалось последнее &laquo;прощай&raquo;, и эльф почувствовал, что роза заняла место на груди молодого человека. О, как билось его сердце! Крошка эльф просто не мог заснуть от этой стукотни.</z>
+<z><o></o>Недолго, однако, пришлось розе покоиться на груди. Молодой человек вынул ее и, проходя, по большой темной роще, целовал цветок так часто и так крепко, что крошка эльф чуть не задохся. Он ощущал сквозь лепестки цветка, как горели губы молодого человека, сама роза раскрылась, словно под лучами полуденного солнца.</z>
+<z><o></o>Тут появился другой человек &mdash; мрачный и злой, это был брат красивой молодой девушки. Он вытащил большой острый нож и убил молодого человека, целовавшего цветок, затем отрезал ему голову и зарыл ее вместе с туловищем в рыхлую землю под липой.</z>
+<z><o></o>&laquo;Теперь о нем не будет и помина! &mdash; подумал злой брат. &mdash; Небось не вернется больше. Ему предстоял далекий путь за море, а в таком пути нетрудно проститься с жизнью; ну вот так оно и случилось! Вернуться он больше не вернется, и спрашивать о нем сестра меня не посмеет&raquo;.</z>
+<z><o></o>И он нашвырял ногами на то место, где схоронил убитого, сухих листьев и пошел домой. Но шел он во тьме ночной не один; с ним был крошка эльф. Эльф сидел в сухом, свернувшемся в трубочку, липовом листке, упавшем злодею на голову в то время, как тот зарывал яму. Окончив работу, убийца надел на голову, шляпу; под ней было страх как темно, и крошка эльф весь дрожал от ужаса и от негодования на злодея.</z>
+<z><o></o>На заре злой человек воротился домой, снял шляпу и прошел в спальню сестры. Молодая цветущая красавица спала и видела во сне того, кого она так любила и кто уехал теперь, как она думала, за море. Злой брат наклонился над ней и засмеялся злобным, дьявольским смехом; сухой листок выпал из его волос на одеяло сестры, но он не заметил этого, и ушел к себе соснуть до утра. Эльф выкарабкался из сухого листка, приблизился к самому уху молодой девушки и рассказал ей во сне об ужасном убийстве, описал место, где оно произошло, цветущую липу, под которой убийца зарыл тело, и наконец добавил: &laquo;А чтобы ты не приняла всего этого за простой сон, я оставлю на твоей постели сухой листок&raquo;. И она нашла этот листок, когда проснулась.</z>
+<z><o></o>О, как горько она плакала! Но никому не смела бедняжка доверить своего горя. Окно стояло отворенным целый день, крошка эльф легко мог выпорхнуть в сад и лететь к розам и другим цветам, но ему не хотелось оставлять бедняжку одну. На окне в цветочном горшке росла роза; он уселся в один из ее цветов и глаз не сводил с убитой горем девушки. Брат ее несколько раз входил в комнату и был злобно-весел; она же не смела и заикнуться ему о своем сердечном горе.</z>
+<z><o></o>Как только настала ночь, девушка потихоньку вышла из дома, отправилась в рощу прямо к липе, разбросала сухие листья, разрыла землю и нашла убитого. Ах, как она плакала и молила бога, чтобы он послал смерть и ей.</z>
+<z><o></o>Она бы охотно унесла с собой дорогое тело, да нельзя было, и вот она взяла бледную голову с закрытыми глазами, поцеловала холодные губы и отряхнула землю с прекрасных волос.</z>
+<z><o></o>&mdash; Оставлю же себе хоть это! &mdash; сказала она, зарыла тело и опять набросала на то место сухих листьев, а голову унесла с собой, вместе с небольшою веточкой жасмина, который цвел в роще.</z>
+<z><o></o>Придя домой, она отыскала самый большой цветочный горшок, положила туда голову убитого, засыпала ее землей и посадила жасминовую веточку.</z>
+<z><o></o>&mdash; Прощай! Прощай! &mdash; прошептал крошка эльф; он не мог вынести такого печального зрелища и улетел в сад к своей розе, но она уже отцвела, и вокруг зеленого плода держалось всего два-три поблекших лепестка.</z>
+<z><o></o>&mdash; Ах, как скоро приходит конец всему хорошему и прекрасному! &mdash; вздохнул эльф.</z>
+<z><o></o>В конце концов он отыскал себе другую розу и уютно зажил между ее благоухающими лепестками. Но каждое утро летал он к окну несчастной девушки и всегда находил ее всю в слезах подле цветочного горшка. Горькие слезы ручьями лились на жасминовую веточку, и по мере того как сама девушка день ото дня бледнела и худела, веточка все росла да зеленела, пуская один отросток за другим. Скоро появились и маленькие бутончики; девушка целовала их, а злой брат сердился и спрашивал, не сошла ли она с ума; иначе он ничем не мог объяснить себе эти вечные слезы, которые она проливала над цветком. Он ведь не знал, чьи закрытые глаза, чьи розовые губы превратились в землю в этом горшке. А бедная сестра его склонила раз головку к цветку, да так и задремала; как раз в это время прилетел крошка эльф, прильнул к ее уху и стал рассказывать ей о последнем ее свидании с милым в беседке, о благоухании роз, о любви эльфов... Девушка спала так сладко, и среди этих чудных грез незаметно отлетела от нее жизнь. Она умерла и соединилась на небе с тем, кого так любила.</z>
+<z><o></o>На жасмине раскрылись белые цветы, похожие на колокольчики, и по всей комнате разлился чудный, нежный аромат &mdash; только так могли цветы оплакать усопшую.</z>
+<z><o></o>Злой брат посмотрел на красивый цветущий куст, взял его себе в наследство после умершей сестры и поставил у себя в спальне возле самой кровати. Крошка эльф последовал за ним и стал летать от одного колокольчика к другому; в каждом жил маленький дух, и эльф рассказал им всем об убитом молодом человеке, о злом брате и о бедной сестре.</z>
+<z><o></o>&mdash; Знаем! Знаем! Ведь мы выросли из глаз и из губ убитого! &mdash; ответили духи цветов и при этом как-то странно покачали головками.</z>
+<z><o></o>Эльф не мог понять, как могут они оставаться такими равнодушными, полетел к пчелам, которые собирали мед, и тоже рассказал им о злом брате. Пчелы пересказали это своей царице, и та решила, что все они на следующее же утро накажут убийцу.</z>
+<z><o></o>А ночью &mdash; это была первая ночь после смерти сестры, &mdash; когда брат спал близ благоухающего жасминового куста, каждый колокольчик раскрылся, и оттуда вылетел невидимый, но вооруженный ядовитым копьем дух цветка. Все они подлетели к уху спящего и стали нашептывать ему страшные сны, потом сели на его губы и вонзили ему в язык свои ядовитые копья.</z>
+<z><o></o>&mdash; Теперь мы отомстили за убитого! &mdash; сказали они и опять спрятались в белые колокольчики жасмина.</z>
+<z><o></o>Утром окно в спальне вдруг распахнулось, и влетели эльф и царица пчел с своим роем; они явились убить злого брата.</z>
+<z><o></o>Но он уже умер. Вокруг постели толпились люди и говорили:</z>
+<z><o></o>&mdash; Его убил сильный запах цветов.</z>
+<z><o></o>Тогда эльф понял, что то была месть цветов, и рассказал об этом царице пчел, а она со всем своим роем принялась летать и жужжать вокруг благоухающего куста. Нельзя было отогнать пчел, и кто-то из присутствовавших хотел унести куст в другую комнату, но одна пчела ужалила его в руку, он уронил цветочный горшок, и тот разбился вдребезги.</z>
+<z><o></o>Тут все увидали череп убитого и поняли, кто был убийца.</z>
+<z><o></o>А царица пчел с шумом полетела по воздуху и жужжала о мести цветов, об эльфе и о том, что даже за самым крошечным лепестком скрывается кто-то, кто может рассказать о преступлении и наказать преступника.</z>
+<div class="i0 tc" style="padding-top:.5em;border-bottom:1px solid #666;width:6em;margin:auto;position:relative"><span class="rel bg1" style="top:.4em;color:#666;padding:0em .2em;line-height:.8em">&#10022;</span></div><iframe id="noteFrame"></iframe><div id="tbd"></div><script>
+nf=ge("noteFrame");
+nf.onload = () => {
+	nfd=nf.contentWindow.document;
+	nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+}
+nfd=nf.contentWindow.document;
+nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+
+tf=ge("tocFrame");
+tf.onload = () => {
+	tfd=tf.contentWindow.document;
+	tfd.addEventListener("click",function(e){eid=tfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="tocHide")hideToc();},true);
+}
+</script>
+</div>
+<div id="s" style="height:0em"></div>
+<div class="tc" style="margin:3em -6px 1em">
+<div id="yar"></div>
+</div>
+
+
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">&copy; Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div><script>
+turl = new URL(document.URL);
+if (turl.hash != '')
+{
+	window.addEventListener('load',function(){scrollToId();});
+} 
+
+function scrollToId() {
+	ah_e = document.getElementById('ex_a' + turl.hash.substring(3));
+	ah_e.scrollIntoView({ block: "start" });
+}
+var cntr=0;</script>
+
+</div>
+
+<div id="f_r1" style="background-color:#e6e0d3">
+<div class="f" style="height:100%;border-left:1px solid #7f7f96;padding:0em"><div id="in" class="f fc jsb ci" style="width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div class="rel tc">
+<div id="right-rectangle-stick-1" class="ib" style="max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+</script>
+<div id="gglad" class="ib" style="max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+ <div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+  <div class="tc">
+	 <div id="right-rectangle-stick-2" class="ib" style="max-width:400px"></div>
+   <div id="btmad" class="ib" style="max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+	</div>
+ </div></div>
+</div>
+</div></div>
+</div>
+</div>
+
+</div>
+</div><div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: <a href="mailto:otklik@ilibrary.ru">otklik@ilibrary.ru</a></span><span class="bmi"><a href="/aboutilibrary/">О библиотеке</a></span><span class="bmi"><a href="/reklama.phtml">Реклама на сайте</a></span></div>
+<div>&copy;1996&#151;2026 Алексей Комаров. Подборка&nbsp;произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+<a href="https://metrika.yandex.ru/stat/?id=5179000&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/5179000/3_0_FFFFF0FF_E0E0D0FF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="5179000" data-lang="ru" /></a>
+<script type="text/javascript" >   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div><img src="https://mc.yandex.ru/watch/5179000" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+setBrackets();
+setArrows();setPoems();
+window.addEventListener('scroll',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+});
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(setBrackets)!=='undefined') setBrackets();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+if(cntr)document.write(cntr);</script>
+</div>
+</BODY>
+</HTML>
+<!-- 0.000501713 -->

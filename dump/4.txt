@@ -1,0 +1,275 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML lang="ru">
+
+<HEAD>
+<TITLE>Х. К. Андерсен. Ангел. Текст произведения</TITLE>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<META NAME="Keywords" CONTENT="русская классическая литература интернет-библиотека Алексея Комарова текст читать Ханс Андерсен Ангел">
+<META NAME="Description" CONTENT='Ханс Андерсен. Ангел. Текст произведения. Источник: Х. К. Андерсен. Сказки, рассказанные детям; Новые сказки. М.: Наука, 1983. (Литературные памятники). Интернет-библиотека Алексея Комарова'>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+<link id="mainCSS" rel=stylesheet type="text/css" href="/etc/styles4_18.css">
+<script src="https://yandex.ru/ads/system/header-bidding.js" async></script>
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+<script async src="https://cdn.skcrtxr.com/roxot-wrapper/js/roxot-manager.js?pid=8c86a31e-948e-4d37-9b5a-304d2fbc4c0c"></script>
+
+<script src="/js/adplacements3.js"></script>
+<script async>
+lgl=1;function ge(e){return document.getElementById(e)}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function gr(e){return e.getBoundingClientRect()}
+function ih(e,c){e.innerHTML=c}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+id_t=4651;</script>
+<script src="/js/ev3.js"></script>
+</HEAD>
+
+<BODY>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<span id="svg"></span>
+<div id="hdr" class="hdr">
+ <div class="logo">
+  <div class="logo1 rel">
+   <a href="/" title="Читаем книги онлайн. Интернет-библиотека Алексея Комарова">
+    <div id="lmini"><svg style="width:4.9em;height:2.5em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="800 15 1500 1600"><use xlink:href="#logoMini" /></svg></div>
+    <div id="lmaxi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoBg" /><use xlink:href="#logoMaxi" /></svg></div>
+    <div id="lmidi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoMidi" /></svg></div>
+   </a>
+	</div>
+ </div>
+ <div id="qs1" class="qson">
+  <form id="sf2" method=get action="/search.phtml"><div id="sf1" style="display:flex;align-items:stretch">
+	<div><input class="tf" id="qi1" size=200 type="text" name="q" placeholder="Поиск: автор и/или название произведения" value=""></div>
+	<div id="sb" class="sb" style="">
+	<input id="ss" type="submit" value="Найти"><span id="smg"><svg id="sb1" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="60 0 115 140">
+<use xlink:href="#mglass" /></svg></span></div></div>
+</form>
+</div>
+<div id="sm" class="m"><a style="width:1.2em;white-space:nowrap" href="#" class="ma" onclick="toggle_sf();">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="65 18 115 115"><use xlink:href="#mglass" /></svg>
+</a></div>
+<div class="m"><a href="/author.html" class="ma">Авторы</a></div>
+<div class="spce">&nbsp;</div>
+</div>
+<div id="ex" class="l">
+<div id="lft0">
+<div class="f fc" style="justify-content:space-between">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+
+	<div id="text" class="t hya">
+	<div id="thdr" class="thdr">
+<a href="/author/hkandersen/index.html">Х. К. Андерсен</a>. <a href="/text/4651/index.html">Ангел</a></div>
+
+<div class="title" ID="tc4686" STYLE="display:none">
+<h1>Новые сказки</h1>
+<h2>Первый том</h2>
+<h3>Первый выпуск
+<br>1844</h3>
+</div>
+
+
+<div class="dedication2" ID="d2c4686" STYLE="display:none">
+Поэту Карлу Баггеру <br>
+приношу в дар эти страницы, как скромный знак благодарности за те свежие мысли и теплые чувства, коими одарили меня его богатейшие поэтические сочинения
+</div>
+
+
+<div class="author">Ханс Кристиан Андерсен</div>
+<div class="title"><h1>Ангел</h1></div>
+<z><o></o>Каждый раз, как умирает доброе, хорошее дитя, с неба спускается божий ангел, берет дитя на руки и облетает с ним на своих больших крыльях все его любимые места. По пути ангел с ребенком набирают целый букет разных цветов и берут их с собою на небо, где они расцветают еще пышнее, чем на земле. Бог прижимает все цветы к своему сердцу, а один цветок, который покажется ему милее всех, целует; цветок получает тогда голос и может присоединиться к хору блаженных духов.</z>
+<z><o></o>Все это рассказывал божий ангел умершему ребенку, неся его в своих объятиях на небо; дитя слушало ангела, как сквозь сон. Они пролетали над теми местами, где так часто играло дитя при жизни, пролетали над зелеными садами, где росло множество чудесных цветов.</z>
+<z><o></o>&mdash; Какие же взять нам с собою на небо? &mdash; спросил ангел.</z>
+<z><o></o>В саду стоял прекрасный, стройный розовый куст, но чья-то злая рука надломила его, так что ветви, усыпанные большими подраспустившимися бутонами, почти совсем завяли и печально повисли.</z>
+<z><o></o>&mdash; Бедный куст! &mdash; сказало дитя. &mdash; Возьмем его, чтобы он опять расцвел там, у боженьки.</z>
+<z><o></o>Ангел взял куст и так крепко поцеловал дитя, что оно слегка приоткрыло глазки. Потом они нарвали еще много пышных цветов, но, кроме них, взяли и скромный златоцвет и простенькие анютины глазки.</z>
+<z><o></o>&mdash; Ну вот, теперь и довольно! &mdash; сказал ребенок, но ангел покачал головой и они полетели дальше.</z>
+<z><o></o>Ночь была тихая, светлая; весь город спал; они пролетали над одной из самых узких улиц. На мостовой валялась солома, зола и всякий хлам; черепки, обломки алебастра, тряпки, старые донышки от шляп, словом, все, что уже отслужило свой век или потеряло всякий вид; накануне как раз был день переезда.</z>
+<z><o></o>И ангел указал на валявшийся среди этого хлама разбитый цветочный горшок, из которого вывалился ком земли, весь оплетенный корнями большого полевого цветка; цветок завял и никуда больше не годился, его и выбросили.</z>
+<z><o></o>&mdash; Возьмем его с собою! &mdash; сказал ангел. &mdash; Я расскажу тебе про этот цветок, пока мы летим!</z>
+<z><o></o>И ангел стал рассказывать.</z>
+<z><o></o>&mdash; В этой узкой улице, в низком подвале, жил бедный больной мальчик. С самых ранних лет он вечно лежал в постели; когда же чувствовал себя особенно хорошо, то проходил на костылях по своей каморке раза два взад и вперед, вот и все. Иногда летом солнышко заглядывало на полчаса и в подвал; тогда мальчик садился на солнышке и, держа руки против света, любовался, как просвечивает в его тонких пальцах алая кровь; такое сидение на солнышке заменяло ему прогулку. О богатом весеннем уборе лесов он знал только потому, что сын соседа приносил ему весною первую распустившуюся буковую веточку; бедняжка держал ее над головой и переносился мыслью под зеленые буки, где сияло солнышко и распевали птички. Раз сын соседа принес мальчику и полевых цветов, между ними был один с корнем; мальчик посадил его в цветочный горшок и поставил на окно близ своей кроватки. Видно, легкая рука посадила цветок: он принялся, стал расти, пускать новые отростки, каждый год цвел и был для мальчика целым садом, его маленьким земным сокровищем. Мальчик поливал его, ухаживал за ним и заботился о том, чтобы его не миновал ни один луч, который только пробирался в каморку. Ребенок жил и дышал своим любимцем, ведь тот цвел, благоухал и хорошел для него одного. К цветку повернулся мальчик далее в ту последнюю минуту, когда его отзывал к себе господь бог... Вот уже целый год, как мальчик у бога; целый год стоял цветок, всеми забытый, на окне, завял, засох и был выброшен на улицу вместе с прочим хламом. Этот-то бедный, увядший цветочек мы и взяли с собой: он доставил куда больше радости, чем самый пышный цветок в саду королевы.</z>
+<z><o></o>&mdash; Откуда ты знаешь все это? &mdash; спросило дитя.</z>
+<z><o></o>&mdash; Знаю! &mdash; отвечал ангел. &mdash; Ведь я сам был тем бедным калекою мальчиком, что ходил на костылях! Я узнал свой цветок!</z>
+<z><o></o>И дитя широко-широко открыло глазки, вглядываясь в прелестное, радостное лицо ангела. В ту же самую минуту они очутились на небе у бога, где царят вечные радость и блаженство. Бог прижал к своему сердцу умершее дитя &mdash; и у него выросли крылья, как у других ангелов, и он полетел рука об руку с ними. Бог прижал к сердцу и все цветы, поцеловал же только бедный, увядший полевой цветок, и тот присоединил свой голос к хору ангелов, которые окружали бога; одни летали возле него, другие подальше, третьи еще дальше, и так до бесконечности, но все были равно блаженны. Все они пели &mdash; и малые, и большие, и доброе, только что умершее дитя, и бедный полевой цветочек, выброшенный на мостовую вместе с сором и хламом.</z>
+<div class="i0 tc" style="padding-top:.5em;border-bottom:1px solid #666;width:6em;margin:auto;position:relative"><span class="rel bg1" style="top:.4em;color:#666;padding:0em .2em;line-height:.8em">&#10022;</span></div><iframe id="noteFrame"></iframe><div id="tbd"></div><script>
+nf=ge("noteFrame");
+nf.onload = () => {
+	nfd=nf.contentWindow.document;
+	nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+}
+nfd=nf.contentWindow.document;
+nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+
+tf=ge("tocFrame");
+tf.onload = () => {
+	tfd=tf.contentWindow.document;
+	tfd.addEventListener("click",function(e){eid=tfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="tocHide")hideToc();},true);
+}
+</script>
+</div>
+<div id="s" style="height:0em"></div>
+<div class="tc" style="margin:3em -6px 1em">
+<div id="yar"></div>
+</div>
+
+
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">&copy; Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div><script>
+turl = new URL(document.URL);
+if (turl.hash != '')
+{
+	window.addEventListener('load',function(){scrollToId();});
+} 
+
+function scrollToId() {
+	ah_e = document.getElementById('ex_a' + turl.hash.substring(3));
+	ah_e.scrollIntoView({ block: "start" });
+}
+var cntr=0;</script>
+
+</div>
+
+<div id="f_r1" style="background-color:#e6e0d3">
+<div class="f" style="height:100%;border-left:1px solid #7f7f96;padding:0em"><div id="in" class="f fc jsb ci" style="width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div class="rel tc">
+<div id="right-rectangle-stick-1" class="ib" style="max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+</script>
+<div id="gglad" class="ib" style="max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+ <div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+  <div class="tc">
+	 <div id="right-rectangle-stick-2" class="ib" style="max-width:400px"></div>
+   <div id="btmad" class="ib" style="max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+	</div>
+ </div></div>
+</div>
+</div></div>
+</div>
+</div>
+
+</div>
+</div><div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: <a href="mailto:otklik@ilibrary.ru">otklik@ilibrary.ru</a></span><span class="bmi"><a href="/aboutilibrary/">О библиотеке</a></span><span class="bmi"><a href="/reklama.phtml">Реклама на сайте</a></span></div>
+<div>&copy;1996&#151;2026 Алексей Комаров. Подборка&nbsp;произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+<a href="https://metrika.yandex.ru/stat/?id=5179000&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/5179000/3_0_FFFFF0FF_E0E0D0FF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="5179000" data-lang="ru" /></a>
+<script type="text/javascript" >   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div><img src="https://mc.yandex.ru/watch/5179000" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+setBrackets();
+setArrows();setPoems();
+window.addEventListener('scroll',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+});
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(setBrackets)!=='undefined') setBrackets();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+if(cntr)document.write(cntr);</script>
+</div>
+</BODY>
+</HTML>
+<!-- 0.000481843 -->

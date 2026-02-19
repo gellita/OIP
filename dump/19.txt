@@ -1,0 +1,299 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML lang="ru">
+
+<HEAD>
+<TITLE>Х. К. Андерсен. Новый наряд короля. Текст произведения</TITLE>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<META NAME="Keywords" CONTENT="русская классическая литература интернет-библиотека Алексея Комарова текст читать Ханс Андерсен Новый наряд короля">
+<META NAME="Description" CONTENT='Ханс Андерсен. Новый наряд короля. Текст произведения. Источник: Х. К. Андерсен. Сказки, рассказанные детям; Новые сказки. М.: Наука, 1983. (Литературные памятники). Интернет-библиотека Алексея Комарова'>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+<link id="mainCSS" rel=stylesheet type="text/css" href="/etc/styles4_18.css">
+<script src="https://yandex.ru/ads/system/header-bidding.js" async></script>
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+<script async src="https://cdn.skcrtxr.com/roxot-wrapper/js/roxot-manager.js?pid=8c86a31e-948e-4d37-9b5a-304d2fbc4c0c"></script>
+
+<script src="/js/adplacements3.js"></script>
+<script async>
+lgl=1;function ge(e){return document.getElementById(e)}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function gr(e){return e.getBoundingClientRect()}
+function ih(e,c){e.innerHTML=c}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+id_t=4625;</script>
+<script src="/js/ev3.js"></script>
+</HEAD>
+
+<BODY>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<span id="svg"></span>
+<div id="hdr" class="hdr">
+ <div class="logo">
+  <div class="logo1 rel">
+   <a href="/" title="Читаем книги онлайн. Интернет-библиотека Алексея Комарова">
+    <div id="lmini"><svg style="width:4.9em;height:2.5em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="800 15 1500 1600"><use xlink:href="#logoMini" /></svg></div>
+    <div id="lmaxi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoBg" /><use xlink:href="#logoMaxi" /></svg></div>
+    <div id="lmidi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoMidi" /></svg></div>
+   </a>
+	</div>
+ </div>
+ <div id="qs1" class="qson">
+  <form id="sf2" method=get action="/search.phtml"><div id="sf1" style="display:flex;align-items:stretch">
+	<div><input class="tf" id="qi1" size=200 type="text" name="q" placeholder="Поиск: автор и/или название произведения" value=""></div>
+	<div id="sb" class="sb" style="">
+	<input id="ss" type="submit" value="Найти"><span id="smg"><svg id="sb1" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="60 0 115 140">
+<use xlink:href="#mglass" /></svg></span></div></div>
+</form>
+</div>
+<div id="sm" class="m"><a style="width:1.2em;white-space:nowrap" href="#" class="ma" onclick="toggle_sf();">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="65 18 115 115"><use xlink:href="#mglass" /></svg>
+</a></div>
+<div class="m"><a href="/author.html" class="ma">Авторы</a></div>
+<div class="spce">&nbsp;</div>
+</div>
+<div id="ex" class="l">
+<div id="lft0">
+<div class="f fc" style="justify-content:space-between">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+
+	<div id="text" class="t hya">
+	<div id="thdr" class="thdr">
+<a href="/author/hkandersen/index.html">Х. К. Андерсен</a>. <a href="/text/4625/index.html">Новый наряд короля</a></div>
+
+<div class="author">Ханс Кристиан Андерсен</div>
+<div class="title"><h1>Новый наряд короля</h1></div>
+<z><o></o>Давным-давно жил-был на свете король; он так любил наряжаться, что тратил на наряды все свои деньги, и смотры войскам, театры, загородные прогулки занимали его только потому, что он мог тогда показаться в новом наряде. На каждый час дня у него был особый наряд, и как про других королей часто говорят: &laquo;Король в совете&raquo;, так про него говорили: &laquo;Король в гардеробной&raquo;.</z>
+<z><o></o>В столице короля жилось очень весело; каждый день почти приезжали иностранные гости, и вот раз явились двое обманщиков. Они выдали себя за ткачей, которые умеют изготовлять такую чудесную ткань, лучше которой ничего и представить себе нельзя: кроме необыкновенно красивого рисунка и расцветки, она отличалась еще удивительным свойством &mdash; становиться невидимой для всякого человека, который был не на своем месте или непроходимо глуп.</z>
+<z><o></o>&laquo;Да, вот это будет платье! &mdash; подумал король. &mdash; Тогда ведь я могу узнать, кто из моих сановников не на своем месте и кто умен, а кто глуп. Пусть поскорее изготовят для меня такую ткань&raquo;.</z>
+<z><o></o>И он дал обманщикам большой задаток, чтобы они сейчас же принялись за дело.</z>
+<z><o></o>Те поставили два ткацких станка и стали делать вид, будто усердно работают, а у самих на станках ровно ничего не было. Нимало не стесняясь, они требовали для работы тончайшего шелку и чистейшего золота, все это припрятывали в карманы и продолжали сидеть за пустыми станками с утра до поздней ночи.</z>
+<z><o></o>&laquo;Хотелось бы мне посмотреть, как подвигается дело!&raquo;&mdash; думал король. Но тут он вспоминал о чудесном свойстве ткани, и ему становилось как-то не по себе. Конечно, ему нечего бояться за себя, но... все-таки пусть бы сначала пошел кто-нибудь другой! А между тем молва о диковинной ткани облетела весь город, и всякий горел желанием поскорее убедиться в глупости или негодности своего ближнего.</z>
+<z><o></o>&laquo;Пошлю-ка я к ним своего честного старика министра, &mdash; подумал король. &mdash; Уж он-то рассмотрит ткань; он умен и с честью занимает свое место&raquo;.</z>
+<z><o></o>И вот старик министр вошел в покой, где сидели за пустыми станками обманщики.</z>
+<z><o></o>&laquo;Господи помилуй! &mdash; думал министр, тараща глаза. &mdash; Я ведь ничего не вижу!&raquo;</z>
+<z><o></o>Только он не сказал этого вслух.</z>
+<z><o></o>Обманщики почтительно попросили его подойти поближе и сказать, как нравятся ему узор и краски. При этом они указывали на пустые станки, а бедный министр, как ни таращил глаза, все-таки ничего не видел. Да и нечего было видеть.</z>
+<z><o></o>&laquo;Ах ты господи! &mdash; думал он. &mdash; Неужели я глуп? Вот уж чего никогда не думал! Спаси боже, если кто-нибудь узнает!.. Или, может быть, я не гожусь для своей должности?.. Нет, нет, никак нельзя признаваться, что я не вижу ткани!&raquo;</z>
+<z><o></o>&mdash; Что ж вы ничего не скажете нам? &mdash; спросил один из ткачей.</z>
+<z><o></o>&mdash; О, это премило! &mdash; ответил старик министр, глядя сквозь очки. &mdash; Какой узор, какие краски! Да, да, я доложу королю, что мне чрезвычайно понравилась ваша работа!</z>
+<z><o></o>&mdash; Рады стараться! &mdash; сказали обманщики и принялись расписывать, какой тут необычайный узор и сочетание красок. Министр слушал очень внимательно, чтобы потом повторить все это королю. Так он и сделал.</z>
+<z><o></o>Теперь обманщики стали требовать еще больше денег, шелку и золота; но они только набивали себе карманы, а на работу не пошло ни одной ниточки. Как и прежде, они сидели у пустых станков и делали вид, что ткут.</z>
+<z><o></o>Потом король послал к ткачам другого достойного сановника. Он должен был посмотреть, как идет дело, и узнать, скоро ли работа будет закончена. С ним было то же, что и с первым. Уж он смотрел, смотрел, а все ничего, кроме пустых станков, не высмотрел.</z>
+<z><o></o>&mdash; Ну, как вам нравится? &mdash; спросили его обманщики, показывая ткань и объясняя узоры, которых и в помине не было.</z>
+<z><o></o>&laquo;Я не глуп, &mdash; думал сановник. &mdash; Значит, я не на своем месте? Вот тебе раз! Однако нельзя и виду подавать!&raquo;</z>
+<z><o></o>И он стал расхваливать ткань, которой не видел, восхищаясь чудесным рисунком и сочетанием красок.</z>
+<z><o></o>&mdash; Премило, премило! &mdash; доложил он королю.</z>
+<z><o></o>Скоро весь город заговорил о восхитительной ткани.</z>
+<z><o></o>Наконец король сам пожелал полюбоваться диковинкой, пока она еще не снята со станка.</z>
+<z><o></o>С целою свитой избранных придворных и сановников, в числе которых находились и первые два, уже видевшие ткань, явился король к хитрым обманщикам, ткавшим изо всех сил на пустых станках.</z>
+<z><o></o>&mdash; Magnifique!<fn><sup>&#8239;<a id="fnr1" class="fnr ho" name="fns1">1</a></sup></fn> Не правда ли? &mdash; заговорили первые два сановника. &mdash; Не угодно ли полюбоваться? Какой рисунок! Какие краски!</z>
+<z><o></o>И они тыкали пальцами в пространство, воображая, что все остальные видят ткань.</z>
+<z><o></o>&laquo;Да что же это такое! &mdash; подумал король. &mdash; Я ничего не вижу! Ведь это ужасно! Глуп я, что ли? Или не гожусь в короли? Это было бы хуже всего!&raquo;</z>
+<z><o></o>&mdash; О да, очень, очень мило! &mdash; сказал наконец король. &mdash; Вполне заслуживает моего одобрения.</z>
+<z><o></o>И он с довольным видом кивал головой, рассматривая пустые станки, &mdash; он не хотел признаться, что ничего не видит. Свита короля глядела во все глаза, но видела не больше его самого, и тем не менее все повторяли в один голос: &laquo;Очень, очень мило!&raquo; &mdash; и советовали королю сделать себе из этой ткани наряд для предстоящей торжественной процессии.</z>
+<z><o></o>&mdash; Magnifique! Чудесно! Excellent!<fn><sup>&#8239;<a id="fnr2" class="fnr ho" name="fns2">2</a></sup></fn> &mdash; только и слышалось со всех сторон; все были в таком восторге! Король наградил обманщиков рыцарским крестом в петлицу и пожаловал им звание придворных ткачей.</z>
+<z><o></o>Всю ночь накануне торжества просидели обманщики за работой и сожгли больше шестнадцати свечей, &mdash; всем было ясно, что они старались кончить к сроку новый наряд короля. Они притворялись, что снимают ткань со станков, кроят ее большими ножницами и потом шьют иголками без ниток.</z>
+<z><o></o>Наконец они объявили:</z>
+<z><o></o>&mdash; Готово!</z>
+<z><o></o>Король в сопровождении свиты сам пришел к ним одеваться. Обманщики поднимали кверху руки, будто держат что-то, приговаривая:</z>
+<z><o></o>&mdash; Вот панталоны, вот камзол, вот кафтан! Чудесный наряд! Легок, как паутина, и не почувствуешь его на теле. Но в этом-то вся и прелесть!</z>
+<z><o></o>&mdash; Да, да! &mdash; говорили придворные, но они ничего не видали, &mdash; нечего ведь было и видеть.</z>
+<z><o></o>&mdash; А теперь, ваше королевское величество, соблаговолите раздеться и стать вот тут, перед большим зеркалом! &mdash; сказали королю обманщики. &mdash; Мы нарядим вас.</z>
+<z><o></o>Король разделся, и обманщики принялись наряжать его: они делали вид, будто надевают на него одну часть одежды за другой и наконец прикрепляют что-то в плечах и на талии, &mdash; это они надевали на него королевскую мантию! А король в это время поворачивался перед зеркалом во все стороны.</z>
+<z><o></o>&mdash; Боже, как идет! Как чудно сидит! &mdash; шептали в свите. &mdash; Какой узор, какие краски! Роскошное платье!</z>
+<z><o></o>&mdash; Балдахин ждет! &mdash; доложил оберцеремониймейстер.</z>
+<z><o></o>&mdash; Я готов! &mdash; сказал король. &mdash; Хорошо ли сидит платье?</z>
+<z><o></o>И он еще раз повернулся перед зеркалом: надо ведь было показать, что он внимательно рассматривает свой наряд.</z>
+<z><o></o>Камергеры, которые должны были нести шлейф королевской мантии, сделали вид, будто приподняли что-то с полу, и пошли за королем, вытягивая перед собой руки, &mdash; они не смели и виду подать, что ничего не видят.</z>
+<z><o></o>И вот король шествовал по улицам под роскошным балдахином, а в народе говорили:</z>
+<z><o></o>&mdash; Ах, какой бесподобный наряд у короля! Как чудно сидит! Какая роскошная мантия!</z>
+<z><o></o>Ни единый человек не сознался, что ничего не видит, никто не хотел показаться глупцом или никуда не годным человеком. Да, ни один наряд короля не вызывал еще таких восторгов.</z>
+<z><o></o>&mdash; Да ведь он совсем голый! &mdash; закричал вдруг один маленький мальчик.</z>
+<z><o></o>&mdash; Послушайте-ка, что говорит невинный младенец! &mdash; сказал его отец, и все стали шепотом передавать друг другу слова ребенка.</z>
+<z><o></o>&mdash; Да ведь он совсем голый! &mdash; закричал наконец весь народ.</z>
+<z><o></o>И королю стало жутко: ему казалось, что они правы, но надо же было довести церемонию до конца!</z>
+<z><o></o>И он выступал под своим балдахином еще величавее, а камергеры шли за ним, поддерживая мантию, которой не было.</z>
+<div style="margin:1em 0em;background-color:#222;height:1px;width:25%"></div><div class="fns"><span id="fnt1"><fnb><fnn><a class="fnsr ho" href="#fns1" target="_top" name="fn1">1</a></fnn></fnb>
+<z><o></o>Изумительно! (<i>франц</i>.).<div style="font-size:0;"></div></z></span><span id="fnt2"><fnb><fnn><a class="fnsr ho" href="#fns2" target="_top" name="fn2">2</a></fnn></fnb>
+<z><o></o>Великолепно! <i>(франц.).</i><div style="font-size:0;"></div></z></span></div><div class="i0 tc" style="padding-top:.5em;border-bottom:1px solid #666;width:6em;margin:auto;position:relative"><span class="rel bg1" style="top:.4em;color:#666;padding:0em .2em;line-height:.8em">&#10022;</span></div><iframe id="noteFrame"></iframe><div id="tbd"></div><script>
+nf=ge("noteFrame");
+nf.onload = () => {
+	nfd=nf.contentWindow.document;
+	nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+}
+nfd=nf.contentWindow.document;
+nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+
+tf=ge("tocFrame");
+tf.onload = () => {
+	tfd=tf.contentWindow.document;
+	tfd.addEventListener("click",function(e){eid=tfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="tocHide")hideToc();},true);
+}
+</script>
+</div>
+<div id="s" style="height:0em"></div>
+<div class="tc" style="margin:3em -6px 1em">
+<div id="yar"></div>
+</div>
+
+
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">&copy; Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div><script>
+turl = new URL(document.URL);
+if (turl.hash != '')
+{
+	window.addEventListener('load',function(){scrollToId();});
+} 
+
+function scrollToId() {
+	ah_e = document.getElementById('ex_a' + turl.hash.substring(3));
+	ah_e.scrollIntoView({ block: "start" });
+}
+var cntr=0;</script>
+
+</div>
+
+<div id="f_r1" style="background-color:#e6e0d3">
+<div class="f" style="height:100%;border-left:1px solid #7f7f96;padding:0em"><div id="in" class="f fc jsb ci" style="width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div class="rel tc">
+<div id="right-rectangle-stick-1" class="ib" style="max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+</script>
+<div id="gglad" class="ib" style="max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+ <div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+  <div class="tc">
+	 <div id="right-rectangle-stick-2" class="ib" style="max-width:400px"></div>
+   <div id="btmad" class="ib" style="max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+	</div>
+ </div></div>
+</div>
+</div></div>
+</div>
+</div>
+
+</div>
+</div><div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: <a href="mailto:otklik@ilibrary.ru">otklik@ilibrary.ru</a></span><span class="bmi"><a href="/aboutilibrary/">О библиотеке</a></span><span class="bmi"><a href="/reklama.phtml">Реклама на сайте</a></span></div>
+<div>&copy;1996&#151;2026 Алексей Комаров. Подборка&nbsp;произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+<a href="https://metrika.yandex.ru/stat/?id=5179000&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/5179000/3_0_FFFFF0FF_E0E0D0FF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="5179000" data-lang="ru" /></a>
+<script type="text/javascript" >   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div><img src="https://mc.yandex.ru/watch/5179000" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+setBrackets();
+setArrows();setPoems();
+window.addEventListener('scroll',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+});
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(setBrackets)!=='undefined') setBrackets();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+if(cntr)document.write(cntr);</script>
+</div>
+</BODY>
+</HTML>
+<!-- 0.000532113 -->

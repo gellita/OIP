@@ -1,0 +1,274 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML lang="ru">
+
+<HEAD>
+<TITLE>Л. Н. Андреев. Ангелочек. Текст произведения</TITLE>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<META NAME="Keywords" CONTENT="русская классическая литература интернет-библиотека Алексея Комарова текст читать Леонид Андреев Ангелочек">
+<META NAME="Description" CONTENT='Леонид Андреев. Ангелочек. Текст произведения. Источник: Л. Н. Андреев. Собрание сочинений. В 6-ти т. Т. 1. — М.: Художественная литература, 1990. Интернет-библиотека Алексея Комарова'>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+<link id="mainCSS" rel=stylesheet type="text/css" href="/etc/styles4_18.css">
+<script src="https://yandex.ru/ads/system/header-bidding.js" async></script>
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+<script async src="https://cdn.skcrtxr.com/roxot-wrapper/js/roxot-manager.js?pid=8c86a31e-948e-4d37-9b5a-304d2fbc4c0c"></script>
+
+<script src="/js/adplacements3.js"></script>
+<script async>
+lgl=1;function ge(e){return document.getElementById(e)}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function gr(e){return e.getBoundingClientRect()}
+function ih(e,c){e.innerHTML=c}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+id_t=2157;</script>
+<script src="/js/ev3.js"></script>
+</HEAD>
+
+<BODY>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<span id="svg"></span>
+<div id="hdr" class="hdr">
+ <div class="logo">
+  <div class="logo1 rel">
+   <a href="/" title="Читаем книги онлайн. Интернет-библиотека Алексея Комарова">
+    <div id="lmini"><svg style="width:4.9em;height:2.5em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="800 15 1500 1600"><use xlink:href="#logoMini" /></svg></div>
+    <div id="lmaxi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoBg" /><use xlink:href="#logoMaxi" /></svg></div>
+    <div id="lmidi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoMidi" /></svg></div>
+   </a>
+	</div>
+ </div>
+ <div id="qs1" class="qson">
+  <form id="sf2" method=get action="/search.phtml"><div id="sf1" style="display:flex;align-items:stretch">
+	<div><input class="tf" id="qi1" size=200 type="text" name="q" placeholder="Поиск: автор и/или название произведения" value=""></div>
+	<div id="sb" class="sb" style="">
+	<input id="ss" type="submit" value="Найти"><span id="smg"><svg id="sb1" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="60 0 115 140">
+<use xlink:href="#mglass" /></svg></span></div></div>
+</form>
+</div>
+<div id="sm" class="m"><a style="width:1.2em;white-space:nowrap" href="#" class="ma" onclick="toggle_sf();">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="65 18 115 115"><use xlink:href="#mglass" /></svg>
+</a></div>
+<div class="m"><a href="/author.html" class="ma">Авторы</a></div>
+<div class="spce">&nbsp;</div>
+</div>
+<div id="ex" class="l">
+<div id="lft0">
+<div class="f fc" style="justify-content:space-between">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+
+	<div id="text" class="t hya">
+	<div id="thdr" class="thdr">
+<a href="/author/landreev/index.html">Л. Н. Андреев</a>. <a href="/text/2157/index.html">Ангелочек</a></div>
+
+<div class="author">Леонид Андреев</div>
+<div class="title"><h1>Ангелочек</h1></div>
+<h2>I</h2>
+<z><o></o>Временами Сашке хотелось перестать делать то, что называется жизнью: не умываться по утрам холодной водой, в которой плавают тоненькие пластинки льда, не ходить в гимназию, не слушать там, как все его ругают, и не испытывать боли в пояснице и во всем теле, когда мать ставит его на целый вечер на колени. Но так как ему было тринадцать лет и он не знал всех способов, какими люди перестают жить, когда захотят этого, то он продолжал ходить в гимназию и стоять на коленках, и ему казалось, что жизнь никогда не кончится. Пройдет год, и еще год, и еще год, а он будет ходить в гимназию и стоять дома на коленках. И так как Сашка обладал непокорной и смелой душой, то он не мог спокойно отнестись ко злу и мстил жизни. Для этой цели он бил товарищей, грубил начальству, рвал учебники и целый день лгал то учителям, то матери, не лгал он только одному отцу. Когда в драке ему расшибали нос, он нарочно расковыривал его еще больше и орал без слез, но так громко, что все испытывали неприятное ощущение, морщились и затыкали уши. Проорав сколько нужно, он сразу умолкал, показывал язык и рисовал в черновой тетрадке карикатуру на себя, как орет, на надзирателя, заткнувшего уши, и на дрожащего от страха победителя. Вся тетрадка заполнена была карикатурами, и чаще всех повторялась такая: толстая и низенькая женщина била скалкой тонкого, как спичка, мальчика. Внизу крупными и неровными буквами чернела подпись: &laquo;Проси прощенья, щенок&raquo;, &mdash; и ответ: &laquo;Не попрошу, хоть тресни&raquo;. Перед Рождеством Сашку выгнали из гимназии, и, когда мать стала бить его, он укусил ее за палец. Это дало ему свободу, и он бросил умываться по утрам, бегал целый день с ребятами, и бил их, и боялся одного голода, так как мать перестала совсем кормить его, и только отец прятал для него хлеб и картошку. При этих условиях Сашка находил существование возможным.</z>
+<z><o></o>В пятницу, накануне Рождества, Сашка играл с ребятами, пока они не разошлись по домам и не проскрипела ржавым, морозным скрипом калитка за последним из них. Уже темнело, и с поля, куда выходил одним концом глухой переулок, надвигалась серая снежная мгла; в низеньком черном строении, стоявшем поперек улицы, на выезде, зажегся красноватый, немигающий огонек. Мороз усилился, и, когда Сашка проходил в светлом круге, который образовался от зажженного фонаря, он видел медленно реявшие в воздухе маленькие сухие снежинки. Приходилось идти домой.</z>
+<z><o></o>&mdash; Где полуночничаешь, щенок? &mdash; крикнула на него мать, замахнулась кулаком, но не ударила. Рукава у нее были засучены, обнажая белые, толстые руки, и на безбровом, плоском лице выступали капли пота. Когда Сашка проходил мимо нее, он почувствовал знакомый запах водки. Мать почесала в голове толстым указательным пальцем с коротким и грязным ногтем и, так как браниться было некогда, только плюнула и крикнула:</z>
+<z><o></o>&mdash; Статистики, одно слово!</z>
+<z><o></o>Сашка презрительно шморгнул носом и прошел за перегородку, где слышалось тяжелое дыханье отца, Ивана Саввича. Ему всегда было холодно, и он старался согреться, сидя на раскаленной лежанке и подкладывая под себя руки ладонями книзу.</z>
+<z><o></o>&mdash; Сашка! А тебя Свечниковы на елку звали. Горничная приходила, &mdash; прошептал он.</z>
+<z><o></o>&mdash; Врешь? &mdash; спросил с недоверием Сашка.</z>
+<z><o></o>&mdash; Ей-Богу. Эта ведьма нарочно ничего не говорит, а уж и куртку приготовила.</z>
+<z><o></o>&mdash; Врешь? &mdash; все больше удивлялся Сашка.</z>
+<z><o></o>Богачи Свечниковы, определившие его в гимназию, не велели после его исключения показываться к ним. Отец еще раз побожился, и Сашка задумался.</z>
+<z><o></o>&mdash; Ну-ка подвинься, расселся! &mdash; сказал он отцу, прыгая на коротенькую лежанку, и добавил: &mdash; А к этим чертям я не пойду. Жирны больно станут, если еще я к ним пойду. &laquo;Испорченный мальчик&raquo;, &mdash; протянул Сашка в нос &mdash; Сами хороши, антипы толсторожие.</z>
+<z><o></o>&mdash; Ах, Сашка, Сашка! &mdash; поежился от холода отец. &mdash; Не сносить тебе головы.</z>
+<z><o></o>&mdash; А ты-то сносил? &mdash; грубо возразил Сашка. &mdash; Молчал бы уж: бабы боится. Эх, тюря!</z>
+<z><o></o>Отец сидел молча и ежился. Слабый свет проникал через широкую щель вверху, где перегородка на четверть не доходила до потолка, и светлым пятном ложился на его высокий лоб, под которым чернели глубокие глазные впадины. Когда-то Иван Саввич сильно пил водку, и тогда жена боялась и ненавидела его. Но, когда он начал харкать кровью и не мог больше пить, стала пить она, постепенно привыкая к водке. И тогда она выместила все, что ей пришлось выстрадать от высокого узкогрудого человека, который говорил непонятные слова, выгонялся за строптивость и пьянство со службы и наводил к себе таких же длинноволосых безобразников и гордецов, как и он сам. В противоположность мужу она здоровела по мере того, как пила, и кулаки ее все тяжелели. Теперь она говорила, что хотела, теперь она водила к себе мужчин и женщин, каких хотела, и громко пела с ними веселые песни. А он лежал за перегородкой, молчаливый, съежившийся от постоянного озноба, и думал о несправедливости и ужасе человеческой жизни. И всем, с кем ни приходилось говорить жене Ивана Саввича, она жаловалась, что нет у нее на свете таких врагов, как муж и сын: оба гордецы и статистики.</z>
+<z><o></o>Через час мать говорила Сашке:</z>
+<z><o></o>&mdash; А я тебе говорю, что ты пойдешь! &mdash; И при каждом слове Феоктиста Петровна ударяла кулаком по столу, на котором вымытые стаканы прыгали и звякали друг о друга.</z>
+<z><o></o>&mdash; А я тебе говорю, что не пойду, &mdash; хладнокровно отвечал Сашка, и углы губ его подергивались от желания оскалить зубы. В гимназии за эту привычку его звали волчонком.</z>
+<z><o></o>&mdash; Изобью я тебя, ох, как изобью! &mdash; кричала мать.</z>
+<z><o></o>&mdash; Что же, избей!</z>
+<z><o></o>Феоктиста Петровна знала, что бить сына, который стал кусаться, она уже не может, а если выгнать на улицу, то он отправится шататься и скорей замерзнет, чем пойдет к Свечниковым; поэтому она прибегла к авторитету мужа.</z>
+<z><o></o>&mdash; А еще отец называется: не может мать от оскорблений оберечь.</z>
+<z><o></o>&mdash; Правда, Сашка, ступай, что ломаешься? &mdash; отозвался тот с лежанки. &mdash; Они, может быть, опять тебя устроят. Они люди добрые.</z>
+<z><o></o>Сашка оскорбительно усмехнулся. Отец давно, до Сашкина еще рождения, был учителем у Свечниковых и с тех пор думал, что они самые хорошие люди. Тогда он еще служил в земской статистике и ничего не пил. Разошелся он с ними после того, как женился на забеременевшей от него дочери квартирной хозяйки, стал пить и опустился до такой степени, что его, пьяного, поднимали на улице и отвозили в участок. Но Свечниковы продолжали помогать ему деньгами, и Феоктиста Петровна, хотя ненавидела их, как книги и все, что связывалось с прошлым ее мужа, дорожила знакомством и хвалилась им.</z>
+<z><o></o>&mdash; Может быть, и мне что-нибудь с елки принесешь, &mdash; продолжал отец.</z>
+<z><o></o>Он хитрил, &mdash; Сашка понимал это и презирал отца за слабость и ложь, но ему действительно захотелось что-нибудь принести больному и жалкому человеку. Он давно уже сидит без хорошего табаку.</z>
+<z><o></o>&mdash; Ну, ладно! &mdash; буркнул он. &mdash; Давай, что ли, куртку. Пуговицы пришила? А то ведь я тебя знаю!</z>
+
+<iframe id="tocFrame"></iframe><iframe id="noteFrame"></iframe><div id="tbd"></div><div style="height:3em;margin:2em 0em 0em"><div id="bnbg" class="rbg" style="z-index:7;height:3em;bottom:0px"><div id="bnav" class="bnvin"><span class="i0" style="display:block;width:1em;text-decoration:none;padding:.6em;width:25%;flex-grow:2"></span><span id="toc" class="tocb ho" title="Оглавление">1/3</span><a title="Дальше" href="/text/2157/p.2/index.html" class="navlink je"><div class="navlnktxt">II</div><div><nx1></nx1><nx2></nx2></div></a></div></div></div><script>
+nf=ge("noteFrame");
+nf.onload = () => {
+	nfd=nf.contentWindow.document;
+	nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+}
+nfd=nf.contentWindow.document;
+nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+
+tf=ge("tocFrame");
+tf.onload = () => {
+	tfd=tf.contentWindow.document;
+	tfd.addEventListener("click",function(e){eid=tfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="tocHide")hideToc();},true);
+}
+</script>
+</div>
+<div id="s" style="height:0em"></div>
+<div class="tc" style="margin:3em -6px 1em">
+<div id="yar"></div>
+</div>
+
+
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">&copy; Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div><script>
+turl = new URL(document.URL);
+if (turl.hash != '')
+{
+	window.addEventListener('load',function(){scrollToId();});
+} 
+
+function scrollToId() {
+	ah_e = document.getElementById('ex_a' + turl.hash.substring(3));
+	ah_e.scrollIntoView({ block: "start" });
+}
+var cntr=0;</script>
+
+</div>
+
+<div id="f_r1" style="background-color:#e6e0d3">
+<div class="f" style="height:100%;border-left:1px solid #7f7f96;padding:0em"><div id="in" class="f fc jsb ci" style="width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div class="rel tc">
+<div id="right-rectangle-stick-1" class="ib" style="max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+</script>
+<div id="gglad" class="ib" style="max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+ <div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+  <div class="tc">
+	 <div id="right-rectangle-stick-2" class="ib" style="max-width:400px"></div>
+   <div id="btmad" class="ib" style="max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+	</div>
+ </div></div>
+</div>
+</div></div>
+</div>
+</div>
+
+</div>
+</div><div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: <a href="mailto:otklik@ilibrary.ru">otklik@ilibrary.ru</a></span><span class="bmi"><a href="/aboutilibrary/">О библиотеке</a></span><span class="bmi"><a href="/reklama.phtml">Реклама на сайте</a></span></div>
+<div>&copy;1996&#151;2026 Алексей Комаров. Подборка&nbsp;произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+<a href="https://metrika.yandex.ru/stat/?id=5179000&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/5179000/3_0_FFFFF0FF_E0E0D0FF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="5179000" data-lang="ru" /></a>
+<script type="text/javascript" >   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div><img src="https://mc.yandex.ru/watch/5179000" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+setBrackets();
+setArrows();setPoems();
+window.addEventListener('scroll',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+});
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(setBrackets)!=='undefined') setBrackets();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+if(cntr)document.write(cntr);</script>
+</div>
+</BODY>
+</HTML>
+<!-- 0.000477703 -->

@@ -1,0 +1,298 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML lang="ru">
+
+<HEAD>
+<TITLE>Х. К. Андерсен. Старый уличный фонарь. Текст произведения</TITLE>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<META NAME="Keywords" CONTENT="русская классическая литература интернет-библиотека Алексея Комарова текст читать Ханс Андерсен Старый уличный фонарь">
+<META NAME="Description" CONTENT='Ханс Андерсен. Старый уличный фонарь. Текст произведения. Источник: Х. К. Андерсен. Сказки, рассказанные детям; Новые сказки. М.: Наука, 1983. (Литературные памятники). Интернет-библиотека Алексея Комарова'>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+<link id="mainCSS" rel=stylesheet type="text/css" href="/etc/styles4_18.css">
+<script src="https://yandex.ru/ads/system/header-bidding.js" async></script>
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+<script async src="https://cdn.skcrtxr.com/roxot-wrapper/js/roxot-manager.js?pid=8c86a31e-948e-4d37-9b5a-304d2fbc4c0c"></script>
+
+<script src="/js/adplacements3.js"></script>
+<script async>
+lgl=1;function ge(e){return document.getElementById(e)}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function gr(e){return e.getBoundingClientRect()}
+function ih(e,c){e.innerHTML=c}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+id_t=4666;</script>
+<script src="/js/ev3.js"></script>
+</HEAD>
+
+<BODY>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<span id="svg"></span>
+<div id="hdr" class="hdr">
+ <div class="logo">
+  <div class="logo1 rel">
+   <a href="/" title="Читаем книги онлайн. Интернет-библиотека Алексея Комарова">
+    <div id="lmini"><svg style="width:4.9em;height:2.5em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="800 15 1500 1600"><use xlink:href="#logoMini" /></svg></div>
+    <div id="lmaxi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoBg" /><use xlink:href="#logoMaxi" /></svg></div>
+    <div id="lmidi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoMidi" /></svg></div>
+   </a>
+	</div>
+ </div>
+ <div id="qs1" class="qson">
+  <form id="sf2" method=get action="/search.phtml"><div id="sf1" style="display:flex;align-items:stretch">
+	<div><input class="tf" id="qi1" size=200 type="text" name="q" placeholder="Поиск: автор и/или название произведения" value=""></div>
+	<div id="sb" class="sb" style="">
+	<input id="ss" type="submit" value="Найти"><span id="smg"><svg id="sb1" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="60 0 115 140">
+<use xlink:href="#mglass" /></svg></span></div></div>
+</form>
+</div>
+<div id="sm" class="m"><a style="width:1.2em;white-space:nowrap" href="#" class="ma" onclick="toggle_sf();">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="65 18 115 115"><use xlink:href="#mglass" /></svg>
+</a></div>
+<div class="m"><a href="/author.html" class="ma">Авторы</a></div>
+<div class="spce">&nbsp;</div>
+</div>
+<div id="ex" class="l">
+<div id="lft0">
+<div class="f fc" style="justify-content:space-between">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+
+	<div id="text" class="t hya">
+	<div id="thdr" class="thdr">
+<a href="/author/hkandersen/index.html">Х. К. Андерсен</a>. <a href="/text/4666/index.html">Старый уличный фонарь</a></div>
+
+<div class="title" ID="tc4686" STYLE="display:none">
+<h2>Второй том</h2>
+<h3>Первый выпуск
+<br>1847</h3>
+</div>
+
+<div class="dedication2" ID="dc4686" STYLE="display:none">
+Матери поэта Й. Л. Хейберга, умнейшей, талантливейшей фру Гюллембург, приношу я с величайшим уважением и преданностью эти сказки
+</div>
+
+
+<div class="author">Ханс Кристиан Андерсен</div>
+<div class="title"><h1>Старый уличный фонарь</h1></div>
+<z><o></o>Слышали вы сказку про старый уличный фонарь? Она не то чтобы уж очень забавна, но разок все-таки можно послушать.</z>
+<z><o></o>Так вот, жил-был один почтенный старый уличный фонарь; много лет он честно нес службу, но теперь его решили уволить. Он знал, что сидит на столбе и освещает улицу последний вечер, и чувство его можно было сравнить с чувством старой балетной фигурантки, которая танцует на сцене в последний раз и знает, что завтра ее выставят из театра. Фонарь с ужасом ждал завтрашнего дня: завтра он должен был явиться на смотр в ратушу и представиться &laquo;тридцати шести отцам города&raquo;, которые решат, годен ли он еще к службе, или нет.</z>
+<z><o></o>Да, завтра решится вопрос: отправят ли его светить куда-нибудь в предместье на мост, ушлют ли в деревню или на фабрику, или же прямо в переплавку. Из него могло ведь выйти что угодно, но его ужасно мучила неизвестность: сохранит ли он воспоминание о том, что некогда был уличным фонарем или нет? Впрочем, как бы там ни было, ему, во всяком случае, придется расстаться с ночным сторожем и его женой, на которых он смотрел, как на родных. Оба они &mdash; и фонарь и сторож &mdash; поступили на службу в один и тот же день. Жена сторожа в те времена была гордячка: и, проходя мимо фонаря, удостаивала его взглядом только по вечерам, а днем &mdash; никогда. Но в последние годы, когда они все трое &mdash; и сторож, и жена его, и фонарь &mdash; уже состарились, она тоже стала ухаживать за фонарем, чистить лампу и наливать в нее ворвань. Честные люди были эти старики, ни разу не обделили фонарь ни на капельку!</z>
+<z><o></o>Итак, фонарь освещал улицу последний вечер, а назавтра должен был отправиться в ратушу. Эти две мрачные мысли не давали ему покоя; поэтому можно представить себе, как он горел. Порою у него мелькали и другие мысли &mdash; он ведь многое видел, на многое пришлось ему пролить свет; в этом отношении он стоял, пожалуй, выше самих &laquo;тридцати шести отцов города&raquo;! Но он и не заговаривал об этом: почтенный старый фонарь не хотел обижать никого, а тем более свое высшее начальство. Фонарь много чего помнил, и время от времени пламя его порывисто вспыхивало, словно в нем шевелились такие мысли: &laquo;Да, и обо мне кое-кто вспомнит! Вот хоть бы тот красивый молодой человек... Много уж лет прошло с тех пор. Он подошел ко мне с исписанным листком розовой, тонкой-претонкой бумаги с золотым обрезом. Письмо было написано так изящно, как видно дамской ручкой! Он прочел его два раза, поцеловал и поднял на меня сияющие глаза, которые так и говорили: &bdquo;Я счастливейший человек в мире!&ldquo; Да, только мы с ним и знали, что написала в этом первом письмеце его возлюбленная. Помню я и еще одни глаза... Удивительно, как перескакивают мысли! По нашей улице двигалась пышная похоронная процессия; на бархатном катафалке везли в гробу тело молодой, прекрасной женщины. Сколько тут было цветов и венков! Горело так много факелов, что мой свет совсем потерялся. Тротуар был заполнен народом &mdash; столько людей шло за гробом. Но когда факелы скрылись из виду, я огляделся и увидел человека, который стоял у моего столба и плакал. Никогда я не забуду того скорбного взгляда, который он вскинул на меня&raquo;.</z>
+<z><o></o>И много еще о чем вспоминал старый уличный фонарь в этот последний вечер. Часовой, сменяющийся с поста, все-таки знает своего преемника и может перекинуться с ним словечком; фонарь же не знал, кто его сменит, а то он тоже мог бы дать ему кое-какие указания насчет ненастной погоды, насчет того, как далеко заходят лучи месяца на тротуар и с какой стороны обыкновенно дует ветер.</z>
+<z><o></o>На мостике, перекинутом через водосточную канавку, находились в это время три особы, претендовавшие заместить фонарь, они думали, что выбор преемника зависит от самого фонаря. Одною из этих особ была селедочная головка, светящаяся в темноте; она полагала, что ее появление на фонарном столбе поведет к большой экономии ворвани. Второю была гнилушка, которая тоже светилась и, по ее собственным словам, даже ярче, чем сушеная треска; к тому же она была последним остатком дерева, которое некогда было красой всего леса. Третьим кандидатом был светлячок; откуда он взялся &mdash; фонарь никак не мог догадаться, но светлячок был тут и тоже светился, хотя гнилушка и селедочная головка клялись в один голос, что он светит только в известное время, почему его и не следует принимать в расчет.</z>
+<z><o></o>Старый фонарь ответил, что никто из них не светит настолько ярко, чтобы занять его место, но, конечно, они этому не поверили. Узнав же, что передача должности зависит не от самого фонаря, все трое выразили живейшее удовольствие, &mdash; он был ведь слишком стар, чтобы сделать верный выбор.</z>
+<z><o></o>В это время из-за угла подул ветер и шепнул в отдушину фонаря:</z>
+<z><o></o>&mdash; Что я слышу! Ты уходишь завтра? Это последний вечер, что мы встречаемся с тобою здесь? Ну, так вот же тебе от меня подарок! Я проветрю твою черепную коробку, да так, что ты не только будешь ясно и точно помнить все, что когда-либо слышал и видел сам, но увидишь собственными глазами то, что будут рассказывать или читать при тебе другие, &mdash; вот какая у тебя будет светлая голова!</z>
+<z><o></o>&mdash; Не знаю, как тебя благодарить, &mdash; сказал старый фонарь. &mdash; Только бы меня не переплавили!</z>
+<z><o></o>&mdash; До этого еще далеко, &mdash; отвечал ветер. &mdash; Ну, сейчас я проветрю твою память. Если ты получишь много таких подарков, как мой, то проведешь старость еще очень и очень приятно!</z>
+<z><o></o>&mdash; Только бы меня не переплавили! &mdash; Может быть, ты и в этом случае поручишься за мою память?</z>
+<z><o></o>&mdash; Эх, старый фонарь, будь же благоразумен! &mdash; сказал ветер и подул.</z>
+<z><o></o>В эту минуту выглянул месяц.</z>
+<z><o></o>&mdash; А вы что подарите? &mdash; спросил его ветер.</z>
+<z><o></o>&mdash; Ничего, &mdash; ответил месяц, &mdash; я ведь на ущербе, к тому же фонари никогда не светят за меня, &mdash; всегда я за них. &mdash; И месяц опять спрятался за тучи &mdash; он не хотел, чтобы ему надоедали.</z>
+<z><o></o>Вдруг на железный колпачок фонаря упала дождевая капля, как будто бы с крыши; но сама капля сказала, что явилась из серого облака, и тоже &mdash; как подарок, пожалуй, даже самый лучший.</z>
+<z><o></o>&mdash; Я проточу тебя, и ты, когда пожелаешь, сможешь проржаветь и рассыпаться прахом в одну ночь!</z>
+<z><o></o>Фонарю это показалось плохим подарком; ветру &mdash; тоже.</z>
+<z><o></o>&mdash; Неужто никто не подарит ничего получше? &mdash; зашумел он изо всей мочи.</z>
+<z><o></o>И в ту же минуту с неба скатилась звездочка, оставив за собой длинный светящийся след.</z>
+<z><o></o>&mdash; Это что? &mdash; вскричала селедочная головка. &mdash; Как будто звезда с неба упала? и, кажется, прямо в фонарь! Ну, если этой должности домогаются такие высокопоставленные особы, то нам тут и делать нечего, остается только откланяться.</z>
+<z><o></o>Так все трое и сделали. Старый же фонарь вдруг вспыхнул как-то особенно ярко.</z>
+<z><o></o>&mdash; Вот это чудесный подарок! &mdash; сказал он. &mdash; Ясные звездочки! Как я любовался всегда их чудным светом! Самым моим заветным желанием было светить как они, но это у меня не получалось, хоть я и старался, &mdash; и вот эти чудные звездочки заметили меня, бедный старый фонарь, и послали ко мне с подарком одну из своих сестриц. Они одарили меня способностью показывать тем, кого я люблю, все, что я помню и вижу сам. А ведь всякое удовольствие только тогда и бывает истинным, полным, когда можешь им поделиться с другими!</z>
+<z><o></o>&mdash; Замечательная мысль, &mdash; сказал ветер. &mdash; Но ты не знаешь, что этот твой дар зависит от восковой свечки. Ты никому ничего не сможешь показать, если в тебе не будет гореть восковая свечка: об этом-то и не подумали звезды. Они думают, что там, откуда льется свет, непременно есть хотя бы восковая свечка. Но теперь я устал, пора улечься! &mdash; добавил ветер и улегся.</z>
+<z><o></o>На другой день... нет, через него мы лучше перескочим, &mdash; в следующий вечер фонарь лежал в кресле. Угадай где? В комнате старого ночного сторожа. Старик попросил у &laquo;тридцати шести отцов города&raquo; в награду за свою долгую верную службу... старый фонарик. Те посмеялись над его просьбой, но фонарь отдали; и вот фонарь преважно лежал теперь в кресле возле теплой печки и, право, точно вырос, так что занимал собою почти все кресло. Старички уже сидели за ужином и ласково поглядывали на старый фонарь: они охотно посадили бы его с собой и за стол.</z>
+<z><o></o>Правда, они жили в подвале, на несколько футов под землей, и, чтобы попасть в их каморку, надо было пройти через вымощенную кирпичами прихожую, &mdash; зато в самой каморке было очень чисто и уютно. Двери были обиты по краям полосками войлока, кровать пряталась за пологом, на окнах висели занавески, а на подоконниках стояли два диковинных цветочных горшка. Их привез матрос Кристиан из Ост-Индии или Вест-Индии. Горшки были глиняные и изображали слонов без спины; вместо спины у них было углубление, набитое землей; в одном слоне рос чудеснейший лук-порей, а в другом &mdash; цветущая герань. Первый слон был огородом старичков, второй &mdash; цветником. На стене висела раскрашенная гравюра, изображавшая Венский конгресс, тут перед старичками красовались все короли и государи зараз. Старинные часы с тяжелыми свинцовыми гирями тикали без умолку и вечно забегали вперед. Пускай уж лучше спешат, чем отстают, &mdash; говорили старички.</z>
+<z><o></o>И вот они ужинали, а старый уличный фонарь лежал, как мы знаем, в кресле, возле теплой печки, и ему казалось, будто весь свет перевернулся вверх дном. Но вот старый сторож взглянул на него и стал припоминать все, что они пережили вместе, в дождь и в непогоду, в ясные и короткие летние ночи и в снежные метели, когда так и тянет домой, в подвальчик; а фонарь пришел в себя и увидел все это как наяву.</z>
+<z><o></o>Да, ветер славно его проветрил!</z>
+<z><o></o>Старички были такие работящие, трудолюбивые; ни один час не пропадал у них даром. По воскресеньям после обеда на столе появлялась какая-нибудь книжка, чаще всего описание путешествия, и старик читал вслух об Африке, об огромных лесах и диких слонах, которые там бродят. Старушка слушала и поглядывала на глиняных слонов, служивших цветочными горшками.</z>
+<z><o></o>&mdash; Могу себе это представить! &mdash; приговаривала она.</z>
+<z><o></o>А фонарь от души желал, чтобы в него вставили восковую свечку, &mdash; тогда старушка, как и он сам, воочию увидела бы все: и высокие деревья, перепутавшиеся густыми ветвями, и голых черных людей верхом на лошадях и целые стада слонов, уминающих толстыми ногами тростник и кусты.</z>
+<z><o></o>&mdash; Что проку в моих способностях, если во мне нет восковой свечки! &mdash; вздыхал фонарь. &mdash; У моих хозяев только и есть, что ворвань да сальные свечи, а этого мало.</z>
+<z><o></o>Раз у старичков появилась целая куча восковых огарков; самые большие были сожжены, а короткими старушка вощила нитки, когда шила. Восковые свечки теперь у стариков были, но им и в голову не приходило вставить хоть один огарочек в фонарь.</z>
+<z><o></o>&mdash; Ну вот, я и лежу тут зря со всеми своими редкими способностями, &mdash; сказал фонарь. &mdash; Внутри у меня целое богатство, а я не могу им поделиться! Ах, вы не знаете, что я могу превратить эти голые стены в роскошнейшие обои, в густые леса, во все, чего пожелаете! Да и где вам знать это!</z>
+<z><o></o>Фонарь, вычищенный до блеска, всегда лежал в углу, на самом видком месте. Люди, правда, называли его старым хламом, но старики не обращали на это внимания &mdash; они любили фонарь.</z>
+<z><o></o>Однажды, в день рождения старика, старушка подошла к фонарю, лукаво улыбнулась и сказала:</z>
+<z><o></o>&mdash; Постой-ка, я сейчас устрою иллюминацию ради праздника!</z>
+<z><o></o>Фонарь задребезжал от радости. &laquo;Наконец-то их озарило!&raquo; &mdash; подумал он. Но налили в него ворвань, а о восковой свечке не было и помину. Он горел весь вечер, но знал теперь, что самый лучший дар его навсегда останется в нем при такой жизни мертвым капиталом. И вот пригрезилось ему, &mdash; с такими способностями немудрено и грезить, &mdash; будто бы старики умерли, а он попал в переплавку. Фонарю было так же страшно, как в тот раз, когда ему предстояло явиться на смотр в ратушу. Но хоть он и мог по своему желанию проржаветь и рассыпаться в прах, он этого не сделал, а попал в плавильную печь и превратился в чудеснейший железный подсвечник в виде ангела, который держал в одной руке букет. В этот букет вставили восковую свечку, и подсвечник занял место на зеленом сукне письменного стола. Комната была очень уютна; все полки здесь были уставлены книгами, а стены увешаны великолепными картинами. Здесь жил поэт, и все, о чем он думал и писал, развертывалось перед ним, как в панораме. Комната становилась то дремучим лесом, освещенным солнцем, то лугами, по которым расхаживал аист, то палубой корабля, плывущего по бурному морю...</z>
+<z><o></o>&mdash; Ах, какие способности скрыты во мне! &mdash; воскликнул старый фонарь, очнувшись от грез. &mdash; Право, мне даже хочется попасть в переплавку! Впрочем, нет! Пока живы старички &mdash; не надо. Они любят меня, каков я есть, я им заменяю ребенка. Они чистили меня, давали мне ворвани, и мне здесь живется не хуже, чем &laquo;конгрессу&raquo;. Чего же еще желать!</z>
+<z><o></o>И с тех пор фонарь обрел душевное спокойствие, да старый почтенный фонарь и заслуживал этого.</z>
+<div class="i0 tc" style="padding-top:.5em;border-bottom:1px solid #666;width:6em;margin:auto;position:relative"><span class="rel bg1" style="top:.4em;color:#666;padding:0em .2em;line-height:.8em">&#10022;</span></div><iframe id="noteFrame"></iframe><div id="tbd"></div><script>
+nf=ge("noteFrame");
+nf.onload = () => {
+	nfd=nf.contentWindow.document;
+	nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+}
+nfd=nf.contentWindow.document;
+nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+
+tf=ge("tocFrame");
+tf.onload = () => {
+	tfd=tf.contentWindow.document;
+	tfd.addEventListener("click",function(e){eid=tfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="tocHide")hideToc();},true);
+}
+</script>
+</div>
+<div id="s" style="height:0em"></div>
+<div class="tc" style="margin:3em -6px 1em">
+<div id="yar"></div>
+</div>
+
+
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">&copy; Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div><script>
+turl = new URL(document.URL);
+if (turl.hash != '')
+{
+	window.addEventListener('load',function(){scrollToId();});
+} 
+
+function scrollToId() {
+	ah_e = document.getElementById('ex_a' + turl.hash.substring(3));
+	ah_e.scrollIntoView({ block: "start" });
+}
+var cntr=0;</script>
+
+</div>
+
+<div id="f_r1" style="background-color:#e6e0d3">
+<div class="f" style="height:100%;border-left:1px solid #7f7f96;padding:0em"><div id="in" class="f fc jsb ci" style="width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div class="rel tc">
+<div id="right-rectangle-stick-1" class="ib" style="max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+</script>
+<div id="gglad" class="ib" style="max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+ <div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+  <div class="tc">
+	 <div id="right-rectangle-stick-2" class="ib" style="max-width:400px"></div>
+   <div id="btmad" class="ib" style="max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+	</div>
+ </div></div>
+</div>
+</div></div>
+</div>
+</div>
+
+</div>
+</div><div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: <a href="mailto:otklik@ilibrary.ru">otklik@ilibrary.ru</a></span><span class="bmi"><a href="/aboutilibrary/">О библиотеке</a></span><span class="bmi"><a href="/reklama.phtml">Реклама на сайте</a></span></div>
+<div>&copy;1996&#151;2026 Алексей Комаров. Подборка&nbsp;произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+<a href="https://metrika.yandex.ru/stat/?id=5179000&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/5179000/3_0_FFFFF0FF_E0E0D0FF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="5179000" data-lang="ru" /></a>
+<script type="text/javascript" >   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div><img src="https://mc.yandex.ru/watch/5179000" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+setBrackets();
+setArrows();setPoems();
+window.addEventListener('scroll',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+});
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(setBrackets)!=='undefined') setBrackets();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+if(cntr)document.write(cntr);</script>
+</div>
+</BODY>
+</HTML>
+<!-- 0.000544687 -->

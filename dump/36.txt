@@ -1,0 +1,303 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML lang="ru">
+
+<HEAD>
+<TITLE>Х. К. Андерсен. Сундук-самолет. Текст произведения</TITLE>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<META NAME="Keywords" CONTENT="русская классическая литература интернет-библиотека Алексея Комарова текст читать Ханс Андерсен Сундук-самолет">
+<META NAME="Description" CONTENT='Ханс Андерсен. Сундук-самолет. Текст произведения. Источник: Х. К. Андерсен. Сказки, рассказанные детям; Новые сказки. М.: Наука, 1983. (Литературные памятники). Интернет-библиотека Алексея Комарова'>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+<link id="mainCSS" rel=stylesheet type="text/css" href="/etc/styles4_18.css">
+<script src="https://yandex.ru/ads/system/header-bidding.js" async></script>
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+<script async src="https://cdn.skcrtxr.com/roxot-wrapper/js/roxot-manager.js?pid=8c86a31e-948e-4d37-9b5a-304d2fbc4c0c"></script>
+
+<script src="/js/adplacements3.js"></script>
+<script async>
+lgl=1;function ge(e){return document.getElementById(e)}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function gr(e){return e.getBoundingClientRect()}
+function ih(e,c){e.innerHTML=c}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+id_t=4636;</script>
+<script src="/js/ev3.js"></script>
+</HEAD>
+
+<BODY>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<span id="svg"></span>
+<div id="hdr" class="hdr">
+ <div class="logo">
+  <div class="logo1 rel">
+   <a href="/" title="Читаем книги онлайн. Интернет-библиотека Алексея Комарова">
+    <div id="lmini"><svg style="width:4.9em;height:2.5em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="800 15 1500 1600"><use xlink:href="#logoMini" /></svg></div>
+    <div id="lmaxi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoBg" /><use xlink:href="#logoMaxi" /></svg></div>
+    <div id="lmidi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoMidi" /></svg></div>
+   </a>
+	</div>
+ </div>
+ <div id="qs1" class="qson">
+  <form id="sf2" method=get action="/search.phtml"><div id="sf1" style="display:flex;align-items:stretch">
+	<div><input class="tf" id="qi1" size=200 type="text" name="q" placeholder="Поиск: автор и/или название произведения" value=""></div>
+	<div id="sb" class="sb" style="">
+	<input id="ss" type="submit" value="Найти"><span id="smg"><svg id="sb1" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="60 0 115 140">
+<use xlink:href="#mglass" /></svg></span></div></div>
+</form>
+</div>
+<div id="sm" class="m"><a style="width:1.2em;white-space:nowrap" href="#" class="ma" onclick="toggle_sf();">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="65 18 115 115"><use xlink:href="#mglass" /></svg>
+</a></div>
+<div class="m"><a href="/author.html" class="ma">Авторы</a></div>
+<div class="spce">&nbsp;</div>
+</div>
+<div id="ex" class="l">
+<div id="lft0">
+<div class="f fc" style="justify-content:space-between">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+
+	<div id="text" class="t hya">
+	<div id="thdr" class="thdr">
+<a href="/author/hkandersen/index.html">Х. К. Андерсен</a>. <a href="/text/4636/index.html">Сундук-самолет</a></div>
+
+<div class="author">Ханс Кристиан Андерсен</div>
+<div class="title"><h1>Сундук-самолет</h1></div>
+<z><o></o>Жил-был купец, такой богач, что мог бы вымостить серебряными деньгами целую улицу, да еще переулок в придачу; этого, однако, он не делал, &mdash; он знал, куда девать деньги, и если тратил скиллинг, то наживал целый далер. Уж такой он был купец! Но вот он умер, и все денежки достались его сыну.</z>
+<z><o></o>Весело зажил сын купца: каждую ночь &mdash; в маскараде, пускал змеев из кредитных бумажек, а круги по воде &mdash; вместо камешков золотыми монетами. Не мудрено, что денежки прошли у него между пальцев и под конец из всего наследства осталось только четыре скиллинга, и из платья &mdash; старый халат да пара туфель. Друзья и знать его больше не хотели &mdash; им ведь тоже неловко было теперь показаться с ним на улице; но один из них, человек добрый, прислал ему старый сундук с советом: укладываться! Отлично; одно горе &mdash; нечего ему было укладывать; он взял да и уселся в сундук сам!</z>
+<z><o></o>А сундук-то был не простой. Стоило нажать замок &mdash; и сундук взвивался в воздух. Купеческий сын так и сделал. Фьють! &mdash; сундук вылетел с ним в трубу и понесся высоко-высоко, под самыми облаками, &mdash; только дно потрескивало! Купеческий сын поэтому крепко побаивался, что вот-вот сундук разлетится вдребезги: славный прыжок пришлось бы тогда совершить ему! Боже упаси! Но вот он прилетел в Турцию, зарыл свой сундук в лесу в кучу сухих листьев, а сам отправился в город, &mdash; тут ему было нечего стесняться своего наряда: в Турции все ведь ходят в халатах и туфлях. На улице встретилась ему кормилица с ребенком, и он сказал ей:</z>
+<z><o></o>&mdash; Послушай-ка, турецкая мамка! Что это за большой дворец тут, у самого города, еще окна так высоко от земли?</z>
+<z><o></o>&mdash; Тут живет принцесса! &mdash; сказала кормилица. &mdash; Ей предсказано, что она будет несчастной по милости своего жениха; вот к ней и не смеет являться никто иначе, как в присутствии самих короля с королевой.</z>
+<z><o></o>&mdash; Спасибо! &mdash; сказал купеческий сын, пошел обратно в лес, уселся в свой сундук, прилетел прямо на крышу дворца и влез к принцессе в окно.</z>
+<z><o></o>Принцесса спала на диване и была так хороша собою, что он не мог не поцеловать ее. Она проснулась и очень испугалась, но купеческий сын сказал, что он турецкий бог, прилетевший к ней по воздуху, и ей это очень понравилось.</z>
+<z><o></o>Они уселись рядышком, и он стал рассказывать ей сказки о ее глазах: это были два чудных темных озера, в которых плавали русалочки-мысли; о ее белом лбе: это была снежная гора, скрывавшая в себе чудные покои и картины; наконец, об аистах, которые приносят людям крошечных миленьких деток.</z>
+<z><o></o>Да, чудесные были сказки! А потом он посватался за принцессу, и она сразу согласилась.</z>
+<z><o></o>&mdash; Но вы должны прийти сюда в субботу! &mdash; сказала она ему. &mdash; Ко мне придут на чашку чая король с королевой. Они будут очень польщены тем, что я выхожу замуж за турецкого бога, и вы уж постарайтесь рассказать им сказку получше &mdash; мои родители очень любят сказки. Но мамаша любит слушать что-нибудь поучительное и серьезное, а папаша &mdash; веселое, чтобы можно было посмеяться.</z>
+<z><o></o>&mdash; Я и не принесу никакого свадебного подарка, кроме сказки! &mdash; сказал купеческий сын. Принцесса подарила ему на прощанье саблю, всю выложенную червонцами, а их-то ему и недоставало. С тем они и расстались.</z>
+<z><o></o>Сейчас же полетел он, купил себе новый халат, а затем уселся в лесу сочинять сказку; надо ведь было сочинить ее к субботе, а это не так-то просто, как кажется.</z>
+<z><o></o>Но вот сказка была готова, и настала суббота.</z>
+<z><o></o>Король, королева и весь двор собрались к принцессе на чашку чая. Купеческого сына приняли как нельзя лучше.</z>
+<z><o></o>&mdash; Ну-ка, расскажите нам сказку! &mdash; сказала королева. &mdash; Только что-нибудь серьезное и поучительное.</z>
+<z><o></o>&mdash; Но чтобы и посмеяться можно было! &mdash; прибавил король.</z>
+<z><o></o>&mdash; Хорошо! &mdash; отвечал купеческий сын и стал рассказывать.</z>
+<z><o></o>Слушайте же хорошенько!</z>
+<z><o></o>&mdash; Жила-была пачка серных спичек, очень гордых своим высоким происхождением: родоначальница их семьи, то есть сосна, была одним из самых крупных и старейших деревьев в лесу. Теперь спички лежали на полке между огнивом и старым железным котелком и рассказывали соседям о своем детстве.</z>
+<z><o></o>&mdash; Да, хорошо нам жилось, когда мы были еще зелеными веточками, &mdash; говорили они. &mdash; Каждое утро и каждый вечер у нас был бриллиантовый чай &mdash; роса, день-деньской светило на нас в ясную погоду солнышко, а птички должны были рассказывать нам сказки! Мы отлично понимали, что принадлежим к богатой семье: лиственные деревья были одеты только летом, а у нас хватало средств и на летнюю и на зимнюю одежду. Но вот явились раз дровосеки, и началась великая революция! И семья наша рассеялась по всему свету! Глава семьи &mdash; ствол получил после того место грот-мачты на великолепном корабле, который мог бы объехать кругом всего света, если б только захотел; ветви же разбрелись кто куда, а нам вот выпало на долю служить светочами для черни. Вот ради чего очутились на кухне такие благородные господа, как мы!</z>
+<z><o></o>&mdash; Ну, со мной не то было! &mdash; сказал котелок, рядом с которым лежали спички. &mdash; С самого моего появления на свет меня беспрестанно чистят, скребут и ставят на огонь. Я забочусь вообще о существенном и, говоря по правде, занимаю здесь в доме первое место. Единственное мое баловство &mdash; это вот лежать после обеда чистеньким на полке и вести приятную беседу с товарищами. Все мы вообще большие домоседы, если не считать ведра, которое бывает иногда во дворе; новости же нам приносит корзинка для провизии; она часто ходит на рынок, но у нее уж чересчур резкий язык. Послушать только, как она рассуждает о правительстве и о народе! На днях, слушая ее, свалился от страха с полки и разбился в черепки старый горшок! Да, немножко легкомысленна она, скажу я вам!</z>
+<z><o></o>&mdash; Уж больно ты разболтался! &mdash; сказало вдруг огниво, и сталь так ударила по кремню, что посыпались искры. &mdash; Не устроить ли нам лучше вечеринку?</z>
+<z><o></o>&mdash; Да, конечно. Побеседуем о том, кто из нас всех благороднее! &mdash; сказали спички.</z>
+<z><o></o>&mdash; Нет, я не люблю говорить о самой себе, &mdash; сказала глиняная миска. &mdash; Будем просто вести беседу! Я начну и расскажу кое-что из жизни, что будет знакомо и понятно всем и каждому, а это ведь приятнее всего. Так вот: на берегу родного моря, под тенью датских буков...</z>
+<z><o></o>&mdash; Чудесное начало! &mdash; сказали тарелки. &mdash; Вот это будет история как раз по нашему вкусу!</z>
+<z><o></o>&mdash; Там в одной мирной семье провела я свою молодость. Вся мебель была полированная, пол чисто вымыт, а занавески на окнах сменялись каждые две недели.</z>
+<z><o></o>&mdash; Как вы интересно рассказываете! &mdash; сказала метелка. &mdash; В вашем рассказе так и слышна женщина, чувствуется какая-то особая чистоплотность!</z>
+<z><o></o>&mdash; Да, да! &mdash; сказало ведро и от удовольствия даже подпрыгнуло, плеснув на пол воду.</z>
+<z><o></o>Глиняная миска продолжала свой рассказ, и конец был не хуже начала.</z>
+<z><o></o>Тарелки загремели от восторга, а метелка достала из ящика с песком зелень петрушки и увенчала ею миску; она знала, что это раздосадует всех остальных, да к тому же подумала: &laquo;Если я увенчаю ее сегодня, она увенчает меня завтра!&raquo;</z>
+<z><o></o>&mdash; Теперь мы попляшем! &mdash; сказали угольные щипцы и пустились в пляс. И боже мой, как они вскидывали то одну, то другую ногу! Старая обивка на стуле, что стоял в углу, не выдержала такого зрелища и лопнула!</z>
+<z><o></o>&mdash; А нас увенчают? &mdash; спросили щипцы, и их тоже увенчали.</z>
+<z><o></o>&laquo;Все это одна чернь!&raquo; &mdash; думали спички.</z>
+<z><o></o>Теперь была очередь за самоваром; он должен был спеть. Но самовар отговорился тем, что простужен и может петь лишь тогда, когда внутри его кипит, &mdash; он просто важничал и не хотел петь иначе, как стоя на столе у господ.</z>
+<z><o></o>На окне лежало старое гусиное перо, которым обыкновенно писала служанка; в нем не было ничего замечательного, кроме разве того, что его слишком глубоко макали в чернильницу, но именно этим оно и гордилось!</z>
+<z><o></o>&mdash; Что ж, если самовар не хочет петь, так и не надо! &mdash; сказало оно. &mdash; За окном висит в клетке соловей &mdash; пусть он споет! Положим, он не из ученых, но об этом мы сегодня говорить не будем.</z>
+<z><o></o>&mdash; По-моему, это в высшей степени неприлично &mdash; слушать какую-то пришлую птицу! &mdash; сказал большой медный чайник, кухонный певец и сводный брат самовара. &mdash; Разве это патриотично? Пусть рассудит корзинка для провизии!</z>
+<z><o></o>&mdash; Я просто из себя выхожу! &mdash; сказала корзинка. &mdash; Вы не поверите, до чего я выхожу из себя! Разве так следует проводить вечера? Неужели нельзя поставить дом на надлежащую ногу? Каждый бы тогда знал свое место, и я руководила бы всем! Тогда дело пошло бы совсем иначе!</z>
+<z><o></o>&mdash; Давайте же шуметь! &mdash; закричали все.</z>
+<z><o></o>Вдруг дверь отворилась, вошла служанка, и &mdash; все присмирели, никто ни гугу; но не было ни единого горшка, который бы не мечтал про себя о своей знатности и о том, что он мог бы сделать. &laquo;Уж если бы взялся за дело я, пошло бы веселье!&raquo; &mdash; думал про себя каждый.</z>
+<z><o></o>Служанка взяла спички и зажгла ими свечку. Боже ты мой, как они зафыркали, загораясь!</z>
+<z><o></o>&laquo;Вот теперь все видят, что мы здесь первые персоны! &mdash; думали они. &mdash; Какой от нас блеск, сколько света!&raquo;</z>
+<z><o></o>Тут они и сгорели.</z>
+<z><o></o>&mdash; Чудесная сказка! &mdash; сказала королева. &mdash; Я точно сама посидела в кухне вместе со спичками! Да, ты достоин руки нашей дочери.</z>
+<z><o></o>&mdash; Конечно! &mdash; сказал король. &mdash; Свадьба будет в понедельник!</z>
+<z><o></o>Теперь они уже говорили ему &laquo;ты&raquo; &mdash; он ведь скоро должен был сделаться членом их семьи.</z>
+<z><o></o>Итак, день свадьбы был объявлен, и вечером в городе устроили иллюминацию, а в народ бросали пышки и крендели. Уличные мальчишки поднимались на цыпочки, чтобы поймать их, кричали &laquo;ура&raquo; и свистели в пальцы; великолепие было несказанное.</z>
+<z><o></o>&laquo;Надо же и мне устроить что-нибудь!&raquo; &mdash; подумал купеческий сын; он накупил ракет, хлопушек и прочего, положил все это в свой сундук и взвился в воздух.</z>
+<z><o></o>Пиф, паф! Шш-пшш! Вот так трескотня пошла, вот так шипенье!</z>
+<z><o></o>Турки подпрыгивали так, что туфли летели им через головы; никогда еще не видывали они такого фейерверка. Теперь-то все поняли, что на принцессе женится сам турецкий бог.</z>
+<z><o></o>Вернувшись со своим сундуком в лес, купеческий сын подумал: &laquo;Надо пойти в город послушать, что там говорят обо мне!&raquo; И не мудрено, что ему захотелось узнать это.</z>
+<z><o></o>Ну и рассказов же ходило по городу! К кому он ни обращался, всякий, оказывается, видел и рассказывал о виденном по-своему, но все в один голос говорили, что это было дивное зрелище.</z>
+<z><o></o>&mdash; Я видел самого турецкого бога! &mdash; говорил один. &mdash; Глаза у него, что твои звезды, а борода что пена морская!</z>
+<z><o></o>&mdash; Он летел в огненном плаще! &mdash; рассказывал другой. &mdash; А из складок выглядывали прелестнейшие ангельчики.</z>
+<z><o></o>Да, много чудес рассказали ему, а на другой день должна была состояться и свадьба.</z>
+<z><o></o>Пошел он назад в лес, чтобы опять сесть в свой сундук. Да куда ж он девался? Сгорел! Купеческий сын уронил в него искру от фейерверка, сундук тлел, тлел, да и вспыхнул; теперь от него оставалась одна зола. Так и не удалось купеческому сыну опять прилететь к своей невесте.</z>
+<z><o></o>А она весь день стояла на крыше, дожидаясь его, да ждет и до сих пор! Он же ходит по белу свету и рассказывает сказки, только уж не такие веселые, как была его первая сказка о серных спичках!</z>
+<div class="i0 tc" style="padding-top:.5em;border-bottom:1px solid #666;width:6em;margin:auto;position:relative"><span class="rel bg1" style="top:.4em;color:#666;padding:0em .2em;line-height:.8em">&#10022;</span></div><iframe id="noteFrame"></iframe><div id="tbd"></div><script>
+nf=ge("noteFrame");
+nf.onload = () => {
+	nfd=nf.contentWindow.document;
+	nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+}
+nfd=nf.contentWindow.document;
+nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+
+tf=ge("tocFrame");
+tf.onload = () => {
+	tfd=tf.contentWindow.document;
+	tfd.addEventListener("click",function(e){eid=tfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="tocHide")hideToc();},true);
+}
+</script>
+</div>
+<div id="s" style="height:0em"></div>
+<div class="tc" style="margin:3em -6px 1em">
+<div id="yar"></div>
+</div>
+
+
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">&copy; Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div><script>
+turl = new URL(document.URL);
+if (turl.hash != '')
+{
+	window.addEventListener('load',function(){scrollToId();});
+} 
+
+function scrollToId() {
+	ah_e = document.getElementById('ex_a' + turl.hash.substring(3));
+	ah_e.scrollIntoView({ block: "start" });
+}
+var cntr=0;</script>
+
+</div>
+
+<div id="f_r1" style="background-color:#e6e0d3">
+<div class="f" style="height:100%;border-left:1px solid #7f7f96;padding:0em"><div id="in" class="f fc jsb ci" style="width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div class="rel tc">
+<div id="right-rectangle-stick-1" class="ib" style="max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+</script>
+<div id="gglad" class="ib" style="max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+ <div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+  <div class="tc">
+	 <div id="right-rectangle-stick-2" class="ib" style="max-width:400px"></div>
+   <div id="btmad" class="ib" style="max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+	</div>
+ </div></div>
+</div>
+</div></div>
+</div>
+</div>
+
+</div>
+</div><div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: <a href="mailto:otklik@ilibrary.ru">otklik@ilibrary.ru</a></span><span class="bmi"><a href="/aboutilibrary/">О библиотеке</a></span><span class="bmi"><a href="/reklama.phtml">Реклама на сайте</a></span></div>
+<div>&copy;1996&#151;2026 Алексей Комаров. Подборка&nbsp;произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+<a href="https://metrika.yandex.ru/stat/?id=5179000&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/5179000/3_0_FFFFF0FF_E0E0D0FF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="5179000" data-lang="ru" /></a>
+<script type="text/javascript" >   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div><img src="https://mc.yandex.ru/watch/5179000" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+setBrackets();
+setArrows();setPoems();
+window.addEventListener('scroll',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+});
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(setBrackets)!=='undefined') setBrackets();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+if(cntr)document.write(cntr);</script>
+</div>
+</BODY>
+</HTML>
+<!-- 0.000515143 -->

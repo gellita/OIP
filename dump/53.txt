@@ -1,0 +1,295 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML lang="ru">
+
+<HEAD>
+<TITLE>П. П. Бажов. Аметистовое дело. Текст произведения</TITLE>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<META NAME="Keywords" CONTENT="русская классическая литература интернет-библиотека Алексея Комарова текст читать Павел Бажов Аметистовое дело">
+<META NAME="Description" CONTENT='Павел Бажов. Аметистовое дело. Текст произведения. Источник: П. П. Бажов. Сочинения в трех томах. Т. 2. М.: Правда, 1986. Интернет-библиотека Алексея Комарова'>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+<link id="mainCSS" rel=stylesheet type="text/css" href="/etc/styles4_18.css">
+<script src="https://yandex.ru/ads/system/header-bidding.js" async></script>
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+<script async src="https://cdn.skcrtxr.com/roxot-wrapper/js/roxot-manager.js?pid=8c86a31e-948e-4d37-9b5a-304d2fbc4c0c"></script>
+
+<script src="/js/adplacements3.js"></script>
+<script async>
+lgl=1;function ge(e){return document.getElementById(e)}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function gr(e){return e.getBoundingClientRect()}
+function ih(e,c){e.innerHTML=c}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+id_t=4657;</script>
+<script src="/js/ev3.js"></script>
+</HEAD>
+
+<BODY>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<span id="svg"></span>
+<div id="hdr" class="hdr">
+ <div class="logo">
+  <div class="logo1 rel">
+   <a href="/" title="Читаем книги онлайн. Интернет-библиотека Алексея Комарова">
+    <div id="lmini"><svg style="width:4.9em;height:2.5em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="800 15 1500 1600"><use xlink:href="#logoMini" /></svg></div>
+    <div id="lmaxi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoBg" /><use xlink:href="#logoMaxi" /></svg></div>
+    <div id="lmidi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoMidi" /></svg></div>
+   </a>
+	</div>
+ </div>
+ <div id="qs1" class="qson">
+  <form id="sf2" method=get action="/search.phtml"><div id="sf1" style="display:flex;align-items:stretch">
+	<div><input class="tf" id="qi1" size=200 type="text" name="q" placeholder="Поиск: автор и/или название произведения" value=""></div>
+	<div id="sb" class="sb" style="">
+	<input id="ss" type="submit" value="Найти"><span id="smg"><svg id="sb1" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="60 0 115 140">
+<use xlink:href="#mglass" /></svg></span></div></div>
+</form>
+</div>
+<div id="sm" class="m"><a style="width:1.2em;white-space:nowrap" href="#" class="ma" onclick="toggle_sf();">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="65 18 115 115"><use xlink:href="#mglass" /></svg>
+</a></div>
+<div class="m"><a href="/author.html" class="ma">Авторы</a></div>
+<div class="spce">&nbsp;</div>
+</div>
+<div id="ex" class="l">
+<div id="lft0">
+<div class="f fc" style="justify-content:space-between">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+
+	<div id="text" class="t hya">
+	<div id="thdr" class="thdr">
+<a href="/author/bazhov/index.html">П. П. Бажов</a>. <a href="/text/4657/index.html">Аметистовое дело</a></div>
+
+<div class="author">Павел Бажов</div>
+<div class="title"><h1>Аметистовое дело</h1></div>
+<z><o></o>Не про людей, про себя сказывать стану.</z>
+<z><o></o>В те годы, как народ валом в колхозы пошел, я уж в немолодых годах был. Вместо русых-то кудрей плешину во всю голову отрастил. И старуха моя не молодухой глядела. Раньше, бывало, звал ее песенной машинкой, а теперь вроде точильного станка вышло. Так и точит меня, так и точит: того нет, этого нехватка.</z>
+<z><o></o>&mdash; У людей мужики обо всем позаботятся, а у нас, как приплетется да в бане выпарится, так и на боковую. И ни о чем ему думушки нет!</z>
+<z><o></o>К той поре мы с ней вдвоем остались. Младших дочерей пристроили, а трое сыновей давно в отделе жили, всяк свое хозяйство завел. Старуха и в том меня винила, что в избе пусто стало.</z>
+<z><o></o>&mdash; Из-за тебя это! Из-за твоего злосчастного ремесла!</z>
+<z><o></o>&mdash; Чем, &mdash; спрашиваю, &mdash; мое ремесло помешало?</z>
+<z><o></o>&mdash; Известно, &mdash; отвечает, &mdash; чем. Во всяком доме старики хозяйство ведут, землю пашут, хлебушко сеют, молодым распорядок дают, а ты что? До старости ума не накопил. Бегаешь по каменным ямам. Дома-то гостем бываешь.</z>
+<z><o></o>Я, понятно, урезониваю ее:</z>
+<z><o></o>&mdash; Живем все-таки. Детей вырастили. По миру никто не хаживал. Не лежебока, поди, я у тебя: зарабатываю сколько-то. Что еще надо?</z>
+<z><o></o>Старуха знай свое толмит:</z>
+<z><o></o>&mdash; По твоим-то трудам нам бы в каменном доме жить, а мы этот хоть маленько подправить не можем. Стены-то, гляди, насквозь просвечивают, да и печка, того и жди, повалится. Хозяин! А все потому, что хлебушком не занимаешься. В деревне век прожили, а куричешкам овес с купли! Где это слыхано?</z>
+<z><o></o>&mdash; Дура ты! &mdash; говорю. &mdash; Я, поди, дорогой товар добываю. Это тебе не овес &mdash; где посеял, там и вырастет. Искать приходится. Зато попадет, так за три воза твоего овса в кошельке принесешь.</z>
+<z><o></o>&mdash; Не упомню, &mdash; отвечает, &mdash; такого случая, чтоб ты по три воза овса в кошельке приносил. Не при мне, видно, такое было. Чаще с пустым приходил. Помнишь &mdash; жаловался: &laquo;Не пофартило мне, Марьюшка, на этой неделе. Ничего, почитай, не добыл&raquo;. А я-то сдуру ему наговаривала: &laquo;Не тужи, Иванушка! Не всяк день солнышко, бывает и слякиша&raquo;. Забыл про это?</z>
+<z><o></o>&mdash; А помнишь, &mdash; опять спрашиваю, &mdash; ту щеточку камешков, на которую мы корову купили? А тот камешек, что на васильеву женитьбу хватило? Да мало ли у меня веселых находок бывало!..</z>
+<z><o></o>&mdash; Не забыла, &mdash; говорит, &mdash; и это. Как найдешь, что повеселее, так и уберешься в город сбывать, да и шатаешься там невесть сколько, а я тут бьюсь-колочусь с ребятами да о тебе думаю, не убили бы. Нет, одна мука твое ремесло!</z>
+<z><o></o>Одним словом, не сговоришь с ней. А бить ее, как иные-прочие делали, у меня в заведенье не было, да и не такой мы судьбы, чтоб об этом даже подумать. Знал я, что она одна-разъединая на всем белом свете меня жалела, да и теперь жалеет по-настоящему. Ворчит-ворчит, а баньку про меня, небось, спозаранок натопит, перемывку наготовит, кусок посытнее найдет, а когда и словом утешит. Помню ее-то присловье: &laquo;Не тужи, Иванушка, не все солнышко, бывает и слякиша!&raquo; Другая на ее-то месте давно бы от меня ушла, а мы с ней троих сыновей да двух дочерей вырастили, и все они не на смеху у людей живут. Признаться, и то было, что сам за собой вину чуял. Старуха моя правду говорила. Ремесло мое &mdash; и верно &mdash; не по месту пришлось.</z>
+<z><o></o>Деревня наша, по-старому считать, в Ирбитском уезде приходилась. Народ тут сплошь хлебушком занимался да коноплей маленько. И скот тоже разводили. Родители мои, от коих мне этот дом в наследство перешел, были природные пахари да оба, на мою беду, в молодых годах померли, оставили меня несмысленышем на горькое сиротское житье. Про хозяйство, конечно, и разговаривать нечего: его живо растащили те благодетели, у которых я сперва кормился, а потом работать стал. Ворочать на чужого дядю, известно, нигде не сладко, а все лучше, как не в своей деревне. Я и убрался на прииски, где золото да камешки добывали. Недалеко от нас это место. На приисках я и получил эту каменную заразу.</z>
+<z><o></o>Из всех камней мне больше аметист полюбился. Камень не больно дорогой, из самых ходовых, а чем-то взял меня. Да и как взял! Бывало, добудешь щеточку и знаешь, что красная цена ей рублевка, а любуешься на полную десятку да еще жалеешь, что сдавать придется.</z>
+<z><o></o>Как в полный возраст пришел, домой потянуло. Дай, думаю, покажусь своим деревенским, чтоб знали, что не загиб. Да и на дом родительский поглядеть охота, &mdash; совсем его растащили мои благодетели али сколько оставили. Пришел в самый весенний праздник. Родительский дом оказался в сохранности. Благодетели, видишь, все на него нацелились, один другому не давали растаскивать, &mdash; дом и уцелел. Оглядел я, вижу: не больно корыстно, а жить можно. Пошел потом на гульбище, за деревню, где хороводы водили. Деревенские ребята меня за чужака приняли, отшибить хотели, да подступить боялись. Видишь, каков уродился. На-днях вон Колютка, внучонок мой от старшей дочери, говорил: &laquo;Дедушка! У тебя рука-то в полном развороте, как аэропланово крыло&raquo;. Так и есть. На ходу ненароком могу человека с ног сбить. Недаром в потемках сторонятся. Думают, не колокольня ли по земле пошла. Вот ребята и не знали, как подступить. Ну, я не стал до драки доводить, сказался, что за человек. По этому случаю выпили, конечно. Так, самую малость, потому я приверженности к этому не имею. На празднике когда для веселости выпью стакан-два, а чтоб допьяна напиваться, &mdash; этого у меня не бывало.</z>
+<z><o></o>В тот же вечер я со своей нынешней старухой встретился. Ее-то доля горше моей оказалась. Мать с ней проходом по нашей деревне шла да в одночасье и умерла, а ее оставила годочков трех либо четырех. Только и знали, что звать Машей, а чья, из какого места, так и осталось неведомо. При покойнице никаких бумаг не оказалось. Чтоб суд да полиция не наехали и деревню не разорили, захоронили эту проходящую потихоньку, а девчушечку богатому мужику в дочери отдали. Дальше и пошло по посказульке.</z>
+<z><o></o>Росла Настя &mdash; колотили часто, выросла Настасья &mdash; пошла по напастям да без передышки. От одной отобьется, другая навалится. Думала-думала, решилась с белым светом проститься, да на дороге кудряш попался. Поглядела девка на незнакомого парня, а он и говорит: &laquo;Не торопись, красавица, к тому, постой с этим. Не покаешься! Головой ручаюсь, а она, видишь, кудрявая. В пустой игре такую не поставят&raquo;. Девка и остановилась. Посудачили малость, на другой день опять встретились. Так и пошло, а вскоре, глядишь, и свадьбу сыграли.</z>
+<z><o></o>У нас с Марьюшкой из точки в точку по этой сказке и вышло. Сразу почуяли, что наша судьба по одной дороге пошла. Раздумывать долго не стали, пошли в церковь: обвенчаться желаем. Нам сперва отказали: нельзя, потому невестины годы неведомы. &laquo;Как, &mdash; говорю, &mdash; неведомы, коли она в этой деревне выросла, на глазах у всех?&raquo; &mdash; &laquo;Это, &mdash; отвечают, &mdash; мало значит, что на глазах росла. Бумага нужна, в какой день она родилась и каких родителей дочь&raquo;. Ну, вижу: словами тут ничего не добьешься. Отдал им два камешка позанятнее. Тогда нашли ходок, записали на того богатого мужика, которому сперва она в дочери была отдана. И стала моя Марьюшка Афанасьевной, даром что этот Афанасий самым лютым ворогом ей оказался. Ну, в этом важности нет.</z>
+<z><o></o>Обвенчали нас, и стала в деревне новая пара: Иван Долган да Марья с Голого поля. Силы да здоровья нам обоим у людей не занимать. Хотели сперва хозяйствовать, как другие наши деревенские. Коровенку купили, пару овечек завели, куричешек сколько-то. При родительском доме огород был обширный. Городьбу поправили, засадили вовремя. Места у нас не тесные. Накосить травы не то что для одной коровенки, а и для двух-трех при моих-то руках, прямо сказать, плевое дело. Все бы ладно, да на лошадке спотычка вышла. По времени, может, лошаденку и огоревали бы, да прибавок к ней большой требуется: телега да сани, сбруя да снасть разная. Без благодетелей никак не обойдешься, а они, эти благодетели, нам с Марьюшкой солоно пришлись. Так у нас полного хозяйства и не вышло.</z>
+<z><o></o>Убежал я опять на прииски работать. Правду сказать, и камень тянул меня. Не умею тебе объяснить, в чем тут сила, а тянул. Вроде не жадный я, на большое богатство никогда не льстился, а добыть новый камешек охота. Ну, и народ приисковый как-то ближе деревенского стал.</z>
+<z><o></o>Так мы с Марьюшкой и жили. Помогал я ей при посадке огорода да в сенокосную пору. Зимами тоже маленько, а больше на приисках колотился. В гражданскую войну ушел с приисковыми в полк &laquo;Красных Орлов&raquo;. За войну меня ранили в ногу при перебежке в цепи. По мякоти пришлось. Сквозная рана, пустяшная. Через месяц опять под ружье встал.</z>
+<z><o></o>Как покончили с Колчаком, домой воротился, и тот же порядок у нас повелся: в деревенские дела не вникал, все на приисках да на приисках. Как колхозы стали строить, мы с Марьюшкой и оказались ни при чем. Не браковали меня, конечно, потому хозяйство трудовое, безлошадное, и сам на войне добровольцем был. Звали даже, да как пойдешь, коли ты не плотник, не каменщик, не чеботарь, не шорник, а из всех сельских работ одно знаешь &mdash; косить да стога метать. Марьюшка больше понавыкла. Она и телят растила, и за птицей ходила, и капусту выращивала хорошую. Такую работницу с радостью бы приняли, да разве она без меня пойдет?</z>
+<z><o></o>Сперва в колхозе-то здешнем немало сумятицы было. Кулаки всякую пакость подстраивали. Ко мне даже один подбегал с разговором, да я этих благодетелей с малых лет понял. Так на него цыкнул, что больше ни один из таких ко мне не сунулся. Потом, как кулаков выселили, дело пошло гораздо лучше. Все наши ребята, конечно, с первых лет в колхоз записались. Меньшак-то &mdash; он успел подучиться маленько &mdash; полеводом стал; большак &mdash; он у меня в гражданскую войну кавалеристом был, &mdash; так его конным двором ведать определили; средний при машинах находился, потому он раньше в кузнице работал; обе дочери тоже при деле. Только мы со старухой, как две галки на прясле в непогожий день осенью: самим обидно, и со стороны на нас глядеть тоскливо.</z>
+<z><o></o>Тут вот старуха и принялась точить меня. Ребята тоже уговаривали. Особо меньшак Петруха старался:</z>
+<z><o></o>&mdash; Брось ты, тятя, своими камешками заниматься! Узенькое это дело, мелкое, когда и вовсе напустую сходит.</z>
+<z><o></o>&mdash; Как, &mdash; говорю, &mdash; так?</z>
+<z><o></o>&mdash; Очень, &mdash; отвечает, &mdash; просто. Много ли народа твой камешек увидят? Да и всяк ли разберет, что тут красота есть? Вот и выходит, по узкой тропочке твой камешек идет. Мало кому радость приносит. А напустую чаще выходит. Один понимающий найдет &mdash; полюбуется, другой понимающий огранит &mdash; тоже полюбуется, а достанется тот камешек дураку, которому ни до чего нет дела, лишь бы блестело. Крашеную бумажку подложить под стекло &mdash; ему и то ладно.</z>
+<z><o></o>&mdash; Это, &mdash; соглашаюсь, &mdash; бывает, да не в том сила, и камень сам меня тянет.</z>
+<z><o></o>Объясняю ему, а он по-своему разумеет:</z>
+<z><o></o>&mdash; Этак же струя из сортировки бежит. Чем она гуще да зерно полнее, тем краше. Глядел бы, не отошел!</z>
+<z><o></o>Втолковываю ему, что в нашем деле главное &mdash; особина камня. В одном синего больше, в другом &mdash; красного, третий желтит сильнее, а разница есть. От одной щетки отломи, и то, на привычный глаз, отличить можно.</z>
+<z><o></o>&mdash; Если приглядеться, &mdash; отвечает Петруха, &mdash; и в зерне это найдешь. Одно в одно никогда не сойдется. На том и сортовое дело поставлено. А если тебе уж так полюбилось на сине-алое с желтым смотреть, так и это найдем.</z>
+<z><o></o>&mdash; Где, &mdash; говорю, &mdash; такое в вашем колхозном деле?</z>
+<z><o></o>&mdash; А вот недавно посылали меня на Красноуфимскую семенную станцию за клевером. Видел я там, как из-под &laquo;кускуты&raquo; &mdash; машина такая есть &mdash; сине-алая струйка бежала. Куда твоему аметисту! Ох, только и клевер у них! По нашим местам таких семян добиться не могут. У нас больше бурые с краснинкой семечки выходят, а у них синего много. Потому и называется &mdash; красноуфимский фиолетовый. Из сортов сорт! На всю страну славится.</z>
+<z><o></o>Тут и начал Петруха про клевер рассказывать. Любил он про это говорить. Ну, грамотный, слова подбирать научился, послушать любо, да и от души сказывал про свое живое. В конце похвалился:</z>
+<z><o></o>&mdash; Будут и у нас аметистовые семена! Тогда и увидишь, лучше или хуже живая семенная струя против твоего сине-алого камешка.</z>
+<z><o></o>Потом спохватился:</z>
+<z><o></o>&mdash; Постой! Мне ведь опять скоро ехать на семенную. Поедем со мной. Поглядишь.</z>
+<z><o></o>И что ты думаешь? Съездил ведь я, видел эту самую &laquo;кускуту&raquo;. Машина как машина. Сита да валики. Умно придумано, чтоб куколь и другие сорняки отгонять. Да не в этом дело. Не приучен я в машинах разбираться. А вот как пошла по корытцу сине-алая с желтинкой струя, тут уж я глаз оторвать не мог. Вроде самого лучшего камня, да еще в таких переливах, каких мне видать не приводилось.</z>
+<z><o></o>Ну, а кончилось это тем, что нас со старухой приняли в колхоз. Не на отшибе от людей теперь живем, а специальность моя называется &mdash; клеверное семеноводство.</z>
+<z><o></o>Добился-таки я фиолетовых-то семян! Мы ведь, горщики, приметливы. Без этого нам нельзя. А клевер что? Та же кашка. В наших местах по-дикому растет, и белая и красная. Бывало, на передышке лежишь на травке, разомнешь у поспелого цветка головку и видишь, что семена разные: одни полнее, другие потощее. Начинаешь разбирать, почему такое? Еще сломишь одну-две головки с других кустов. Оно и видно станет: на котором кусте головок меньше, там и семена полнее. Вот я и стал потом, как в колхозе к этому делу подошел, лишние головки обрывать. Сперва, понятно, на малом месте, на одной грядке. Вижу: хорошо пошло, расширяться с этим стал, а тут и отборные вручную семена сказываться начали. Теперь у нас как клеверная струя при очистке бежит &mdash; залюбуешься. Нарочно люди приходят, чтоб на нее поглядеть. Про меня и говорить нечего. Как маленький, жду этих дней. А ведь дело-то какое!</z>
+<z><o></o>На днях вон новый полевод &mdash; наш-то Петруха погиб на войне с проклятыми фашистами &mdash; вычитывал на собрании, что к концу пятилетки по нашей стране под укос должно пойти что-то свыше двадцати миллионов гектаров многолетних трав. Подумай, сколько семян потребуется. А ведь клеверок &mdash; он всем травам трава. Не только сверху богатство дает, а больше того в земле накопляет. Семечко дорогое! А наше и того дороже, потому не бурое, не красник, а сине-алое, аметистовое.</z>
+<z><o></o>Вот и выходит, что я при аметистовом деле остался, только теперь моя старуха не ворчит, а похваливает:</z>
+<z><o></o>&mdash; В самую точку, Иванушка, придумал! Это и Петрухе нашему память, как он всегда о клевере хлопотал, да и дело самой широкой руки. Не чета твоим камешкам!</z>
+<z><o></o>Это она, конечно, зря про камешки-то судит. Не понимает, старая, да и Петрухе покойному не умел я втолковать, что камень никогда себя не потеряет и сила тут не в одной красоте. Война вон, сказывают, показала, что даже каменные отходы, которые в огранку не брали, на большое дело пригодились. Ну, я об этом помалкиваю. Не ворошу старого. В одном старуха права &mdash; уж очень это широкое дело и вглубь далеко идет. Прямо сказать, землю молодит. И глазам утешно на живую аметистовую струю поглядеть. Будто все аметисты, какие добыл за свою жизнь, перед тобой проходят, да и те видишь, какие в горах остались.<div class="epigraf_source"></div></z>
+<div class="i0 tc" style="padding-top:.5em;border-bottom:1px solid #666;width:6em;margin:auto;position:relative"><span class="rel bg1" style="top:.4em;color:#666;padding:0em .2em;line-height:.8em">&#10022;</span></div><iframe id="noteFrame"></iframe><div id="tbd"></div><script>
+nf=ge("noteFrame");
+nf.onload = () => {
+	nfd=nf.contentWindow.document;
+	nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+}
+nfd=nf.contentWindow.document;
+nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+
+tf=ge("tocFrame");
+tf.onload = () => {
+	tfd=tf.contentWindow.document;
+	tfd.addEventListener("click",function(e){eid=tfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="tocHide")hideToc();},true);
+}
+</script>
+</div>
+<div id="s" style="height:0em"></div>
+<div class="tc" style="margin:3em -6px 1em">
+<div id="yar"></div>
+</div>
+
+
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">&copy; Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div><script>
+turl = new URL(document.URL);
+if (turl.hash != '')
+{
+	window.addEventListener('load',function(){scrollToId();});
+} 
+
+function scrollToId() {
+	ah_e = document.getElementById('ex_a' + turl.hash.substring(3));
+	ah_e.scrollIntoView({ block: "start" });
+}
+var cntr=0;</script>
+
+</div>
+
+<div id="f_r1" style="background-color:#e6e0d3">
+<div class="f" style="height:100%;border-left:1px solid #7f7f96;padding:0em"><div id="in" class="f fc jsb ci" style="width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div class="rel tc">
+<div id="right-rectangle-stick-1" class="ib" style="max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+</script>
+<div id="gglad" class="ib" style="max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+ <div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+  <div class="tc">
+	 <div id="right-rectangle-stick-2" class="ib" style="max-width:400px"></div>
+   <div id="btmad" class="ib" style="max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+	</div>
+ </div></div>
+</div>
+</div></div>
+</div>
+</div>
+
+</div>
+</div><div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: <a href="mailto:otklik@ilibrary.ru">otklik@ilibrary.ru</a></span><span class="bmi"><a href="/aboutilibrary/">О библиотеке</a></span><span class="bmi"><a href="/reklama.phtml">Реклама на сайте</a></span></div>
+<div>&copy;1996&#151;2026 Алексей Комаров. Подборка&nbsp;произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+<a href="https://metrika.yandex.ru/stat/?id=5179000&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/5179000/3_0_FFFFF0FF_E0E0D0FF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="5179000" data-lang="ru" /></a>
+<script type="text/javascript" >   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div><img src="https://mc.yandex.ru/watch/5179000" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+setBrackets();
+setArrows();setPoems();
+window.addEventListener('scroll',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+});
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(setBrackets)!=='undefined') setBrackets();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+if(cntr)document.write(cntr);</script>
+</div>
+</BODY>
+</HTML>
+<!-- 0.000527916 -->

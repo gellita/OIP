@@ -1,0 +1,302 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML lang="ru">
+
+<HEAD>
+<TITLE>П. П. Бажов. Про Великого Полоза. Текст произведения</TITLE>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<META NAME="Keywords" CONTENT="русская классическая литература интернет-библиотека Алексея Комарова текст читать Павел Бажов Про Великого Полоза">
+<META NAME="Description" CONTENT='Павел Бажов. Про Великого Полоза. Текст произведения. Источник: П. П. Бажов. Сочинения в трех томах. Т. 1. М.: Правда, 1986. Интернет-библиотека Алексея Комарова'>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+<link id="mainCSS" rel=stylesheet type="text/css" href="/etc/styles4_18.css">
+<script src="https://yandex.ru/ads/system/header-bidding.js" async></script>
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+<script async src="https://cdn.skcrtxr.com/roxot-wrapper/js/roxot-manager.js?pid=8c86a31e-948e-4d37-9b5a-304d2fbc4c0c"></script>
+
+<script src="/js/adplacements3.js"></script>
+<script async>
+lgl=1;function ge(e){return document.getElementById(e)}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function gr(e){return e.getBoundingClientRect()}
+function ih(e,c){e.innerHTML=c}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+id_t=4602;</script>
+<script src="/js/ev3.js"></script>
+</HEAD>
+
+<BODY>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<span id="svg"></span>
+<div id="hdr" class="hdr">
+ <div class="logo">
+  <div class="logo1 rel">
+   <a href="/" title="Читаем книги онлайн. Интернет-библиотека Алексея Комарова">
+    <div id="lmini"><svg style="width:4.9em;height:2.5em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="800 15 1500 1600"><use xlink:href="#logoMini" /></svg></div>
+    <div id="lmaxi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoBg" /><use xlink:href="#logoMaxi" /></svg></div>
+    <div id="lmidi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoMidi" /></svg></div>
+   </a>
+	</div>
+ </div>
+ <div id="qs1" class="qson">
+  <form id="sf2" method=get action="/search.phtml"><div id="sf1" style="display:flex;align-items:stretch">
+	<div><input class="tf" id="qi1" size=200 type="text" name="q" placeholder="Поиск: автор и/или название произведения" value=""></div>
+	<div id="sb" class="sb" style="">
+	<input id="ss" type="submit" value="Найти"><span id="smg"><svg id="sb1" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="60 0 115 140">
+<use xlink:href="#mglass" /></svg></span></div></div>
+</form>
+</div>
+<div id="sm" class="m"><a style="width:1.2em;white-space:nowrap" href="#" class="ma" onclick="toggle_sf();">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="65 18 115 115"><use xlink:href="#mglass" /></svg>
+</a></div>
+<div class="m"><a href="/author.html" class="ma">Авторы</a></div>
+<div class="spce">&nbsp;</div>
+</div>
+<div id="ex" class="l">
+<div id="lft0">
+<div class="f fc" style="justify-content:space-between">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+
+	<div id="text" class="t hya">
+	<div id="thdr" class="thdr">
+<a href="/author/bazhov/index.html">П. П. Бажов</a>. <a href="/text/4602/index.html">Про Великого Полоза</a></div>
+
+<div class="author">Павел Бажов</div>
+<div class="title"><h1>Про Великого Полоза</h1></div>
+<z><o></o>Жил в заводе мужик один. Левонтьем его звали. Старательный такой мужичок, безответный. Смолоду его в горе&#769; держали, на Гумешках то есть. Медь добывал. Так под землей все молодые годы и провел. Как червяк в земле копался. Свету не видел, позеленел весь. Ну, дело известное, &mdash; гора. Сырость, потемки, дух тяжелый. Ослаб человек. Приказчик видит &mdash; мало от его толку, и удобрился перевести Левонтия на другую работу &mdash; на Поскакуху отправил, на казенный прииск золотой. Стал, значит, Левонтий на прииске робить. Только это мало делу помогло. Шибко уж он нездоровый стал. Приказчик поглядел-поглядел, да и говорит:</z>
+<z><o></o>&mdash; Вот что, Левонтий, старательный ты мужик, говорил я о тебе барину, а он и придумал наградить тебя. Пускай, &mdash; говорит, &mdash; на себя старается. Отпустить его на вольные работы, без оброку.</z>
+<z><o></o>Это в ту пору так делывали. Изробится человек, никуда его не надо, ну, и отпустят на вольную работу.</z>
+<z><o></o>Вот и остался Левонтий на вольных работах. Ну, пить-есть надо, да и семья того требует, чтобы где-нибудь кусок добыть. А чем добудешь, коли у тебя ни хозяйства, ничего такого нет. Подумал-подумал, пошел стараться, золото добывать. Привычное дело с землей-то, струмент тоже не ахти какой надо. Расстарался, добыл и говорит ребятишкам:</z>
+<z><o></o>&mdash; Ну, ребятушки, пойдем, видно, со мной золото добывать. Может, на ваше ребячье счастье и расстараемся, проживем без милостины.</z>
+<z><o></o>А ребятишки у него вовсе еще маленькие были. Чуть побольше десятка годов им.</z>
+<z><o></o>Вот и пошли наши вольные старатели. Отец еле ноги передвигает, а ребятишки &mdash; мал-мала меньше &mdash; за ним поспешают.</z>
+<z><o></o>Тогда, слышь-ко, по Рябиновке верховое золото сильно попадать стало. Вот туда Левонтий заявку сделал. В конторе тогда на этот счет просто было. Только скажи да золото сдавай. Ну, конечно, и мошенство было. Как без этого. Замечали конторски, куда народ бросается, и за сдачей следили. Увидят &mdash; ладно пошло, сейчас то место под свою лапу. Сами, говорят, тут добывать будем, а вы ступайте куда в другое место. Заместо разведки старатели-то у них были. Те, конечно, опять свою выгоду соблюдали. Старались золото не оказывать. В контору сдавали только, чтобы сдачу отметить, а сами все больше тайным купцам стуряли. Много их было, этих купцов-то. До того, слышь-ко, исхитрились, что никакая стража их уличить не могла. Так, значит, и катался обман-от шариком. Контора старателей обвести хотела, а те опять ее. Вот какие порядки были. Про золото стороной дознаться только можно было.</z>
+<z><o></o>Левонтию, однако, не потаили &mdash; сказали честь-честью. Видят, какой уж он добытчик. Пускай хоть перед смертью потешится.</z>
+<z><o></o>Пришел это Левонтий на Рябиновку, облюбовал место и начал работать. Только силы у него мало. Живо намахался, еле жив сидит, отдышаться не может. Ну, а ребятишки, какие они работники? Все ж таки стараются. Поробили так-то с неделю либо больше, видит Левонтий &mdash; пустяк дело, на хлеб не сходится. Как быть? А самому все хуже да хуже. Исчах совсем, но неохота по миру итти и на ребятишек сумки надевать. Пошел в субботу сдать в контору золотишко, какое намыл, а ребятам наказал:</z>
+<z><o></o>&mdash; Вы тут побудьте, струмент покараульте, а то таскать-то его взад-вперед ни к чему нам.</z>
+<z><o></o>Остались, значит, ребята, караульщиками у шалашика. Сбегал один на Чусову-реку. Близко она тут. Порыбачил маленько. Надергал пескозобишков, окунишков, и давай они ушку себе гоношить. Костер запалили, а дело к вечеру. Боязно ребятам стало.</z>
+<z><o></o>Только видят &mdash; идет старик, заводской же. Семенычем его звали, а как по фамилии &mdash; не упомню. Старик этот из солдат был. Раньше-то, сказывают, самолучшим кричным мастером значился, да согрубил что-то приказчику, тот его и велел в пожарную отправить &mdash; пороть, значит. А этот Семеныч не стал даваться, рожи которым покарябал, как он сильно проворный был. Известно, кричный мастер. Ну, все же таки обломали. Пожарники-то тогда здоровущие подбирались. Выпороли, значит, Семеныча и за буйство в солдаты сдали. Через двадцать пять годов он и пришел в завод-от вовсе стариком, а домашние у него за это время все примерли, избушка заколочена стояла. Хотели уж ее разбирать. Шибко не корыстна была. Тут он и объявился. Подправил свою избушку и живет потихоньку, один-одинешенек. Только стали соседи замечать &mdash; неспроста дело. Книжки какие-то у него. И каждый вечер он над ими сидит. Думали, &mdash; может, умеет людей лечить. Стали с этим подбегать. Отказал: &laquo;Не знаю, &mdash; говорит, &mdash; этого дела. И какое тут может леченье быть, коли такая ваша работа&raquo;. Думали, &mdash; может, веры какой особой. Тоже не видно. В церкву ходит о пасхе да о рождестве, как обыкновенно мужики, а приверженности не оказывает. И тому опять дивятся &mdash; работы нет, а чем-то живет. Огородишко, конечно, у него был. Ружьишко немудрящее имел, рыболовную снасть тоже. Только разве этим проживешь? А деньжонки, промежду прочим, у него были. Бывало, кое-кому и давал. И чудно этак. Иной просит-просит, заклад дает, набавку, какую хошь, обещает, а не даст. К другому сам придет:</z>
+<z><o></o>&mdash; Возьми-ка, Иван или там Михайло, на корову. Ребятишки у тебя маленькие, а подняться, видать, не можешь. &mdash; Однем словом, чудной старик. Чертознаем его считали. Это больше за книжки-то.</z>
+<z><o></o>Вот подошел этот Семеныч, поздоровался. Ребята радехоньки, зовут его к себе:</z>
+<z><o></o>&mdash; Садись, дедушко, похлебай ушки с нами.</z>
+<z><o></o>Он не посупорствовал, сел. Попробовал ушки и давай нахваливать &mdash; до чего-де навариста да скусна. Сам из сумы хлебушка мяконького достал, ломоточками порушал и перед ребятами грудкой положил. Те видят &mdash; старику ушка поглянулась, давай уплетать хлебушко-то, а Семеныч одно свое &mdash; ушку нахваливает, давно, дескать, так-то не едал. Ребята под этот разговор и наелись как следует. Чуть не весь стариков хлеб съели. А тот знай похмыкивает:</z>
+<z><o></o>&mdash; Давно так-то не едал.</z>
+<z><o></o>Ну, наелись ребята, старик и стал их спрашивать про их дела. Ребята обсказали ему все по порядку, как отцу от заводской работы отказали и на волю перевели, как они тут работали. Семеныч только головой покачивает да повздыхивает: охо-хо, да охо-хо. Под конец спросил:</z>
+<z><o></o>&mdash; Сколь намыли?</z>
+<z><o></o>Ребята говорят:</z>
+<z><o></o>&mdash; Золотник, а может, поболе, &mdash; так тятенька сказывал.</z>
+<z><o></o>Старик встал и говорит:</z>
+<z><o></o>&mdash; Ну, ладно, ребята, надо вам помогчи. Только вы уж помалкивайте. Чтоб ни-ни. Ни одной душе живой, а то... &mdash; и Семеныч так на ребят поглядел, что им страшно стало. Ровно вовсе не Семеныч это. Потом опять усмехнулся и говорит:</z>
+<z><o></o>&mdash; Вот что, ребята, вы тут сидите у костерка и меня дожидайтесь, а я схожу &mdash; покучусь кому надо. Может, он вам поможет. Только, чур, не бояться, а то все дело пропадет. Помните это хорошенько.</z>
+<z><o></o>И вот ушел старик в лес, а ребята остались. Друг на друга поглядывают и ничего не говорят. Потом старший насмелился и говорит тихонько:</z>
+<z><o></o>&mdash; Смотри, братко, не забудь, чтобы не бояться, &mdash; а у самого губы побелели и зубы чакают. Младший на это отвечает:</z>
+<z><o></o>&mdash; Я, братко, не боюсь, &mdash; а сам помучнел весь.</z>
+<z><o></o>Вот сидят так-то, дожидаются, а ночь уж совсем, и тихо в лесу стало. Слышно, как вода в Рябиновке шумит. Прошло довольно дивно времечка, а никого нет, у ребят испуг и отбежал. Навалили они в костер хвои, еще веселее стало. Вдруг слышат &mdash; в лесу разговаривают. Ну, думают, какие-то идут. Откуда в экое время? Опять страшно стало.</z>
+<z><o></o>И вот подходят к огню двое. Один-то Семеныч, а другой с ним незнакомый какой-то и одет не по-нашенски. Кафтан это на ем, штаны &mdash; все желтое, из золотой, слышь-ко, поповской парчи, а поверх кафтана широкий пояс с узорами и кистями, тоже из парчи, только с зеленью. Шапка желтая, а справа и слева красные зазорины, и сапожки тоже красные. Лицо желтое, в окладистой бороде, а борода вся в тугие кольца завилась. Так и видно, не разогнешь их. Только глаза зеленые и светят, как у кошки. А смотрят по-хорошему, ласково. Мужик такого же росту, как Семеныч, и не толстый, а, видать, грузный. На котором месте стал, под ногами у него земля вдавилась. Ребятам все это занятно, они и бояться забыли, смотрят на того человека, а он и говорит Семенычу шуткой так:</z>
+<z><o></o>&mdash; Это вольны-то старатели? Что найдут, все заберут? Никому не оставят?</z>
+<z><o></o>Потом прихмурился и говорит Семенычу, как советует с им:</z>
+<z><o></o>&mdash; А не испортим мы с тобой этих ребятишек?</z>
+<z><o></o>Семеныч стал сказывать, что ребята не балованные, хорошие, а тот опять свое:</z>
+<z><o></o>&mdash; Все люди на одну колодку. Пока в нужде да в бедности, ровно бы и ничего, а как за мое охвостье поймаются, так откуда только на их всякой погани налипнет.</z>
+<z><o></o>Постоял, помолчал и говорит:</z>
+<z><o></o>&mdash; Ну, ладно, попытаем. Малолетки, может, лучше окажутся. А так ребятки ладненьки, жалко будет, ежели испортим. Меньшенький-то вон тонкогубик. Как бы жадный не оказался. Ты уж понастуй сам, Семеныч. Отец-то у них не жилец. Знаю я его. На ладан дышит, а тоже старается сам кусок заработать. Самостоятельный мужик. А вот дай ему богатство &mdash; тоже испортится.</z>
+<z><o></o>Разговаривает так-то с Семенычем, будто ребят тут и нет. Потом посмотрел на них и говорит:</z>
+<z><o></o>&mdash; Теперь, ребятушки, смотрите хорошенько. Замечайте, куда след пойдет. По этому следу сверху и копайте. Глубоко не лезьте, ни к чему это.</z>
+<z><o></o>И вот видят ребята &mdash; человека того уж нет. Которое место до пояса &mdash; все это голова стала, а от пояса шея. Голова точь-в-точь такая, как была, только большая, глаза ровно по гусиному яйцу стали, а шея змеиная. И вот из-под земли стало выкатываться тулово преогромного змея. Голова поднялась выше леса. Потом тулово выгнулось прямо на костер, вытянулось по земле, и поползло это чудо к Рябиновке, а из земли всё кольца выходят да выходят. Ровно им и конца нет. И то диво, костер-то потух, а на полянке светло стало. Только свет не такой, как от солнышка, а какой-то другой, и холодом потянуло. Дошел змей до Рябиновки и полез в воду, а вода сразу и замерзла по ту и по другую сторону. Змей перешел на другой берег, дотянулся до старой березы, которая тут стояла, и кричит:</z>
+<z><o></o>&mdash; Заметили? Тут вот и копайте! Хватит вам по сиротскому делу. Чур, не жадничайте!</z>
+<z><o></o>Сказал так-то и ровно растаял. Вода в Рябиновке опять зашумела, и костерок оттаял и загорелся, только трава будто все еще озябла, как иней ее прихватил.</z>
+<z><o></o>Семеныч и объяснил ребятам:</z>
+<z><o></o>&mdash; Это есть Великий Полоз. Все золото в его власти. Где он пройдет &mdash; туда оно и подбежит. А ходить он может и по земле, и под землей, как ему надо, и места может окружить, сколько хочет. Оттого вот и бывает &mdash; найдут, например, люди хорошую жилку, и случится у них какой обман, либо драка, а то и смертоубийство, и жилка потеряется. Это, значит, Полоз побывал тут и отвел золото. А то вот еще... Найдут старатели хорошее, россыпное золото, ну, и питаются. А контора вдруг объявит &mdash; уходите, мол, за казну это место берем, сами добывать будем. Навезут это машин, народу нагонят, а золота-то и нету. И вглубь бьют и во все стороны лезут &mdash; нету, будто вовсе не бывало. Это Полоз окружил все то место да пролежал так-то ночку, золото и стянулось все по его-то кольцу. Попробуй, найди, где он лежал.</z>
+<z><o></o>Не любит, вишь, он, чтобы около золота обман да мошенство были, а пуще того, чтобы один человек другого утеснял. Ну, а если для себя стараются, тем ничего, поможет еще когда, вот как вам. Только вы смотрите, молчок про эти дела, а то все испортите. И о том старайтесь, чтобы золото не рвать. Не на то он вам его указал, чтобы жадничали. Слышали, что говорил-то? Это не забывайте первым делом. Ну, а теперь спать ступайте, а я посижу тут у костерка.</z>
+<z><o></o>Ребята послушались, ушли в шалашик, и сразу на их сон навалился. Проснулись поздно. Другие старатели уж давно работают. Посмотрели ребята один на другого и спрашивают:</z>
+<z><o></o>&mdash; Ты, братко, видел вчера что-нибудь?</z>
+<z><o></o>Другой ему:</z>
+<z><o></o>&mdash; А ты видел?</z>
+<z><o></o>Договорились все ж таки. Заклялись, забожились, чтобы никому про то дело не сказывать и не жадничать, и стали место выбирать, где дудку бить. Тут у них маленько спор вышел. Старший парнишечко говорит:</z>
+<z><o></o>&mdash; Надо за Рябиновкой у березы начинать. На том самом месте, с коего Полоз последнее слово сказал.</z>
+<z><o></o>Младший уговаривает:</z>
+<z><o></o>&mdash; Не годится так-то, братко. Тайность живо наружу выскочит, потому &mdash; другие старатели сразу набегут полюбопытствовать, какой, дескать, песок пошел за Рябиновкой. Тут все и откроется.</z>
+<z><o></o>Поспорили так-то, пожалели, что Семеныча нет, посоветовать не с кем, да углядели &mdash; как раз по середке вчерашнего огневища воткнут березовый колышек.</z>
+<z><o></o>&laquo;Не иначе, это Семеныч нам знак оставил&raquo;, &mdash; подумали ребята и стали на том месте копать.</z>
+<z><o></o>И сразу, слышь-ко, две золотые жужелки залетели, да и песок пошел не такой, как раньше. Совсем хорошо у них дело сперва направилось. Ну, потом свихнулось, конечно. Только это уж другой сказ будет.<div class="epigraf_source"></div></z>
+<div class="i0 tc" style="padding-top:.5em;border-bottom:1px solid #666;width:6em;margin:auto;position:relative"><span class="rel bg1" style="top:.4em;color:#666;padding:0em .2em;line-height:.8em">&#10022;</span></div><iframe id="noteFrame"></iframe><div id="tbd"></div><script>
+nf=ge("noteFrame");
+nf.onload = () => {
+	nfd=nf.contentWindow.document;
+	nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+}
+nfd=nf.contentWindow.document;
+nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+
+tf=ge("tocFrame");
+tf.onload = () => {
+	tfd=tf.contentWindow.document;
+	tfd.addEventListener("click",function(e){eid=tfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="tocHide")hideToc();},true);
+}
+</script>
+</div>
+<div id="s" style="height:0em"></div>
+<div class="tc" style="margin:3em -6px 1em">
+<div id="yar"></div>
+</div>
+
+
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">&copy; Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div><script>
+turl = new URL(document.URL);
+if (turl.hash != '')
+{
+	window.addEventListener('load',function(){scrollToId();});
+} 
+
+function scrollToId() {
+	ah_e = document.getElementById('ex_a' + turl.hash.substring(3));
+	ah_e.scrollIntoView({ block: "start" });
+}
+var cntr=0;</script>
+
+</div>
+
+<div id="f_r1" style="background-color:#e6e0d3">
+<div class="f" style="height:100%;border-left:1px solid #7f7f96;padding:0em"><div id="in" class="f fc jsb ci" style="width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div class="rel tc">
+<div id="right-rectangle-stick-1" class="ib" style="max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+</script>
+<div id="gglad" class="ib" style="max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+ <div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+  <div class="tc">
+	 <div id="right-rectangle-stick-2" class="ib" style="max-width:400px"></div>
+   <div id="btmad" class="ib" style="max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+	</div>
+ </div></div>
+</div>
+</div></div>
+</div>
+</div>
+
+</div>
+</div><div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: <a href="mailto:otklik@ilibrary.ru">otklik@ilibrary.ru</a></span><span class="bmi"><a href="/aboutilibrary/">О библиотеке</a></span><span class="bmi"><a href="/reklama.phtml">Реклама на сайте</a></span></div>
+<div>&copy;1996&#151;2026 Алексей Комаров. Подборка&nbsp;произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+<a href="https://metrika.yandex.ru/stat/?id=5179000&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/5179000/3_0_FFFFF0FF_E0E0D0FF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="5179000" data-lang="ru" /></a>
+<script type="text/javascript" >   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div><img src="https://mc.yandex.ru/watch/5179000" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+setBrackets();
+setArrows();setPoems();
+window.addEventListener('scroll',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+});
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(setBrackets)!=='undefined') setBrackets();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+if(cntr)document.write(cntr);</script>
+</div>
+</BODY>
+</HTML>
+<!-- 0.00027951 -->

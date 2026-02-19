@@ -1,0 +1,314 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML lang="ru">
+
+<HEAD>
+<TITLE>П. П. Бажов. Живинка в деле. Текст произведения</TITLE>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<META NAME="Keywords" CONTENT="русская классическая литература интернет-библиотека Алексея Комарова текст читать Павел Бажов Живинка в деле">
+<META NAME="Description" CONTENT='Павел Бажов. Живинка в деле. Текст произведения. Источник: П. П. Бажов. Сочинения в трех томах. Т. 2. М.: Правда, 1986. Интернет-библиотека Алексея Комарова'>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+<link id="mainCSS" rel=stylesheet type="text/css" href="/etc/styles4_18.css">
+<script src="https://yandex.ru/ads/system/header-bidding.js" async></script>
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+<script async src="https://cdn.skcrtxr.com/roxot-wrapper/js/roxot-manager.js?pid=8c86a31e-948e-4d37-9b5a-304d2fbc4c0c"></script>
+
+<script src="/js/adplacements3.js"></script>
+<script async>
+lgl=1;function ge(e){return document.getElementById(e)}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function gr(e){return e.getBoundingClientRect()}
+function ih(e,c){e.innerHTML=c}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+id_t=4641;</script>
+<script src="/js/ev3.js"></script>
+</HEAD>
+
+<BODY>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<span id="svg"></span>
+<div id="hdr" class="hdr">
+ <div class="logo">
+  <div class="logo1 rel">
+   <a href="/" title="Читаем книги онлайн. Интернет-библиотека Алексея Комарова">
+    <div id="lmini"><svg style="width:4.9em;height:2.5em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="800 15 1500 1600"><use xlink:href="#logoMini" /></svg></div>
+    <div id="lmaxi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoBg" /><use xlink:href="#logoMaxi" /></svg></div>
+    <div id="lmidi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoMidi" /></svg></div>
+   </a>
+	</div>
+ </div>
+ <div id="qs1" class="qson">
+  <form id="sf2" method=get action="/search.phtml"><div id="sf1" style="display:flex;align-items:stretch">
+	<div><input class="tf" id="qi1" size=200 type="text" name="q" placeholder="Поиск: автор и/или название произведения" value=""></div>
+	<div id="sb" class="sb" style="">
+	<input id="ss" type="submit" value="Найти"><span id="smg"><svg id="sb1" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="60 0 115 140">
+<use xlink:href="#mglass" /></svg></span></div></div>
+</form>
+</div>
+<div id="sm" class="m"><a style="width:1.2em;white-space:nowrap" href="#" class="ma" onclick="toggle_sf();">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="65 18 115 115"><use xlink:href="#mglass" /></svg>
+</a></div>
+<div class="m"><a href="/author.html" class="ma">Авторы</a></div>
+<div class="spce">&nbsp;</div>
+</div>
+<div id="ex" class="l">
+<div id="lft0">
+<div class="f fc" style="justify-content:space-between">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+
+	<div id="text" class="t hya">
+	<div id="thdr" class="thdr">
+<a href="/author/bazhov/index.html">П. П. Бажов</a>. <a href="/text/4641/index.html">Живинка в деле</a></div>
+
+<div class="author">Павел Бажов</div>
+<div class="title"><h1>Живинка в деле</h1></div>
+<z><o></o>Это еще мои старики сказывали. Годков-то, значит, порядком прошло. Ну, все-таки после крепости было.</z>
+<z><o></o>Жил в те годы в нашем заводе Тимоха Малоручко. Прозванье такое ему на старости лет дали.</z>
+<z><o></o>На деле руки у него в полной исправности были. Как говорится, дай бог всякому. При таких руках на медведя с ножом ходить можно. И в остальном изъяну не замечалось: плечо широкое, грудь крутая, ноги дюжие, шею оглоблей не сразу согнешь. Таких людей по старине, как праздничным делом стенка на стенку ходили, звали стукачами: где стукнет, там и пролом. Самолучшие бойцы от этого Тимохи сторонились, &mdash; как бы он в азарт не вошел. Хорошо, что он на эти штуки не зарный был. Недаром, видно, слово молвлено: который силен, тот драчлив не живет.</z>
+<z><o></o>По работе Тимоха вовсе емкий был, много поднимал и смекалку имел большую. Только покажи, живо переймет и не хуже тебя сделает.</z>
+<z><o></o>По нашим местам ремесло, известно, разное.</z>
+<z><o></o>Кто руду добывает, кто ее до дела доводит. Золото моют, платинешку выковыривают, бутовой да горновой камень ломают, цветной выволакивают. Кто опять веселые галечки выискивает да в огранку пускает. Лесу валить да плавить приходится немалое число. Уголь тоже для заводского дела жгут, зверем промышляют, рыбой занимаются. Случалось и так, что в одной избе у печки ножи да вилки в узор разделывают, у окошка камень точат да шлифуют, а под полатями рогожи ткут. От хлебушка да скотинки тоже не отворачивались. Где гора дозволяла, там непременно либо покос, либо пашня. Одним словом, пестренькое дело, и ко всякому сноровка требуется, да еще и своя живинка полагается.</z>
+<z><o></o>Про эту живинку и посейчас не все толком разумеют, а с Тимохой занятный случай в житье вышел. На примету людям.</z>
+<z><o></o>Он, этот Тимоха, &mdash; то ли от молодого ума, то ли червоточина какая в мозгах завелась, &mdash; придумал всякое здешнее мастерство своей рукой опробовать да еще похваляется:</z>
+<z><o></o>&mdash; В каждом до точки дойду.</z>
+<z><o></o>Семейные и свои дружки-ровни стали отговаривать:</z>
+<z><o></o>&mdash; Ни к чему это. Лучше одно знать до тонкости. Да и житья не хватит, чтобы всякое мастерство своей рукой изведать.</z>
+<z><o></o>Тимоха на своем стоит, спорит да по-своему считает.</z>
+<z><o></o>&mdash; На лесовала &mdash; две зимы, на сплавщика &mdash; две весны, на старателя &mdash; два лета, на рудобоя &mdash; год, на фабричное дело &mdash; годов десяток. А там пойдут углежоги да пахари, охотники да рыбаки. Это вроде забавы одолеть. К пожилым годам камешками заняться можно, али модельщиком каким поступить, либо в шорники на пожарной пристроиться. Сиди в тепле да крути колеско, фуганочком пофуркивай, либо шильцем колупайся.</z>
+<z><o></o>Старики, понятно, смеются:</z>
+<z><o></o>&mdash; Не хвастай, голенастый! Сперва тело изведи.</z>
+<z><o></o>Тимохе неймется.</z>
+<z><o></o>&mdash; На всякое, &mdash; кричит, &mdash; дерево влезу и за вершинку подержусь.</z>
+<z><o></o>Старики еще хотели его урезонить: &mdash; Вершинка, дескать, мера не надежная: была вершинкой, а станет серединкой, да и разные они бывают &mdash; одна ниже, другая выше.</z>
+<z><o></o>Только видят, &mdash; не понимает парень. Отступились: &mdash; Твое дело. Чур, на нас не пенять, что вовремя не отговорили.</z>
+<z><o></o>Вот и стал Тимоха ремёсла здешние своей рукой пробовать.</z>
+<z><o></o>Парень ядреный, к работе усерден &mdash; кто такому откажет. Хоть лес валить, хоть руду дробить &mdash; милости просим. И к тонкому делу допуск без отказу, потому &mdash; парень со смекалкой, и пальцы у него не деревянные, а с большим понятием.</z>
+<z><o></o>Много Тимоха перепробовал заводского мастерства и нигде, понимаешь, не оплошал. Не хуже людей у него выходило.</z>
+<z><o></o>Женатый уж был, ребятишек полон угол с женой накопили, а своему обычаю не попускался. Дойдет до мастера по одному делу и сейчас же поступит в выученики по другому. Убыточно это, а терпел, будто так и надо. По заводу к этому привыкли, при встречах подшучивали:</z>
+<z><o></o>&mdash; Ну как, Тимофей Иванович, все еще в слесарях при механической ходишь али в шорники на пожарную подался?</z>
+<z><o></o>Тимоха к этому без обиды. Отшучивается:</z>
+<z><o></o>&mdash; Придет срок &mdash; ни одно ремесло наших рук не минует.</z>
+<z><o></o>В эти вот годы Тимоха и объявил жене: хочу в углежоги податься. Жена чуть не в голос взвыла:</z>
+<z><o></o>&mdash; Что ты, мужик! Неуж ничего хуже придумать не мог? Всю избу прокоптишь! Рубах у тебя не достираешься. Да и какое это дело! Чему тут учиться?</z>
+<z><o></o>Это она, конечно, без понятия говорила. По нонешним временам, при печах-то, с этим попроще стало, а раньше, как уголь в кучах томили, вовсе мудреное это дело было. Иной всю жизнь колотится, а до настоящего сорта уголь довести не может. Домашние поварчивают:</z>
+<z><o></o>&mdash; Наш тятенька всех на работе замордовал, передышки не дает, а все у него трухляк да мертвяк выходит. У соседей вон песенки попевают, а уголь звон-звоном. Ни недогару, ни перегару у них нет и квелого самая малость.</z>
+<z><o></o>Сколько ни причитала тимохина жена, уговорить не могла. В одном обнадежил:</z>
+<z><o></o>&mdash; Недолго, поди-ка, замазанным ходить буду.</z>
+<z><o></o>Тимоха, конечно, цену себе знал. И как случится ремесло менять, первым делом о том заботился, чтоб было у кого поучиться. Выбирал, значит, мастера.</z>
+<z><o></o>По угольному делу тогда на большой славе считался дедушко Нефед. Лучше всех уголь доводил. Так и назывался &mdash; нефедовский уголь. В сараях этот уголек отдельно ссыпали. На самую тонкую работу выдача была.</z>
+<z><o></o>К этому дедушке Нефеду Тимоха и заявился. Тот, конечно, про тимохино чудачество слыхал и говорит:</z>
+<z><o></o>&mdash; Принять в выученики могу, без утайки все показывать стану, только с уговором. От меня тогда уйдешь, как лучше моего уголь доводить навыкнешь.</z>
+<z><o></o>Тимоха понадеялся на свою удачливость и говорит:</z>
+<z><o></o>&mdash; Даю в том крепкое слово.</z>
+<z><o></o>На этом, значит, порешили и вскорости в курень поехали.</z>
+<z><o></o>Дедушко Нефед &mdash; он, видишь, из таких был... обо всяком деле думал, как его лучше сделать. На что просто чурак на плахи расколоть, а у него и тут разговор.</z>
+<z><o></o>&mdash; Гляди-ко! Сила у меня стариковская, совсем на исходе, а колю не хуже твоего. Почему, думаешь, так-то?</z>
+<z><o></o>Тимоха отвечает: топор направлен и рука привычная.</z>
+<z><o></o>&mdash; Не в одном, &mdash; отвечает, &mdash; топоре да привычке тут дело, а я ловкие точечки выискиваю.</z>
+<z><o></o>Тимоха тоже стал эти ловкие точечки искать.</z>
+<z><o></o>Дедушко Нефед все объясняет по совести, да и то видит &mdash; правда в нефедовых словах есть да и самому забавно. Иной чурак так разлетится, что любо станет, а думка все же останется: может, еще бы лучше по другой точечке стукнуть.</z>
+<z><o></o>Так Тимоха сперва на эти ловкие точечки и поймался.</z>
+<z><o></o>Как стали плахи в кучи устанавливать, дело вовсе хитрое пошло. Мало того, что всякое дерево по-своему ставить доводится, а и с одним деревом случаев не сосчитаешь. С мокрого места сосна &mdash; один наклон, с сухого &mdash; другой. Раньше рублена &mdash; так, позже &mdash; иначе. Потолще плахи &mdash; продухи такие, пожиже &mdash; другие, жердовому расколу &mdash; особо. Вот и разбирайся. И в засыпке землей тоже.</z>
+<z><o></o>Дедушко Нефед все это объясняет по совести, &mdash; да и то вспоминает, у кого чему научился.</z>
+<z><o></o>&mdash; Охотник один научил к дымку принюхиваться. Они &mdash; охотники-то &mdash; на это дошлые. А польза сказалась. Как учую &mdash; кислым потянуло, сейчас тягу посильнее пущу. Оно и ладно.</z>
+<z><o></o>Набеглая женщина надоумила. Остановилась как-то около кучи погреться, да и говорит: &laquo;С этого боку жарче горит&raquo;.</z>
+<z><o></o>&mdash; Как, &mdash; спрашиваю, &mdash; узнала?</z>
+<z><o></o>&mdash; А вот обойди, &mdash; говорит, &mdash; кругом &mdash; сам почуешь.</z>
+<z><o></o>Обошел я, чую &mdash; верно сказала. Ну, подсыпку сделал, поправил дело. С той поры этого бабьего совету никогда не забываю. Она, по бабьему положению, весь век у печки толкошится, привычку имеет жар разбирать.</z>
+<z><o></o>Рассказывает так-то, а сам нет-нет про живинку напомнит:</z>
+<z><o></o>&mdash; По этим вот ходочкам в полных потемочках наша живинка-паленушка и поскакивает, а ты угадывай, чтоб она огневкой не перекинулась, либо пустодымкой не обернулась. Чуть не доглядел, &mdash; либо перегар, либо недогар будет. А коли все дорожки ловко улажены, уголь выйдет звон-звоном.</z>
+<z><o></o>Тимохе все это любопытно. Видит &mdash; дело не простое, попотеть придется, а про живинку все-таки не думает.</z>
+<z><o></o>Уголь у них с дедушкой Нефедом, конечно, первосортный выходил, а все же, как станут разбирать угольные кучи, одна в одну никогда не придется.</z>
+<z><o></o>&mdash; А почему так? &mdash; спрашивает дедушко Нефед, а Тимоха и сам это же думает: в каком месте оплошку сделал?</z>
+<z><o></o>Научился Тимоха и один всю работу доводить. Не раз случалось, что уголь у него и лучше нефедова бывал, а все-таки это ремесло не бросил.</z>
+<z><o></o>Старик посмеивался:</z>
+<z><o></o>&mdash; Теперь, брат, никуда не уйдешь: поймала тебя живинка, до смерти не отпустит.</z>
+<z><o></o>Тимоха и сам дивился &mdash; почему раньше такого с ним никогда не случалось.</z>
+<z><o></o>&mdash; А потому, &mdash; объясняет дедушко Нефед, &mdash; что ты книзу глядел, &mdash; на то, значит, что сделано; а как кверху поглядел &mdash; как лучше делать надо, тут живинка тебя и подцепила. Она, понимаешь, во всяком деле есть, впереди мастерства бежит и человека за собой тянет. Так-то, друг!</z>
+<z><o></o>По этому слову и вышло. Остался Тимоха углежогом, да еще и прозвище себе придумал. Он, видишь, любил молодых наставлять и все про себя рассказывал, как он хотел смолоду все ремёсла одолеть, да в углежогах застрял.</z>
+<z><o></o>&mdash; Никак, &mdash; говорит, &mdash; не могу в своем деле живинку поймать. Шустрая она у нас. Руки, понимаешь, малы.</z>
+<z><o></o>А сам ручинами-то своими разводит. Людям, понятно, смех. Вот Тимоху и прозвали Малоручком. В шутку, конечно, а так мужик вовсе на доброй славе по заводу был.</z>
+<z><o></o>Как дедушко Нефед умер, так малоручков уголь в первых стал. Тоже его отдельно в сараях ссыпали. Прямо сказать, мастер в своем деле был.</z>
+<z><o></o>Его-то внуки-правнуки посейчас в наших местах живут... Тоже которые живинку &mdash; всяк на своем деле &mdash; ищут, только на руки не жалуются. Понимают, поди-ко, что наукой можно человечьи руки наро&#769;стить выше облака.<div class="epigraf_source"></div></z>
+<div class="i0 tc" style="padding-top:.5em;border-bottom:1px solid #666;width:6em;margin:auto;position:relative"><span class="rel bg1" style="top:.4em;color:#666;padding:0em .2em;line-height:.8em">&#10022;</span></div><iframe id="noteFrame"></iframe><div id="tbd"></div><script>
+nf=ge("noteFrame");
+nf.onload = () => {
+	nfd=nf.contentWindow.document;
+	nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+}
+nfd=nf.contentWindow.document;
+nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+
+tf=ge("tocFrame");
+tf.onload = () => {
+	tfd=tf.contentWindow.document;
+	tfd.addEventListener("click",function(e){eid=tfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="tocHide")hideToc();},true);
+}
+</script>
+</div>
+<div id="s" style="height:0em"></div>
+<div class="tc" style="margin:3em -6px 1em">
+<div id="yar"></div>
+</div>
+
+
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">&copy; Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div><script>
+turl = new URL(document.URL);
+if (turl.hash != '')
+{
+	window.addEventListener('load',function(){scrollToId();});
+} 
+
+function scrollToId() {
+	ah_e = document.getElementById('ex_a' + turl.hash.substring(3));
+	ah_e.scrollIntoView({ block: "start" });
+}
+var cntr=0;</script>
+
+</div>
+
+<div id="f_r1" style="background-color:#e6e0d3">
+<div class="f" style="height:100%;border-left:1px solid #7f7f96;padding:0em"><div id="in" class="f fc jsb ci" style="width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div class="rel tc">
+<div id="right-rectangle-stick-1" class="ib" style="max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+</script>
+<div id="gglad" class="ib" style="max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+ <div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+  <div class="tc">
+	 <div id="right-rectangle-stick-2" class="ib" style="max-width:400px"></div>
+   <div id="btmad" class="ib" style="max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+	</div>
+ </div></div>
+</div>
+</div></div>
+</div>
+</div>
+
+</div>
+</div><div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: <a href="mailto:otklik@ilibrary.ru">otklik@ilibrary.ru</a></span><span class="bmi"><a href="/aboutilibrary/">О библиотеке</a></span><span class="bmi"><a href="/reklama.phtml">Реклама на сайте</a></span></div>
+<div>&copy;1996&#151;2026 Алексей Комаров. Подборка&nbsp;произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+<a href="https://metrika.yandex.ru/stat/?id=5179000&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/5179000/3_0_FFFFF0FF_E0E0D0FF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="5179000" data-lang="ru" /></a>
+<script type="text/javascript" >   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div><img src="https://mc.yandex.ru/watch/5179000" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+setBrackets();
+setArrows();setPoems();
+window.addEventListener('scroll',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+});
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(setBrackets)!=='undefined') setBrackets();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+if(cntr)document.write(cntr);</script>
+</div>
+</BODY>
+</HTML>
+<!-- 0.000503513 -->

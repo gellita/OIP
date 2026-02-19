@@ -1,0 +1,294 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML lang="ru">
+
+<HEAD>
+<TITLE>П. П. Бажов. Круговой фонарь. Текст произведения</TITLE>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<META NAME="Keywords" CONTENT="русская классическая литература интернет-библиотека Алексея Комарова текст читать Павел Бажов Круговой фонарь">
+<META NAME="Description" CONTENT='Павел Бажов. Круговой фонарь. Текст произведения. Источник: П. П. Бажов. Сочинения в трех томах. Т. 2. М.: Правда, 1986. Интернет-библиотека Алексея Комарова'>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+<link id="mainCSS" rel=stylesheet type="text/css" href="/etc/styles4_18.css">
+<script src="https://yandex.ru/ads/system/header-bidding.js" async></script>
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+<script async src="https://cdn.skcrtxr.com/roxot-wrapper/js/roxot-manager.js?pid=8c86a31e-948e-4d37-9b5a-304d2fbc4c0c"></script>
+
+<script src="/js/adplacements3.js"></script>
+<script async>
+lgl=1;function ge(e){return document.getElementById(e)}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function gr(e){return e.getBoundingClientRect()}
+function ih(e,c){e.innerHTML=c}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+id_t=4649;</script>
+<script src="/js/ev3.js"></script>
+</HEAD>
+
+<BODY>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<span id="svg"></span>
+<div id="hdr" class="hdr">
+ <div class="logo">
+  <div class="logo1 rel">
+   <a href="/" title="Читаем книги онлайн. Интернет-библиотека Алексея Комарова">
+    <div id="lmini"><svg style="width:4.9em;height:2.5em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="800 15 1500 1600"><use xlink:href="#logoMini" /></svg></div>
+    <div id="lmaxi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoBg" /><use xlink:href="#logoMaxi" /></svg></div>
+    <div id="lmidi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoMidi" /></svg></div>
+   </a>
+	</div>
+ </div>
+ <div id="qs1" class="qson">
+  <form id="sf2" method=get action="/search.phtml"><div id="sf1" style="display:flex;align-items:stretch">
+	<div><input class="tf" id="qi1" size=200 type="text" name="q" placeholder="Поиск: автор и/или название произведения" value=""></div>
+	<div id="sb" class="sb" style="">
+	<input id="ss" type="submit" value="Найти"><span id="smg"><svg id="sb1" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="60 0 115 140">
+<use xlink:href="#mglass" /></svg></span></div></div>
+</form>
+</div>
+<div id="sm" class="m"><a style="width:1.2em;white-space:nowrap" href="#" class="ma" onclick="toggle_sf();">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="65 18 115 115"><use xlink:href="#mglass" /></svg>
+</a></div>
+<div class="m"><a href="/author.html" class="ma">Авторы</a></div>
+<div class="spce">&nbsp;</div>
+</div>
+<div id="ex" class="l">
+<div id="lft0">
+<div class="f fc" style="justify-content:space-between">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+
+	<div id="text" class="t hya">
+	<div id="thdr" class="thdr">
+<a href="/author/bazhov/index.html">П. П. Бажов</a>. <a href="/text/4649/index.html">Круговой фонарь</a></div>
+
+<div class="author">Павел Бажов</div>
+<div class="title"><h1>Круговой фонарь</h1></div>
+<z><o></o>Цену человеку с маху не поставишь. Мудреное это дело. Недаром пословица сложена: &laquo;Человека узнать &mdash; пуд соли с ним съесть&raquo;.</z>
+<z><o></o>Только этак-то, на мое разумение, больно солоно обойдется, в годах затяжно, да и опаска тут есть. За пудом-то соли ты беспременно с тем человеком либо приятство заведешь, либо навек поссоришься. Глядишь, неустойка и выйдет: либо по дружбе скинешь, либо по насердке зубом натянешь, &mdash; такому поверишь, чего и не было.</z>
+<z><o></o>Нет, соляная мерка не вовсе к такому делу подходит. Мои старики по-другому советовали:</z>
+<z><o></o>&mdash; Обойди, &mdash; говорят, &mdash; человека не один раз да разузнай, какой он в работе, какой в гульбе, ловок ли по суседству, каков по хозяйству да по семейности. Одним словом, огляди кругом, без пропуску.</z>
+<z><o></o>Да еще наказывали:</z>
+<z><o></o>&mdash; Гляди в полный глаз, не смигивай: это, дескать, соринка, то &mdash; пушинка, это &mdash; просто так, а то и вовсе пустяк. А ты все прибирай: соринку в примету, пушинку &mdash; на память, так &mdash; за пазуху и пустяк в карман. Помни: не велика зверина комар, а и от него оберучь не отмашешься.</z>
+<z><o></o>И про то старики забывать не велели, чтоб со всякой стороны человека на полный вершок мерять. Бывает ведь, &mdash; иной, как говорится, и поет и пляшет, а не послушать и не поглядеть. И наоборот случается. По всем статьям человек в нетунаях, а то и вовсе в дураках ходит, а с одного боку светит, будто блёндочка в рудничных потемках. Навеска ведь не малая. Против лампешки, которая кверху коптит, а по бокам подмигивает, такая блёнда дорогого стоит. Ну, а та же блёндочка &mdash; мизюкалка мизюкалкой против шахтного фонаря.</z>
+<z><o></o>Про нонешний рудничный свет моим старикам, понятно, и во сне не виделось, и все-таки у них на больших подземных работах у главного подъемного ствола ставился особый фонарь. Круговым назывался. Он был много больше блёнды, светильная у него потолще и какие-то в нем угольчатые стеклышки круговой лесенкой ставились. Главная сила в этих стеклышках да лесенке и была. Чуть лесенка прогиб дала, либо какое стеклышко замутилось, сразу на шахтном дворе темно станет. А когда все в исправности, фонарь гонит свет ровно и сильно и большой круг захватывает.</z>
+<z><o></o>Силу фонаря разгадать просто оказалось, а вот почему люди по-разному светятся &mdash; это еще понять и понять надо. Стеклышек, поди-ко, никому не поставлено. У каждого две руки, две ноги, и в голове начинка не из гнилой соломы, а разница выходит большая. Один от всех печеней пыхтит-старается, а никому от него ни свету, ни радости. Другой опять к одному какому делу сроден, а в остальном бревно-бревном. Есть и такие, что будто играючи живут и во всем им удача. Лошадь купят &mdash; она и воз везет и в бегу от рысака не отстает. Женится &mdash; ребята пойдут мост-мостом, как груздочки после дождя, один другого ядреней, и жена не чахнет. Всякая работа у такого удачника спорится, и на праздничном лугу ни от песенников, ни от плясунов такой не отстанет. Вот и пойми эту штуку!</z>
+<z><o></o>Старики про такой приметный случай рассказывали.</z>
+<z><o></o>Не помню, в котором заводе был подмастерье при прокатном стане, прозваньем Гриньша Рыбка. Парень не то чтоб сильно могутный. Ну, все-таки здоровый и на работу ловкий. Известно, при прокатке медвежьим обычаем топтаться не приходится, пошевеливаться надо. Гриньша и пошевеливался веселенько. Со стороны смотреть любо. Другие, которые на прокатке, тоже народ складных статей. Были иные и рослее и могутнее Гриньши, а выстоять против него никому не удавалось. Податнее всех у него работа шла, и браку никакого.</z>
+<z><o></o>При таком положении, понятное дело, без завистников не обойдешься, а тут еще и поводок был. Чуть ли не в одной смене с Гриньшей стоял Михалко Гвоздь. Мужик в тех же годах, и по работе его ничем не похаешь. Тоже в самолучших прокатчиках считался. Лицом чистяк, ус богатый, глаз с искоркой. Прямо сказать, из таких, на кого девчонки да и молодые бабенки заглядываются: на мою бы долю такой пришелся.</z>
+<z><o></o>Против этого Михалка Гвоздя у Гриньши неустойка случилась по житейскому делу. Они, видишь, как еще неженатиками ходили, на одну девушку нацелились. Не то чтоб богатая невеста, а из того девьего слою, про который говорят: не разберешь, чем взяла, веселым обычаем, густой бровью али крутым плечом.</z>
+<z><o></o>Михалко Гвоздь сперва вроде опередил Гриньшу. Посватался, рукобитье сделали, насчет дня свадьбы уговорились. А Гриньша все-таки не отстает, свое нашептывает девушке:</z>
+<z><o></o>&mdash; Неуж ты, Аганюшка, своей судьбы не чуешь?</z>
+<z><o></o>Аганюшка слушала-слушала эту песню, да и учуяла свою судьбу: убегом за Гриньшу выскочила. Ее родня, понятно, шум подняла. Как так, по какому праву? Этак станут, так и на свадьбе не погуляешь. Гриньше грозили:</z>
+<z><o></o>&mdash; Мы, дескать, этого вьюна-рыбу на поганой сковородке изжарим да собакам выбросим.</z>
+<z><o></o>Гриньше это передавали, а он знай посмеивается.</z>
+<z><o></o>&mdash; Вьюна, &mdash; говорит, &mdash; изжарить просто, да поймать не легко.</z>
+<z><o></o>По времени утихомирились, конечно. Видят, &mdash; согласно молодые живут, себе на радость, соседям на погляденье. В работе друг от дружки не отстают и веселья не чураются. Чего еще надо? А Гриньша тут и подвернул:</z>
+<z><o></o>&mdash; Может, и теперь свадьбу отгулять не опоздали? Мы с женой не прочь от этого, потому &mdash; без свадебной гулянки чего-то не хватает.</z>
+<z><o></o>Аганина родня и растаяла от таких слов. Уж не вьюном Гриньшу зовут, а Рыбкой навеличивают да нахваливают:</z>
+<z><o></o>&mdash; Рыбка &mdash; рыбка и есть. Поглядеть на него весело. Ловкий парень, что говорить! С таким мужем Аганя не затоскует.</z>
+<z><o></o>Близко к первым родинам свадьбу справили. Отгуляли честь-честью, сколько достатку хватило. Даже и те, кто еще сомневался в Гриньше, после свадебной гулянки в одно слово заговорили.</z>
+<z><o></o>&mdash; Такого мужика поискать!</z>
+<z><o></o>Ну, а Гвоздь все-таки не забыл своей обиды, он, конечно, тоже женился. Хорошую девушку взял, а против Гриньши злобу все-таки имел. По работе не один раз подвести хотел, да Гриньша тоже поглядывал и всякий подвох слету узнавал.</z>
+<z><o></o>С первых годов, случалось, Михалко Гвоздь и драку затевал, на кулак свой надеялся. Мужик могутный. Со стороны поглядеть &mdash; расшибет, а на деле не то оказывалось. Рыбка, глядишь, сверху сидит да Гвоздю гвозди заколачивает. На другой день в прокатном сойдутся. Гриньша ничем-ничего, веселехонек, а у Михалка кругом синяки да шишки понасажены.</z>
+<z><o></o>С годами это прошло, конечно. Оба мастерами стали, только разница между ними большая. У Михалка и ус завял и глаз помутнел, а Гриньша похаживает, как в молодые годы, будто и не постарел нисколько. И жена у него &mdash; Аганюшка-то &mdash; ребенка принесет, ровно цвету себе добавит.</z>
+<z><o></o>Михалка завидки берут: почему такое? Вот он и придумал:</z>
+<z><o></o>&laquo;Неспроста это, беспременно тут какая-нибудь тайность есть! Жив не буду, а разузнаю все до тонкости&raquo;.</z>
+<z><o></o>Ну, мужик въедливый. Недаром Гвоздем прозвали. Не только сам этим занялся, многих других подбил, &mdash; подглядывать да разузнавать стали.</z>
+<z><o></o>Время тогда темное было, пустякам разным верили. Вот и пошел разговор о каких-то тайных родинках на теле да о счастливой рубашке. Только бабка, которая Гриньшу принимала, не дала ходу этим разговорам.</z>
+<z><o></o>&mdash; Никаких, &mdash; говорит, &mdash; тайных родинок на теле не было и счастливой рубашки не бывало.</z>
+<z><o></o>Потом сплели, будто Гриньша каждое лето, в Иванову ночь, ходит в лес за тайной травкой. Не по один год в эту ночь подкарауливали, не пойдет ли куда Гриньша, а он себе спит-похрапывает на холодке, под навесом.</z>
+<z><o></o>Тут еще что-то придумали, только видят, &mdash; пустое дело. Живет мужик в открытую, от людей не таится, худого другим не делает, а кому и помогает по своей силе-возможности. Тогда и решили: спросим самого. Выбрали часок, собрались, да и говорят:</z>
+<z><o></o>&mdash; Скажи, Григорий Зотеич, по какой причине у тебя всегда в делах удача? В работе спорина, по семейности порядок и по домашности гладенько катится. Нет ли в том деле тайности?</z>
+<z><o></o>А Егорша Задор еще полюбопытствовал:</z>
+<z><o></o>&mdash; Дело, конечно, прошлое, а только дирался ты не один раз с Михайлом Гвоздем. Всем нам ведомо, что Гвоздь крепче тебя и в развороте не уступит, а почему всегда ты долбил Гвоздя, а ему ни разу не довелось тебя поколотить?</z>
+<z><o></o>Гриньша и объяснил по совести.</z>
+<z><o></o>&mdash; Никакой, &mdash; говорит, &mdash; тайности в том деле нет, а только я приметливый и ни одно дело ниже другого не ставлю. По-моему, хоть железо катать, хоть петли метать, хоть траву косить али бревна возить &mdash; все выучка требуется и не как-нибудь, а по-настоящему. Если какое дело не знаю, за то не возьмусь, а придется, так сперва поищу, у кого поучиться, чтоб по-хорошему вышло.</z>
+<z><o></o>Простое, скажем, дело литовку отбить, либо пилу наточить. Всяк будто умеет, а на поверку выходит &mdash; из сотни один, вот я и гляжу, у кого литовка самоходом идет и мохров не оставляет, у кого пила сама режет, только наднеси. У тех, значит, и учусь, &mdash; и ладно выходит. Ну, кругом себя тоже смотреть не забываю. Без этого нельзя. Ежели, к примеру, ты семью завел, так об этом днем и ночью помнить обязан. Последнее дело, коли себя в исправности содержишь, а ребят балуками да неслухами вырастишь. Большого догляду да забот это дело требует.</z>
+<z><o></o>Рассказал этак-то и говорит:</z>
+<z><o></o>&mdash; Вот и вся моя тайность: ни одно дело пустяком не считаю и кругом себя гляжу. И касательно драчишек с Михайлом то же самое. К дракам у меня охоты не было, ну, знал, &mdash; без этого на веку не проживешь, вот и примечал с малолетства, в какую косточку стукнуть больнее. Этим Михайлу и брал. Сила у него, конечно, медвежья, а сноровки нет. Думает, &mdash; драться без учебы можно, а оно не так. Не найдешь такого, чтобы без сноровки обошлось, а где она &mdash; там и выучка.</z>
+<z><o></o>Рассказал Гриньша по-честному, как сам понимал, а многие все-таки ему не поверили, при своем остались, счастливым, дескать, уродился. Гвоздь, как узнал про этот разговор, только рукой махнул:</z>
+<z><o></o>&mdash; Слушайте вы его! Он наскажет! Мало ли приметливых людей, да не у всяких такая удача! Беспременно тут тайность есть, да найти ее не можем.</z>
+<z><o></o>Только и Михайлу слушать не стали: ребячий, дескать, разговор. Так настояще и не решили, а ведь Гриньша правду говорил.</z>
+<z><o></o>По теперешним временам это виднее стало. Недавно вон одного вальцовщика в книгу почета записывали. Так и сяк поворачивали, а на одно вышло. По своей работе лучше всех, и ребята у него отличники, свою учебу не забывает и даже по картошке на первое место среди своих заводских вышел. Одним словом, круговой фонарь. Только как он в партии состоит, по-другому его похвалили:</z>
+<z><o></o>&mdash; С которой стороны ни поверни &mdash; все коммунист.<div class="epigraf_source"></div></z>
+<div class="i0 tc" style="padding-top:.5em;border-bottom:1px solid #666;width:6em;margin:auto;position:relative"><span class="rel bg1" style="top:.4em;color:#666;padding:0em .2em;line-height:.8em">&#10022;</span></div><iframe id="noteFrame"></iframe><div id="tbd"></div><script>
+nf=ge("noteFrame");
+nf.onload = () => {
+	nfd=nf.contentWindow.document;
+	nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+}
+nfd=nf.contentWindow.document;
+nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+
+tf=ge("tocFrame");
+tf.onload = () => {
+	tfd=tf.contentWindow.document;
+	tfd.addEventListener("click",function(e){eid=tfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="tocHide")hideToc();},true);
+}
+</script>
+</div>
+<div id="s" style="height:0em"></div>
+<div class="tc" style="margin:3em -6px 1em">
+<div id="yar"></div>
+</div>
+
+
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">&copy; Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div><script>
+turl = new URL(document.URL);
+if (turl.hash != '')
+{
+	window.addEventListener('load',function(){scrollToId();});
+} 
+
+function scrollToId() {
+	ah_e = document.getElementById('ex_a' + turl.hash.substring(3));
+	ah_e.scrollIntoView({ block: "start" });
+}
+var cntr=0;</script>
+
+</div>
+
+<div id="f_r1" style="background-color:#e6e0d3">
+<div class="f" style="height:100%;border-left:1px solid #7f7f96;padding:0em"><div id="in" class="f fc jsb ci" style="width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div class="rel tc">
+<div id="right-rectangle-stick-1" class="ib" style="max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+</script>
+<div id="gglad" class="ib" style="max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+ <div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+  <div class="tc">
+	 <div id="right-rectangle-stick-2" class="ib" style="max-width:400px"></div>
+   <div id="btmad" class="ib" style="max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+	</div>
+ </div></div>
+</div>
+</div></div>
+</div>
+</div>
+
+</div>
+</div><div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: <a href="mailto:otklik@ilibrary.ru">otklik@ilibrary.ru</a></span><span class="bmi"><a href="/aboutilibrary/">О библиотеке</a></span><span class="bmi"><a href="/reklama.phtml">Реклама на сайте</a></span></div>
+<div>&copy;1996&#151;2026 Алексей Комаров. Подборка&nbsp;произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+<a href="https://metrika.yandex.ru/stat/?id=5179000&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/5179000/3_0_FFFFF0FF_E0E0D0FF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="5179000" data-lang="ru" /></a>
+<script type="text/javascript" >   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div><img src="https://mc.yandex.ru/watch/5179000" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+setBrackets();
+setArrows();setPoems();
+window.addEventListener('scroll',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+});
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(setBrackets)!=='undefined') setBrackets();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+if(cntr)document.write(cntr);</script>
+</div>
+</BODY>
+</HTML>
+<!-- 0.000519906 -->

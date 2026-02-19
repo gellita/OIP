@@ -1,0 +1,269 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML lang="ru">
+
+<HEAD>
+<TITLE>Х. К. Андерсен. Счастливое семейство. Текст произведения</TITLE>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<META NAME="Keywords" CONTENT="русская классическая литература интернет-библиотека Алексея Комарова текст читать Ханс Андерсен Счастливое семейство">
+<META NAME="Description" CONTENT='Ханс Андерсен. Счастливое семейство. Текст произведения. Источник: Х. К. Андерсен. Сказки, рассказанные детям; Новые сказки. М.: Наука, 1983. (Литературные памятники). Интернет-библиотека Алексея Комарова'>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+<link id="mainCSS" rel=stylesheet type="text/css" href="/etc/styles4_18.css">
+<script src="https://yandex.ru/ads/system/header-bidding.js" async></script>
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+<script async src="https://cdn.skcrtxr.com/roxot-wrapper/js/roxot-manager.js?pid=8c86a31e-948e-4d37-9b5a-304d2fbc4c0c"></script>
+
+<script src="/js/adplacements3.js"></script>
+<script async>
+lgl=1;function ge(e){return document.getElementById(e)}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function gr(e){return e.getBoundingClientRect()}
+function ih(e,c){e.innerHTML=c}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+id_t=4678;</script>
+<script src="/js/ev3.js"></script>
+</HEAD>
+
+<BODY>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<span id="svg"></span>
+<div id="hdr" class="hdr">
+ <div class="logo">
+  <div class="logo1 rel">
+   <a href="/" title="Читаем книги онлайн. Интернет-библиотека Алексея Комарова">
+    <div id="lmini"><svg style="width:4.9em;height:2.5em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="800 15 1500 1600"><use xlink:href="#logoMini" /></svg></div>
+    <div id="lmaxi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoBg" /><use xlink:href="#logoMaxi" /></svg></div>
+    <div id="lmidi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoMidi" /></svg></div>
+   </a>
+	</div>
+ </div>
+ <div id="qs1" class="qson">
+  <form id="sf2" method=get action="/search.phtml"><div id="sf1" style="display:flex;align-items:stretch">
+	<div><input class="tf" id="qi1" size=200 type="text" name="q" placeholder="Поиск: автор и/или название произведения" value=""></div>
+	<div id="sb" class="sb" style="">
+	<input id="ss" type="submit" value="Найти"><span id="smg"><svg id="sb1" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="60 0 115 140">
+<use xlink:href="#mglass" /></svg></span></div></div>
+</form>
+</div>
+<div id="sm" class="m"><a style="width:1.2em;white-space:nowrap" href="#" class="ma" onclick="toggle_sf();">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="65 18 115 115"><use xlink:href="#mglass" /></svg>
+</a></div>
+<div class="m"><a href="/author.html" class="ma">Авторы</a></div>
+<div class="spce">&nbsp;</div>
+</div>
+<div id="ex" class="l">
+<div id="lft0">
+<div class="f fc" style="justify-content:space-between">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+
+	<div id="text" class="t hya">
+	<div id="thdr" class="thdr">
+<a href="/author/hkandersen/index.html">Х. К. Андерсен</a>. <a href="/text/4678/index.html">Счастливое семейство</a></div>
+
+<div class="author">Ханс Кристиан Андерсен</div>
+<div class="title"><h1>Счастливое семейство</h1></div>
+<z><o></o>Самый большой лист у нас, конечно, лист лопуха: наденешь его на животик &mdash; вот тебе и передник, а положишь в дождик на головку &mdash; зонтик! Такой большущий этот лопух! И он никогда не растет в одиночку, а всегда уж где один, там и много, &mdash; такая роскошь! И вся эта роскошь &mdash; кушанье для улиток! А самих улиток, белых, больших, кушали в старину важные господа; из улиток приготовлялось фрикасе, и господа, кушая его, приговаривали: &laquo;Ах, как вкусно!&raquo; Они и вправду воображали себе, что это ужасно вкусно. Так вот, эти большие белые улитки ели лопух, потому и стали сеять лопух.</z>
+<z><o></o>Была одна старая барская усадьба, где уж давно не ели улиток, и они все повымерли. А лопух не вымер; он себе все рос да рос &mdash; его ничем нельзя было заглушить; все аллеи, все грядки заросли лопухом, так что и сад стал не сад, а лопушиный лес; никто бы и не догадался, что тут был прежде сад, если бы кое-где не торчали еще то яблонька, то сливовое деревцо. Вот в этом-то лопушином лесу и жила последняя пара старых-престарых улиток.</z>
+<z><o></o>Они и сами не знали, сколько им лет, но отлично помнили, что прежде их было много, что они очень старинной иностранной породы и что весь этот лес был насажен собственно для них и для их родичей. Старые улитки ни разу не выходили из своего леса, но знали, что где-то есть что-то называющееся &laquo;барскою усадьбой&raquo;; там улиток варят до тех пор, пока они не почернеют, а потом кладут на серебряное блюдо. Что было дальше, они не знали. Не знали они тоже и даже представить себе не могли, что такое значит свариться и лежать на серебряном блюде; знали только, что это было чудесно и, главное, аристократично! И ни майский жук, ни жаба, ни дождевой червяк &mdash; никто из тех, кого они спрашивали, ничего не мог сказать об этом: никому еще не приходилось быть сваренным и лежать на серебряном блюде!</z>
+<z><o></o>Что же касается самих себя, то улитки отлично знали, что они первые в свете, что весь лес растет только для них, а усадьба существует лишь для того, чтобы они могли свариться и лежать на серебряном блюде.</z>
+<z><o></o>Жили улитки тихо, мирно и очень счастливо. Детей у них не было, и они взяли на воспитание улитку из простых. Приемыш их ни за что не хотел расти &mdash; он был ведь обыкновенной, простой породы, но старикам, особенно улитке-мамаше, все казалось, что он заметно увеличивается, и она просила улитку-папашу, если он не видит этого так, ощупать раковину малютки! Папаша щупал и соглашался с мамашей.</z>
+<z><o></o>Раз шел сильный дождь.</z>
+<z><o></o>&mdash; Ишь, как барабанит по лопуху! &mdash; сказал улитка-папаша.</z>
+<z><o></o>&mdash; Так и льет! &mdash; сказала улитка-мамаша. &mdash; Вон как потекло вниз по стебелькам! Увидишь, как здесь будет сыро! Как я рада, что у нас и у сынка нашего такие прочные домики! Нет, что ни говори, а ведь нам дано больше, чем кому-нибудь другому на свете! Сейчас видно, что мы первые в мире! У нас с самого рождения есть уже свои дома, для нас насажен целый лопушиный лес! А хотелось бы знать, как далеко он тянется и что там за ним?</z>
+<z><o></o>&mdash; Ничего! &mdash; сказал улитка-папаша. &mdash; Уж лучше, чем у нас тут, и быть нигде не может; я, по крайней мере, лучшего не ищу.</z>
+<z><o></o>&mdash; А мне, &mdash; сказала улитка-мамаша, &mdash; хотелось бы попасть в усадьбу, свариться и лежать на серебряном блюде. Этого удостаивались все наши предки, и, уж поверь, в этом есть что-то особенное!</z>
+<z><o></o>&mdash; Усадьба, пожалуй, давно разрушилась, &mdash; сказал улитка-папаша, &mdash; или вся заросла лопухом, так что людям и не выбраться оттуда. Да и к чему так спешить? А ты вот вечно спешишь, и сынок наш туда же за тобой. Ведь он уж третий день все ползет вверх по стебельку; просто голова кружится, как поглядишь!</z>
+<z><o></o>&mdash; Ну, не ворчи на него! &mdash; сказала улитка-мамаша. &mdash; Он ползет осторожно. Он, наверно, утешит нас на старости лет, а ведь нам, старикам, больше и жить не для чего. Только подумал ли ты, откуда нам взять ему жену? Что, по-твоему, там, дальше, в лопухе, не найдется кого-нибудь из нашего рода?</z>
+<z><o></o>&mdash; Черные улитки без домов есть, конечно, &mdash; сказал улитка-папаша, &mdash; но ведь это же простонародье! Да и много они о себе думают! Можно, впрочем, поручить это дело муравьям: они вечно шныряют взад да вперед, точно за делом, и, уж верно, знают, где надо искать жену для нашего сынка.</z>
+<z><o></o>&mdash; Знаем, знаем одну красавицу из красавиц, &mdash; сказали муравьи. &mdash; Только вряд ли она подойдет вам &mdash; она ведь королева!</z>
+<z><o></o>&mdash; Это не беда! &mdash; сказали старики. &mdash; А есть ли у нее дом?</z>
+<z><o></o>&mdash; Даже дворец! &mdash; сказали муравьи. &mdash; Чудеснейший муравейник с семьюстами ходов!</z>
+<z><o></o>&mdash; Благодарим покорно! &mdash; сказала улитка-мамаша. &mdash; Сыну нашему не с чего лезть в муравейник! Если у вас нет на примете никого получше, то мы поручим дело комарам: они летают и в дождь и в солнышко и знают лопушиный лес вдоль и поперек.</z>
+<z><o></o>&mdash; У нас есть невеста для вашего сына! &mdash; сказали комары. &mdash; Шагах в ста отсюда на кустике крыжовника сидит в своем домике одна маленькая улитка. Она живет одна-одинешенька и как раз в таком возрасте, что может выйти замуж. Всего в ста человеческих шагах отсюда!</z>
+<z><o></o>&mdash; Так пусть она явится к нему! &mdash; сказали старики. &mdash; У него целый лопушиный лес, а у нее всего-навсего один кустик.</z>
+<z><o></o>За улиткой-невестой послали. Она отправилась в путь и благополучно добралась до лопухов на восьмой день путешествия. Вот что значит чистота породы.</z>
+<z><o></o>Отпраздновали свадьбу. Шесть светляков светили изо всех сил; вообще же свадьба была очень тихая: старики не любили шума. Зато улитка-мамаша сказала чудеснейшую речь. Папаша не мог, он был так растроган! И вот старики отдали молодым во владение весь лопушиный лес, сказав при этом, как они и всю жизнь свою говорили, что лучше этого леса нет ничего на свете и что, если молодые будут честно и благородно жить и плодиться, то когда- нибудь им или их детям доведется попасть в усадьбу: там их сварят дочерна и положат на серебряное блюдо.</z>
+<z><o></o>Затем старики вползли в свои домики и больше уже не показывались, &mdash; они заснули.</z>
+<z><o></o>А молодые улитки стали царствовать в лесу и оставили после себя большое потомство. Попасть же в усадьбу и лежать на серебряном блюде им так и не удалось! Поэтому они решили, что усадьба совсем разрушилась, а все люди на свете повымерли. Никто им не противоречил, &mdash; значит, так оно и было. И вот дождь барабанил по лопуху, чтобы позабавить улиток, а солнце сияло, чтобы зеленел их лопух, и они были счастливы, счастливы! И вся их семья была счастлива, &mdash; так-то!</z>
+<div class="i0 tc" style="padding-top:.5em;border-bottom:1px solid #666;width:6em;margin:auto;position:relative"><span class="rel bg1" style="top:.4em;color:#666;padding:0em .2em;line-height:.8em">&#10022;</span></div><iframe id="noteFrame"></iframe><div id="tbd"></div><script>
+nf=ge("noteFrame");
+nf.onload = () => {
+	nfd=nf.contentWindow.document;
+	nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+}
+nfd=nf.contentWindow.document;
+nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+
+tf=ge("tocFrame");
+tf.onload = () => {
+	tfd=tf.contentWindow.document;
+	tfd.addEventListener("click",function(e){eid=tfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="tocHide")hideToc();},true);
+}
+</script>
+</div>
+<div id="s" style="height:0em"></div>
+<div class="tc" style="margin:3em -6px 1em">
+<div id="yar"></div>
+</div>
+
+
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">&copy; Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div><script>
+turl = new URL(document.URL);
+if (turl.hash != '')
+{
+	window.addEventListener('load',function(){scrollToId();});
+} 
+
+function scrollToId() {
+	ah_e = document.getElementById('ex_a' + turl.hash.substring(3));
+	ah_e.scrollIntoView({ block: "start" });
+}
+var cntr=0;</script>
+
+</div>
+
+<div id="f_r1" style="background-color:#e6e0d3">
+<div class="f" style="height:100%;border-left:1px solid #7f7f96;padding:0em"><div id="in" class="f fc jsb ci" style="width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div class="rel tc">
+<div id="right-rectangle-stick-1" class="ib" style="max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+</script>
+<div id="gglad" class="ib" style="max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+ <div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+  <div class="tc">
+	 <div id="right-rectangle-stick-2" class="ib" style="max-width:400px"></div>
+   <div id="btmad" class="ib" style="max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+	</div>
+ </div></div>
+</div>
+</div></div>
+</div>
+</div>
+
+</div>
+</div><div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: <a href="mailto:otklik@ilibrary.ru">otklik@ilibrary.ru</a></span><span class="bmi"><a href="/aboutilibrary/">О библиотеке</a></span><span class="bmi"><a href="/reklama.phtml">Реклама на сайте</a></span></div>
+<div>&copy;1996&#151;2026 Алексей Комаров. Подборка&nbsp;произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+<a href="https://metrika.yandex.ru/stat/?id=5179000&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/5179000/3_0_FFFFF0FF_E0E0D0FF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="5179000" data-lang="ru" /></a>
+<script type="text/javascript" >   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div><img src="https://mc.yandex.ru/watch/5179000" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+setBrackets();
+setArrows();setPoems();
+window.addEventListener('scroll',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+});
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(setBrackets)!=='undefined') setBrackets();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+if(cntr)document.write(cntr);</script>
+</div>
+</BODY>
+</HTML>
+<!-- 0.00050208 -->

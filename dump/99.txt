@@ -1,0 +1,374 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML lang="ru">
+
+<HEAD>
+<TITLE>П. П. Бажов. Серебряное копытце. Текст произведения</TITLE>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<META NAME="Keywords" CONTENT="русская классическая литература интернет-библиотека Алексея Комарова текст читать Павел Бажов Серебряное копытце">
+<META NAME="Description" CONTENT='Павел Бажов. Серебряное копытце. Текст произведения. Источник: П. П. Бажов. Сочинения в трех томах. Т. 1. М.: Правда, 1986. Интернет-библиотека Алексея Комарова'>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+<link id="mainCSS" rel=stylesheet type="text/css" href="/etc/styles4_18.css">
+<script src="https://yandex.ru/ads/system/header-bidding.js" async></script>
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+<script async src="https://cdn.skcrtxr.com/roxot-wrapper/js/roxot-manager.js?pid=8c86a31e-948e-4d37-9b5a-304d2fbc4c0c"></script>
+
+<script src="/js/adplacements3.js"></script>
+<script async>
+lgl=1;function ge(e){return document.getElementById(e)}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function gr(e){return e.getBoundingClientRect()}
+function ih(e,c){e.innerHTML=c}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+id_t=4610;</script>
+<script src="/js/ev3.js"></script>
+</HEAD>
+
+<BODY>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<span id="svg"></span>
+<div id="hdr" class="hdr">
+ <div class="logo">
+  <div class="logo1 rel">
+   <a href="/" title="Читаем книги онлайн. Интернет-библиотека Алексея Комарова">
+    <div id="lmini"><svg style="width:4.9em;height:2.5em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="800 15 1500 1600"><use xlink:href="#logoMini" /></svg></div>
+    <div id="lmaxi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoBg" /><use xlink:href="#logoMaxi" /></svg></div>
+    <div id="lmidi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoMidi" /></svg></div>
+   </a>
+	</div>
+ </div>
+ <div id="qs1" class="qson">
+  <form id="sf2" method=get action="/search.phtml"><div id="sf1" style="display:flex;align-items:stretch">
+	<div><input class="tf" id="qi1" size=200 type="text" name="q" placeholder="Поиск: автор и/или название произведения" value=""></div>
+	<div id="sb" class="sb" style="">
+	<input id="ss" type="submit" value="Найти"><span id="smg"><svg id="sb1" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="60 0 115 140">
+<use xlink:href="#mglass" /></svg></span></div></div>
+</form>
+</div>
+<div id="sm" class="m"><a style="width:1.2em;white-space:nowrap" href="#" class="ma" onclick="toggle_sf();">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="65 18 115 115"><use xlink:href="#mglass" /></svg>
+</a></div>
+<div class="m"><a href="/author.html" class="ma">Авторы</a></div>
+<div class="spce">&nbsp;</div>
+</div>
+<div id="ex" class="l">
+<div id="lft0">
+<div class="f fc" style="justify-content:space-between">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+
+	<div id="text" class="t hya">
+	<div id="thdr" class="thdr">
+<a href="/author/bazhov/index.html">П. П. Бажов</a>. <a href="/text/4610/index.html">Серебряное копытце</a></div>
+
+<div class="author">Павел Бажов</div>
+<div class="title"><h1>Серебряное копытце</h1></div>
+<z><o></o>Жил в нашем заводе старик один, по прозвищу Кокованя. Семьи у Коковани не осталось, он и придумал взять в дети сиротку. Спросил у соседей, &mdash; не знают ли кого, а соседи и говорят:</z>
+<z><o></o>&mdash; Недавно на Глинке осиротела семья Григория Потопаева. Старших-то девчонок приказчик велел в барскую рукодельню взять, а одну девчоночку по шестому году никому не надо. Вот ты и возьми ее.</z>
+<z><o></o>&mdash; Несподручно мне с девчонкой-то. Парнишечко бы лучше. Обучил бы его своему делу, пособника бы ростить стал. А с девчонкой как? Чему я ее учить-то стану?</z>
+<z><o></o>Потом подумал-подумал и говорит:</z>
+<z><o></o>&mdash; Знавал я Григорья да и жену его тоже. Оба веселые да ловкие были. Если девчоночка по родителям пойдет, не тоскливо с ней в избе будет. Возьму ее. Только пойдет ли?</z>
+<z><o></o>Соседи объясняют:</z>
+<z><o></o>&mdash; Плохое житье у нее. Приказчик избу григорьеву отдал какому-то горюну и велел за это сиротку кормить, пока не подрастет. А у того своя семья больше десятка. Сами не досыта едят. Вот хозяйка и взъедается на сиротку, попрекает ее куском-то. Та хоть маленькая, а понимает. Обидно ей. Как не пойдет от такого житья! Да и уговоришь, поди-ка.</z>
+<z><o></o>&mdash; И то правда, &mdash; отвечает Кокованя, &mdash; уговорю как-нибудь.</z>
+<z><o></o>В праздничный день и пришел он к тем людям, у кого сиротка жила. Видит, полна изба народу, больших и маленьких. На голбчике, у печки, девчоночка сидит, а рядом с ней кошка бурая. Девчоночка маленькая, и кошка маленькая и до того худая да ободранная, что редко кто такую в избу пустит. Девчоночка эту кошку гладит, а она до того звонко мурлычет, что по всей избе слышно.</z>
+<z><o></o>Поглядел Кокованя на девчоночку и спрашивает:</z>
+<z><o></o>&mdash; Это у вас григорьева-то подаренка?</z>
+<z><o></o>Хозяйка отвечает:</z>
+<z><o></o>&mdash; Она самая. Мало одной-то, так еще кошку драную где-то подобрала. Отогнать не можем. Всех моих ребят перецарапала, да еще корми ее!</z>
+<z><o></o>Кокованя и говорит:</z>
+<z><o></o>&mdash; Неласковые, видно, твои ребята. У ней вон мурлычет.</z>
+<z><o></o>Потом и спрашивает у сиротки:</z>
+<z><o></o>&mdash; Ну, как, подаренушка, пойдешь ко мне жить?</z>
+<z><o></o>Девчоночка удивилась:</z>
+<z><o></o>&mdash; Ты, дедо, как узнал, что меня Даренкой зовут?</z>
+<z><o></o>&mdash; Да так, &mdash; отвечает, &mdash; само вышло. Не думал, не гадал, нечаянно попал.</z>
+<z><o></o>&mdash; Ты хоть кто? &mdash; спрашивает девчоночка.</z>
+<z><o></o>&mdash; Я, &mdash; говорит, &mdash; вроде охотника. Летом пески промываю, золото добываю, а зимой по лесам за козлом бегаю да все увидеть не могу.</z>
+<z><o></o>&mdash; Застрелишь его?</z>
+<z><o></o>&mdash; Нет, &mdash; отвечает Кокованя. &mdash; Простых козлов стреляю, а этого не стану. Мне посмотреть охота, в котором месте он правой передней ножкой топнет.</z>
+<z><o></o>&mdash; Тебе на что это?</z>
+<z><o></o>&mdash; А вот пойдешь ко мне жить, так все и расскажу, &mdash; ответил Кокованя.</z>
+<z><o></o>Девчоночке любопытно стало про козла-то узнать. И то видит &mdash; старик веселый да ласковый. Она и говорит:</z>
+<z><o></o>&mdash; Пойду. Только ты эту кошку Муренку тоже возьми. Гляди, какая хорошая.</z>
+<z><o></o>&mdash; Про это, &mdash; отвечает Кокованя, &mdash; что и говорить. Такую звонкую кошку не взять &mdash; дураком остаться. Вместо балалайки она у нас в избе будет.</z>
+<z><o></o>Хозяйка слышит их разговор. Рада-радехонька, что Кокованя сиротку к себе зовет. Стала скорей Даренькины пожитки собирать. Боится, как бы старик не передумал.</z>
+<z><o></o>Кошка будто тоже понимает весь разговор. Трется у ног-то да мурлычет:</z>
+<z><o></o>&mdash; Пр-равильно придумал. Пр-равильно.</z>
+<z><o></o>Вот и повел Кокованя сиротку к себе жить.</z>
+<z><o></o>Сам большой да бородатый, а она махонькая и носишко пуговкой. Идут по улице, и кошчонка ободранная за ними попрыгивает.</z>
+<z><o></o>Так и стали жить вместе дед Кокованя, сиротка Даренка да кошка Муренка. Жили-поживали, добра много не наживали, а на житье не плакались, и у всякого дело было.</z>
+<z><o></o>Кокованя с утра на работу уходил. Даренка в избе прибирала, похлебку да кашу варила, а кошка Муренка на охоту ходила &mdash; мышей ловила. К вечеру соберутся, и весело им.</z>
+<z><o></o>Старик был мастер сказки сказывать, Даренка любила те сказки слушать, а кошка Муренка лежит да мурлычет:</z>
+<z><o></o>&mdash; Пр-равильно говорит. Пр-равильно.</z>
+<z><o></o>Только после всякой сказки Даренка напомнит:</z>
+<z><o></o>&mdash; Дедо, про козла-то скажи. Какой он?</z>
+<z><o></o>Кокованя отговаривался сперва, потом и рассказал:</z>
+<z><o></o>&mdash; Тот козел особенный. У него на правой передней ноге серебряное копытце. В каком месте топнет этим копытцем &mdash; там и появится дорогой камень. Раз топнет &mdash; один камень, два топнет &mdash; два камня, а где ножкой бить станет &mdash; там груда дорогих камней.</z>
+<z><o></o>Сказал это, да и не рад стал. С той поры у Даренки только и разговору, что об этом козле.</z>
+<z><o></o>&mdash; Дедо, а он большой?</z>
+<z><o></o>Рассказал ей Кокованя, что ростом козел не выше стола, ножки тоненькие, головка легонькая.</z>
+<z><o></o>А Даренка опять спрашивает:</z>
+<z><o></o>&mdash; Дедо, а рожки у него есть?</z>
+<z><o></o>&mdash; Рожки-то, &mdash; отвечает, &mdash; у него отменные. У простых козлов на две веточки, а у него на пять веток.</z>
+<z><o></o>&mdash; Дедо, а он кого ест?</z>
+<z><o></o>&mdash; Никого, &mdash; отвечает, &mdash; не ест. Травой да листом кормится. Ну, сено тоже зимой в стожках подъедает.</z>
+<z><o></o>&mdash; Дедо, а шерстка у него какая?</z>
+<z><o></o>&mdash; Летом, &mdash; отвечает, &mdash; буренькая, как вот у Муренки нашей, а зимой серенькая.</z>
+<z><o></o>&mdash; Дедо, а он душно&#769;й?</z>
+<z><o></o>Кокованя даже рассердился:</z>
+<z><o></o>&mdash; Какой же душно&#769;й! Это домашние козлы такие бывают, а лесной козел, он лесом и пахнет.</z>
+<z><o></o>Стал осенью Кокованя в лес собираться. Надо было ему поглядеть, в которой стороне козлов больше пасется. Даренка и давай проситься:</z>
+<z><o></o>&mdash; Возьми меня, дедо, с собой. Может, я хоть сдалека того козлика увижу.</z>
+<z><o></o>Кокованя и объясняет ей:</z>
+<z><o></o>&mdash; Сдалека-то его не разглядишь. У всех козлов осенью рожки есть. Не разберешь, сколько на них веток. Зимой вот &mdash; дело другое. Простые козлы безрогие ходят, а этот, Серебряное копытце, всегда с рожками, хоть летом, хоть зимой. Тогда его сдалека признать можно.</z>
+<z><o></o>Этим и отговорился. Осталась Даренка дома, а Кокованя в лес ушел.</z>
+<z><o></o>Дней через пять воротился Кокованя домой, рассказывает Даренке:</z>
+<z><o></o>&mdash; Ныне в Полдневской стороне много козлов пасется. Туда и пойду зимой.</z>
+<z><o></o>&mdash; А как же, &mdash; спрашивает Даренка, &mdash; зимой-то в лесу ночевать станешь?</z>
+<z><o></o>&mdash; Там, &mdash; отвечает, &mdash; у меня зимний балаган у покосных ложков поставлен. Хороший балаган, с очагом, с окошечком. Хорошо там.</z>
+<z><o></o>Даренка опять спрашивает:</z>
+<z><o></o>&mdash; Серебряное копытце в той же стороне пасется?</z>
+<z><o></o>&mdash; Кто его знает. Может, и он там.</z>
+<z><o></o>Даренка тут и давай проситься:</z>
+<z><o></o>&mdash; Возьми меня, дедо, с собой. Я в балагане сидеть буду. Может, Серебряное копытце близко подойдет, &mdash; я и погляжу.</z>
+<z><o></o>Старик сперва руками замахал:</z>
+<z><o></o>&mdash; Что ты! Что ты! Статочное ли дело зимой по лесу маленькой девчонке ходить! На лыжах ведь надо, а ты не умеешь. Угрузнешь в снегу-то. Как я с тобой буду? Замерзнешь еще!</z>
+<z><o></o>Только Даренка никак не отстает:</z>
+<z><o></o>&mdash; Возьми, дедо! На лыжах-то я маленько умею.</z>
+<z><o></o>Кокованя отговаривал-отговаривал, потом и подумал про себя:</z>
+<z><o></o>&laquo;Сводить разве? Раз побывает, в другой не запросится&raquo;.</z>
+<z><o></o>Вот он и говорит:</z>
+<z><o></o>&mdash; Ладно, возьму. Только, чур, в лесу не реветь и домой до времени не проситься.</z>
+<z><o></o>Как зима в полную силу вошла, стали они в лес собираться. Уложил Кокованя на ручные санки сухарей два мешка, припас охотничий и другое, что ему надо. Даренка тоже узелок себе навязала. Лоскуточков взяла кукле платье шить, ниток клубок, иголку да еще веревку.</z>
+<z><o></o>&laquo;Нельзя ли, &mdash; думает, &mdash; этой веревкой Серебряное копытце поймать?&raquo;</z>
+<z><o></o>Жаль Даренке кошку свою оставлять, да что поделаешь. Гладит кошку-то на прощанье, разговаривает с ней:</z>
+<z><o></o>&mdash; Мы, Муренка, с дедом в лес пойдем, а ты дома сиди, мышей лови. Как увидим Серебряное копытце, так и воротимся. Я тебе тогда все расскажу.</z>
+<z><o></o>Кошка лукаво посматривает, а сама мурлычет:</z>
+<z><o></o>&mdash; Пр-равильно придумала. Пр-равильно.</z>
+<z><o></o>Пошли Кокованя с Даренкой. Все соседи дивуются:</z>
+<z><o></o>&mdash; Из ума выжился старик! Такую маленькую девчонку в лес зимой повел!</z>
+<z><o></o>Как стали Кокованя с Даренкой из заводу выходить, слышат &mdash; собачонки что-то сильно забеспокоились. Такой лай да визг подняли, будто зверя на улицах увидали. Оглянулись, &mdash; а это Муренка серединой улицы бежит, от собак отбивается. Муренка к той поре поправилась. Большая да здоровая стала. Собачонки к ней подступиться не смеют.</z>
+<z><o></o>Хотела Даренка кошку поймать да домой унести, только где тебе! Добежала Муренка до лесу, да и на сосну. Пойди поймай!</z>
+<z><o></o>Покричала Даренка, не могла кошку приманить. Что делать? Пошли дальше. Глядят, &mdash; Муренка стороной бежит. Так и до балагана добралась.</z>
+<z><o></o>Вот и стало их в балагане трое. Даренка хвалится:</z>
+<z><o></o>&mdash; Веселее так-то.</z>
+<z><o></o>Кокованя поддакивает:</z>
+<z><o></o>&mdash; Известно, веселее.</z>
+<z><o></o>А кошка Муренка свернулась клубочком у печки и звонко мурлычет:</z>
+<z><o></o>- Пр -равильно говоришь. Пр-равильно.</z>
+<z><o></o>Козлов в ту зиму много было. Это простых-то. Кокованя каждый день то одного, то двух к балагану притаскивал. Шкурок у них накопилось, козлиного мяса насолили &mdash; на ручных санках не увезти. Надо бы в завод за лошадью сходить, да как Даренку с кошкой в лесу оставить! А Даренка попривыкла в лесу-то. Сама говорит старику:</z>
+<z><o></o>&mdash; Дедо, сходил бы ты в завод за лошадью. Надо ведь солонину домой перевезти.</z>
+<z><o></o>Кокованя даже удивился:</z>
+<z><o></o>&mdash; Какая ты у меня разумница, Дарья Григорьевна. Как большая рассудила. Только забоишься, поди, одна-то.</z>
+<z><o></o>&mdash; Чего, &mdash; отвечает, &mdash; бояться. Балаган у нас крепкий, волкам не добиться. И Муренка со мной. Не забоюсь. А ты поскорее ворочайся все-таки!</z>
+<z><o></o>Ушел Кокованя. Осталась Даренка с Муренкой. Днем-то привычно было без Коковани сидеть, пока он козлов выслеживал... Как темнеть стало, запобаивалась. Только глядит, &mdash; Муренка лежит спокойнехонько. Даренка и повеселела. Села к окошечку, смотрит в сторону покосных ложков и видит &mdash; по лесу какой-то комочек катится. Как ближе подкатился, разглядела, &mdash; это козел бежит. Ножки тоненькие, головка легонькая, а на рожках по пяти веточек.</z>
+<z><o></o>Выбежала Даренка поглядеть, а никого нет. Воротилась, да и говорит:</z>
+<z><o></o>&mdash; Видно, задремала я. Мне и показалось.</z>
+<z><o></o>Муренка мурлычет:</z>
+<z><o></o>&mdash; Пр-равильно говоришь. Пр-равильно.</z>
+<z><o></o>Легла Даренка рядом с кошкой, да и уснула до утра.</z>
+<z><o></o>Другой день прошел. Не воротился Кокованя. Скучненько стало Даренке, а не плачет. Гладит Муренку да приговаривает:</z>
+<z><o></o>&mdash; Не скучай, Муренушка! Завтра дедо непременно придет.</z>
+<z><o></o>Муренка свою песенку поет:</z>
+<z><o></o>&mdash; Пр-равильно говоришь. Пр-равильно.</z>
+<z><o></o>Посидела опять Даренушка у окошка, полюбовалась на звезды. Хотела спать ложиться, вдруг по стенке топоток прошел. Испугалась Даренка, а топоток по другой стене, потом по той, где окошечко, потом где дверка, а там и сверху запостукивало. Не громко, будто кто легонький да быстрый ходит. Даренка и думает:</z>
+<z><o></o>&laquo;Не козел ли тот вчерашний прибежал?&raquo;</z>
+<z><o></o>И до того ей захотелось поглядеть, что и страх не держит. Отворила дверку, глядит, а козел &mdash; тут, вовсе близко. Правую переднюю ножку поднял &mdash; вот топнет, а на ней серебряное копытце блестит, и рожки у козла о пяти ветках. Даренка не знает, что ей делать, да и манит его как домашнего:</z>
+<z><o></o>&mdash; Ме-ка! Ме-ка!</z>
+<z><o></o>Козел на это как рассмеялся. Повернулся и побежал.</z>
+<z><o></o>Пришла Даренушка в балаган, рассказывает Муренке:</z>
+<z><o></o>&mdash; Поглядела я на Серебряное копытце. И рожки видела, и копытце видела. Не видела только, как тот козлик ножкой дорогие камни выбивает. Другой раз, видно, покажет.</z>
+<z><o></o>Муренка знай свою песенку поет:</z>
+<z><o></o>&mdash; Пр-равильно говоришь. Пр-равильно.</z>
+<z><o></o>Третий день прошел, а все Коковани нет. Вовсе затуманилась Даренка. Слезки запокапывали. Хотела с Муренкой поговорить, а ее нету. Тут вовсе испугалась Даренушка, из балагана выбежала кошку искать.</z>
+<z><o></o>Ночь месячная, светлая, далеко видно. Глядит Даренка &mdash; кошка близко на покосном ложке сидит, а перед ней козел. Стоит, ножку поднял, а на ней серебряное копытце блестит.</z>
+<z><o></o>Муренка головой покачивает, и козел тоже. Будто разговаривают. Потом стали по покосным ложкам бегать. Бежит-бежит козел, остановится и давай копытцем бить. Муренка подбежит, козел дальше отскочит и опять копытцем бьет. Долго они так-то по покосным ложкам бегали. Не видно их стало. Потом опять к самому балагану воротились.</z>
+<z><o></o>Тут вспрыгнул козел на крышу и давай по ней серебряным копытцем бить. Как искры, из-под ножки-то камешки посыпались. Красные, голубые, зеленые, бирюзовые &mdash; всякие.</z>
+<z><o></o>К этой поре как раз Кокованя и вернулся. Узнать своего балагана не может. Весь он как ворох дорогих камней стал. Так и горит-переливается разными огнями. Наверху козел стоит &mdash; и все бьет да бьет серебряным копытцем, а камни сыплются да сыплются. Вдруг Муренка скок туда же. Встала рядом с козлом, громко мяукнула, и ни Муренки, ни Серебряного копытца не стало.</z>
+<z><o></o>Кокованя сразу полшапки камней нагреб, да Даренка запросила:</z>
+<z><o></o>&mdash; Не тронь, дедо! Завтра днем еще на это поглядим.</z>
+<z><o></o>Кокованя и послушался. Только к утру-то снег большой выпал. Все камни и засыпало. Перегребали потом снег-то, да ничего не нашли. Ну, им и того хватило, сколько Кокованя в шапку нагреб.</z>
+<z><o></o>Все бы хорошо, да Муренки жалко. Больше ее так и не видали, да и Серебряное копытце тоже не показался. Потешил раз, &mdash; и будет.</z>
+<z><o></o>А по тем покосным ложкам, где козел скакал, люди камешки находить стали. Зелененькие больше. Хризолитами называются. Видали?<div class="epigraf_source"></div></z>
+<div class="i0 tc" style="padding-top:.5em;border-bottom:1px solid #666;width:6em;margin:auto;position:relative"><span class="rel bg1" style="top:.4em;color:#666;padding:0em .2em;line-height:.8em">&#10022;</span></div><iframe id="noteFrame"></iframe><div id="tbd"></div><script>
+nf=ge("noteFrame");
+nf.onload = () => {
+	nfd=nf.contentWindow.document;
+	nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+}
+nfd=nf.contentWindow.document;
+nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+
+tf=ge("tocFrame");
+tf.onload = () => {
+	tfd=tf.contentWindow.document;
+	tfd.addEventListener("click",function(e){eid=tfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="tocHide")hideToc();},true);
+}
+</script>
+</div>
+<div id="s" style="height:0em"></div>
+<div class="tc" style="margin:3em -6px 1em">
+<div id="yar"></div>
+</div>
+
+
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">&copy; Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div><script>
+turl = new URL(document.URL);
+if (turl.hash != '')
+{
+	window.addEventListener('load',function(){scrollToId();});
+} 
+
+function scrollToId() {
+	ah_e = document.getElementById('ex_a' + turl.hash.substring(3));
+	ah_e.scrollIntoView({ block: "start" });
+}
+var cntr=0;</script>
+
+</div>
+
+<div id="f_r1" style="background-color:#e6e0d3">
+<div class="f" style="height:100%;border-left:1px solid #7f7f96;padding:0em"><div id="in" class="f fc jsb ci" style="width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div class="rel tc">
+<div id="right-rectangle-stick-1" class="ib" style="max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+</script>
+<div id="gglad" class="ib" style="max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+ <div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+  <div class="tc">
+	 <div id="right-rectangle-stick-2" class="ib" style="max-width:400px"></div>
+   <div id="btmad" class="ib" style="max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+	</div>
+ </div></div>
+</div>
+</div></div>
+</div>
+</div>
+
+</div>
+</div><div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: <a href="mailto:otklik@ilibrary.ru">otklik@ilibrary.ru</a></span><span class="bmi"><a href="/aboutilibrary/">О библиотеке</a></span><span class="bmi"><a href="/reklama.phtml">Реклама на сайте</a></span></div>
+<div>&copy;1996&#151;2026 Алексей Комаров. Подборка&nbsp;произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+<a href="https://metrika.yandex.ru/stat/?id=5179000&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/5179000/3_0_FFFFF0FF_E0E0D0FF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="5179000" data-lang="ru" /></a>
+<script type="text/javascript" >   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div><img src="https://mc.yandex.ru/watch/5179000" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+setBrackets();
+setArrows();setPoems();
+window.addEventListener('scroll',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+});
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(setBrackets)!=='undefined') setBrackets();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+if(cntr)document.write(cntr);</script>
+</div>
+</BODY>
+</HTML>
+<!-- 0.000535 -->

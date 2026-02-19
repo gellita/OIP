@@ -1,0 +1,309 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML lang="ru">
+
+<HEAD>
+<TITLE>Х. К. Андерсен. Цветы маленькой Иды. Текст произведения</TITLE>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<META NAME="Keywords" CONTENT="русская классическая литература интернет-библиотека Алексея Комарова текст читать Ханс Андерсен Цветы маленькой Иды">
+<META NAME="Description" CONTENT='Ханс Андерсен. Цветы маленькой Иды. Текст произведения. Источник: Х. К. Андерсен. Сказки, рассказанные детям; Новые сказки. М.: Наука, 1983. (Литературные памятники). Интернет-библиотека Алексея Комарова'>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+<link id="mainCSS" rel=stylesheet type="text/css" href="/etc/styles4_18.css">
+<script src="https://yandex.ru/ads/system/header-bidding.js" async></script>
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+<script async src="https://cdn.skcrtxr.com/roxot-wrapper/js/roxot-manager.js?pid=8c86a31e-948e-4d37-9b5a-304d2fbc4c0c"></script>
+
+<script src="/js/adplacements3.js"></script>
+<script async>
+lgl=1;function ge(e){return document.getElementById(e)}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function gr(e){return e.getBoundingClientRect()}
+function ih(e,c){e.innerHTML=c}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+id_t=4620;</script>
+<script src="/js/ev3.js"></script>
+</HEAD>
+
+<BODY>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<span id="svg"></span>
+<div id="hdr" class="hdr">
+ <div class="logo">
+  <div class="logo1 rel">
+   <a href="/" title="Читаем книги онлайн. Интернет-библиотека Алексея Комарова">
+    <div id="lmini"><svg style="width:4.9em;height:2.5em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="800 15 1500 1600"><use xlink:href="#logoMini" /></svg></div>
+    <div id="lmaxi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoBg" /><use xlink:href="#logoMaxi" /></svg></div>
+    <div id="lmidi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoMidi" /></svg></div>
+   </a>
+	</div>
+ </div>
+ <div id="qs1" class="qson">
+  <form id="sf2" method=get action="/search.phtml"><div id="sf1" style="display:flex;align-items:stretch">
+	<div><input class="tf" id="qi1" size=200 type="text" name="q" placeholder="Поиск: автор и/или название произведения" value=""></div>
+	<div id="sb" class="sb" style="">
+	<input id="ss" type="submit" value="Найти"><span id="smg"><svg id="sb1" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="60 0 115 140">
+<use xlink:href="#mglass" /></svg></span></div></div>
+</form>
+</div>
+<div id="sm" class="m"><a style="width:1.2em;white-space:nowrap" href="#" class="ma" onclick="toggle_sf();">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="65 18 115 115"><use xlink:href="#mglass" /></svg>
+</a></div>
+<div class="m"><a href="/author.html" class="ma">Авторы</a></div>
+<div class="spce">&nbsp;</div>
+</div>
+<div id="ex" class="l">
+<div id="lft0">
+<div class="f fc" style="justify-content:space-between">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+
+	<div id="text" class="t hya">
+	<div id="thdr" class="thdr">
+<a href="/author/hkandersen/index.html">Х. К. Андерсен</a>. <a href="/text/4620/index.html">Цветы маленькой Иды</a></div>
+
+<div class="author">Ханс Кристиан Андерсен</div>
+<div class="title"><h1>Цветы маленькой Иды</h1></div>
+<z><o></o>Бедные мои цветочки совсем завяли! &mdash; сказала маленькая Ида. &mdash; Вчера вечером они были такие красивые, а теперь совсем повесили головки! Отчего это? &mdash; спросила она студента, сидевшего на диване.</z>
+<z><o></o>Она очень любила этого студента, &mdash; он умел рассказывать чудеснейшие истории и вырезывать презабавные фигурки: сердечки с крошками танцовщицами внутри, цветы и великолепные дворцы с дверями и окнами, которые можно было открывать. Большой весельчак был этот студент!</z>
+<z><o></o>&mdash; Что же с ними? &mdash; спросила она опять и показала ему свой завядший букет.</z>
+<z><o></o>&mdash; Знаешь что? &mdash; сказал студент. &mdash; Цветы были сегодня ночью на балу, вот и повесили теперь головки!</z>
+<z><o></o>&mdash; Да ведь цветы не танцуют! &mdash; сказала маленькая Ида.</z>
+<z><o></o>&mdash; Танцуют! &mdash; отвечал студент. &mdash; По ночам, когда кругом темно и мы все спим, они так весело пляшут друг с другом, такие балы задают &mdash; просто чудо!</z>
+<z><o></o>&mdash; А детям нельзя прийти к ним на бал?</z>
+<z><o></o>&mdash; Отчего же, &mdash; сказал студент, &mdash; ведь маленькие маргаритки и ландыши тоже танцуют.</z>
+<z><o></o>&mdash; А где танцуют самые красивые цветы? &mdash; спросила Ида.</z>
+<z><o></o>&mdash; Ты ведь бывала за городом, там, где большой дворец, в котором живет король и где такой чудесный сад с цветами? Помнишь лебедей, которые подплывали к тебе за хлебными крошками? Вот там-то и бывают настоящие балы!</z>
+<z><o></o>&mdash; Я еще вчера была там с мамой, &mdash; сказала маленькая Ида, &mdash; но на деревьях нет больше листьев, и во всем саду ни одного цветка! Куда они все девались? Их столько было летом!</z>
+<z><o></o>&mdash; Они все во дворце! &mdash; сказал студент. &mdash; Надо тебе сказать, что как только король и придворные переезжают в город, все цветы сейчас же убегают из сада прямо во дворец, и там у них начинается веселье! Вот бы тебе посмотреть! Две самые красивые розы садятся на трон &mdash; это король с королевой. Красные петушьи гребешки становятся по обеим сторонам и кланяются &mdash; это камер-юнкеры. Потом приходят все остальные прекрасные цветы, и начинается бал. Голубые фиалки изображают маленьких морских кадетов и танцуют с барышнями &mdash; гиацинтами и крокусами, а тюльпаны и большие желтые лилии &mdash; это пожилые дамы, они смотрят, чтобы танцевали прилично и вообще вели себя чинно.</z>
+<z><o></o>&mdash; А цветочкам не может достаться за то, что они танцуют в королевском дворце? &mdash; спросила маленькая Ида.</z>
+<z><o></o>&mdash; Да ведь никто же не знает об этом! &mdash; сказал студент. &mdash; Правда, ночью заглянет иной раз во дворец старик смотритель с большою связкою ключей в руках, но цветы, как только заслышат звяканье ключей, сейчас присмиреют, спрячутся за длинные занавески, что висят на окнах, и только чуть-чуть выглядывают оттуда одним глазком. &laquo;Тут что-то пахнет цветами!&raquo; &mdash; бормочет старик смотритель, а видеть ничего не видит.</z>
+<z><o></o>&mdash; Вот забавно! &mdash; сказала маленькая Ида и даже в ладоши захлопала. &mdash; И я тоже не могу их увидеть?</z>
+<z><o></o>&mdash; Можешь, &mdash; сказал студент. &mdash; Стоит только, как опять пойдешь туда, заглянуть в окошки. Вот я сегодня видел там длинную желтую лилию; она лежала и потягивалась на диване &mdash; воображала себя придворной дамой.</z>
+<z><o></o>&mdash; А цветы из Ботанического сада тоже могут прийти туда? Ведь это далеко!</z>
+<z><o></o>&mdash; Не бойся, &mdash; сказал студент, &mdash; они могут летать, если захотят! Ты видела красивых красных, желтых и белых бабочек, похожих на цветы? Они ведь и были прежде цветами, только соскочили со своих стебельков, забили в воздухе лепесточками, точно крылышками, и полетели. Они вели себя хорошо, за то и получили позволение летать и днем; другие должны сидеть смирно на своих стебельках, а они летают, и лепестки их стали наконец настоящими крылышками. Ты сама видела их! А впрочем, может быть, цветы из Ботанического сада и не бывают в королевском дворце! Может быть, они даже и не знают, что там идет по ночам такое веселье. Вот что я скажу тебе! то-то удивится потом профессор ботаники &mdash; который живет тут рядом! &mdash; когда придешь в его сад, расскажи какому-нибудь цветочку про большие балы в королевском дворце. Тот расскажет об этом остальным и они все упорхнут. Профессор придет в сад, а там ни единого цветочка, и он в толк не возьмет, куда они девались!</z>
+<z><o></o>&mdash; Да как же цветок расскажет другим? У цветов нет языка!</z>
+<z><o></o>&mdash; Конечно, нет, &mdash; сказал студент, &mdash; зато они умеют объясняться пантомимой! Ты сама видела, как они качаются и шевелят своими зелеными листочками, чуть подует ветерок. Это у них так мило выходит &mdash; точно они разговаривают.</z>
+<z><o></o>&mdash; А профессор понимает их пантомиму? &mdash; спросила маленькая Ида.</z>
+<z><o></o>&mdash; Как же! Раз утром он пришел в свой сад и видит, что большая крапива делает листочками знаки прелестной красной гвоздике; этим она хотела сказать гвоздике: &laquo;Ты так мила, и я очень люблю тебя!&raquo; Профессору это не понравилось, и он сейчас ударил крапиву по листочкам, &mdash; листочки у нее все равно, что пальцы, &mdash; да обжегся! С тех пор и не смеет трогать крапиву.</z>
+<z><o></o>&mdash; Вот забавно! &mdash; сказала Ида и засмеялась.</z>
+<z><o></o>&mdash; Ну можно ли набивать ребенку голову такими бреднями? &mdash; сказал скучный советник, который тоже пришел в гости и сидел на диване.</z>
+<z><o></o>Он терпеть не мог студента и вечно ворчал на него, особенно когда тот вырезывал затейливые и забавные фигурки, вроде человека на виселице и с сердцем в руках &mdash; его повесили за то, что он воровал сердца, &mdash; или старой ведьмы на помеле, с мужем на носу. Все это очень не нравилось советнику, и он всегда повторял:</z>
+<z><o></o>&mdash; Ну можно ли набивать ребенку голову такими бреднями? Глупые выдумки!</z>
+<z><o></o>Но Иду очень позабавил рассказ студента о цветах, и она думала об этом целый день.</z>
+<z><o></o>&laquo;Так цветочки повесили головки потому, что устали после бала!&raquo; И маленькая Ида пошла к своему столику, где стояли все ее игрушки; ящик столика тоже битком был набит разным добром. Кукла Софи лежала в своей кроватке и спала, но Ида сказала ей:</z>
+<z><o></o>&mdash; Тебе придется встать, Софи, и полежать эту ночь в ящике; бедные цветы больны, их надо положить в твою постельку, &mdash; может быть они и выздоровеют!</z>
+<z><o></o>И она вынула куклу из кровати. Софи посмотрела на Иду очень недовольно и не сказала ни слова, &mdash; она рассердилась за то, что у нее отняли постель.</z>
+<z><o></o>Ида уложила цветы в постельку, укрыла их хорошенько одеяльцем и велела им лежать смирно, за это она обещала напоить их чаем, и тогда они встали бы завтра утром совсем здоровыми! Потом она задернула полог, чтобы солнышко не светило цветочкам в глаза.</z>
+<z><o></o>Рассказ студента не шел у нее из головы, и, собираясь идти спать, маленькая Ида не могла удержаться, чтобы не заглянуть за спущенные на ночь оконные занавески; на окошках стояли чудесные мамины цветы &mdash; тюльпаны и гиацинты, и маленькая Ида шепнула им:</z>
+<z><o></o>&mdash; Я знаю, что у вас ночью будет бал!</z>
+<z><o></o>Цветы стояли себе, как ни в чем не бывало, и даже не шелохнулись, ну да маленькая Ида что знала, то знала.</z>
+<z><o></o>В постели Ида долго еще думала о том же и все представляла себе, как это должно быть мило, когда цветочки танцуют! &laquo;Неужели и мои цветы были на балу во дворце?&raquo; &mdash; подумала она и заснула.</z>
+<z><o></o>Но посреди ночи маленькая Ида вдруг проснулась; она видела сейчас во сне цветы, студента и советника, который бранил студента за то, что тот набивает ей голову пустяками. В комнате, где лежала Ида, было тихо, на столе горел ночник, и папа с мамой крепко спали.</z>
+<z><o></o>&mdash; Хотелось бы мне знать: спят ли мои цветы в кукольной постельке? &mdash; сказала маленькая Ида про себя и слегка приподнялась с подушки, чтобы посмотреть в полуоткрытую дверь, за которой были ее игрушки и цветы; потом она прислушалась, &mdash; ей показалось, что в той комнате играют на фортепьяно, да так тихо и нежно, как она никогда еще не слыхала.</z>
+<z><o></o>&mdash; Это, верно, цветы танцуют! &mdash; сказала Ида. &mdash; Господи, как бы мне хотелось посмотреть!</z>
+<z><o></o>Но она не смела встать с постели, чтобы не разбудить папу с мамой.</z>
+<z><o></o>&mdash; Хоть бы цветы вошли сюда! &mdash; сказала она.</z>
+<z><o></o>Но цветы не входили, а музыка все продолжалась, такая тихая, нежная, просто чудо! Тогда маленькая Ида не выдержала, потихоньку вылезла из кроватки, прокралась на цыпочках к дверям и заглянула в соседнюю комнату. Что за прелесть была там!</z>
+<z><o></o>В той комнате не горело ночника, а было все-таки светло, как днем, от месяца, глядевшего из окошка прямо на пол, где в два ряда стояли тюльпаны и гиацинты; на окнах не осталось ни единого цветка &mdash; там стояли одни горшки с землей. Цветы очень мило танцевали друг с другом: они то становились в круг, то кружились парами, взявшись за длинные зеленые листочки, точно за руки. На фортепьяно играла большая желтая лилия &mdash; это наверное, ее маленькая Ида видела летом! Она хорошо помнила, как студент сказал: &laquo;Ах, как она похожа на фрёкен Лину!&raquo; Все посмеялись тогда над ним, но теперь Иде и в самом деле показалось, что длинная желтая лилия похожа на Лину; она и на рояле играла так же, как Лина: поворачивала свое продолговатое лицо то в одну сторону, то в другую и кивала в такт чудесной музыке. Никто не заметил Иды.</z>
+<z><o></o>Вдруг маленькая Ида увидала, что большой голубой крокус вскочил прямо на середину стола с игрушками, подошел к кукольной кроватке и отдернул полог; там лежали больные цветы, но они живо встали и кивнули головками, давая знать, что и они тоже хотят танцевать. Старый Курилка со сломанной нижней челюстью встал и поклонился прекрасным цветам; они совсем не были похожи на больных &mdash; спрыгнули со стола и принялись веселиться вместе со всеми.</z>
+<z><o></o>В эту минуту где-то стукнуло, как будто что-то упало на пол. Ида посмотрела в ту сторону &mdash; это была масленичная верба: она тоже спрыгнула со стола к цветам, считая, что она им сродни. Верба была довольно мила; ее украшали бумажные цветы, а на верхушке ее сидела восковая куколка в широкополой черной шляпе, точь-в-точь как у советника. Верба прыгала посреди цветов и громко топала своими тремя деревянными ходульками, &mdash; она танцевала мазурку, а другие цветы не умели плясать мазурку, потому что были слишком легки и не могли так топать.</z>
+<z><o></o>Но вот восковая куколка на вербе вдруг вытянулась, завертелась над бумажными цветами и громко закричала:</z>
+<z><o></o>&mdash; Ну можно ли набивать ребенку голову такими бреднями? Глупые выдумки!</z>
+<z><o></o>Теперь кукла была точь-в-точь сам советник, в его черной широкополой шляпе, такая же желтая и сердитая! Но бумажные цветы ударили ее по тонким ножкам, и она опять съежилась в маленькую восковую куколку. Это было так забавно, что Ида не могла удержаться от смеха.</z>
+<z><o></o>Верба продолжала плясать, и советнику волей-неволей приходилось плясать вместе с нею, все равно &mdash; вытягивался ли он во всю длину, или оставался маленькою восковою куколкой в черной широкополой шляпе. Наконец уж цветы, особенно те, что лежали в кукольной кроватке, стали просить за него, и верба оставила его в покое. Вдруг что-то громко застучало в ящике, где лежала кукла Софи и другие игрушки. Курилка побежал по краю стола, лег на живот и приотворил ящик. Софи встала и удивленно огляделась.</z>
+<z><o></o>&mdash; У вас бал? &mdash; проговорила она. &mdash; Что же это вы мне не сказали?</z>
+<z><o></o>&mdash; Хочешь танцевать со мной? &mdash; спросил Курилка.</z>
+<z><o></o>&mdash; Хорош кавалер! &mdash; сказала Софи и повернулась к нему спиной; потом уселась на ящик и стала ждать &mdash; авось ее пригласит кто-нибудь из цветов, но никто и не думал. Она громко кашлянула, но и тут никто не подошел к ней. Курилка плясал один, и очень недурно!</z>
+<z><o></o>Видя, что цветы и не глядят на нее, Софи вдруг свалилась с ящика на пол и наделала такого шума, что все сбежались к ней и стали спрашивать, не ушиблась ли она? Все разговаривали с нею очень ласково, особенно те цветы, которые только что спали в ее кроватке; Софи нисколько не ушиблась, и цветы маленькой Иды стали благодарить ее за чудесную постельку, потом увели с собой в лунный кружок на полу и принялись танцевать с ней, а другие цветы кружились около них. Теперь Софи была очень довольна и сказала цветочкам, что охотно уступает им свою кроватку, &mdash; ей хорошо в ящике!</z>
+<z><o></o>&mdash; Спасибо! &mdash; сказали цветы. &mdash; Но мы не можем жить так долго! Утром мы совсем умрем! Скажи только маленькой Иде, чтобы она схоронила нас в саду, где зарыта канарейка; летом мы опять вырастем и будем еще красивее!</z>
+<z><o></o>&mdash; Нет, вы не должны умирать! &mdash; сказала Софи и поцеловала цветы. В это время дверь отворилась, и в комнату вошла целая толпа цветов. Ида никак не могла понять, откуда они взялись, &mdash; должно быть, из королевского дворца. Впереди всех шли две прелестные розы с маленькими золотыми коронами на головах, &mdash; это были король с королевой. За ними, раскланиваясь на все стороны, шли чудесные левкои и гвоздики. Музыканты &mdash; крупные маки и пионы &mdash; дули в пустые стручки от горошка и совсем покраснели от натуги, а маленькие голубые колокольчики и беленькие подснежники звенели, точно на них были надеты бубенчики. Вот была забавная музыка! Затем шла целая толпа других цветов, и все они танцевали &mdash; и голубые фиалки, и оранжевые ноготки, и маргаритки, и ландыши. Цветы так мило танцевали и целовались, что просто загляденье!</z>
+<z><o></o>Наконец цветы пожелали друг другу спокойной ночи, а маленькая Ида тихонько пробралась в свою кроватку, и ей всю ночь снились цветы и все, что она видела.</z>
+<z><o></o>Утром она встала и побежала к своему столику посмотреть, там ли ее цветочки.</z>
+<z><o></o>Она отдернула полог &mdash; да, они лежали в кроватке, но совсем, совсем завяли! Софи тоже лежала на своем месте в ящике и казалась ужасно сонной.</z>
+<z><o></o>&mdash; А ты помнишь, что тебе надо передать мне? &mdash; опросила ее Ида.</z>
+<z><o></o>Но Софи глупо смотрела на нее и не раскрывала рта.</z>
+<z><o></o>&mdash; Какая же ты нехорошая! &mdash; сказала Ида. &mdash; А они еще танцевали с тобой!</z>
+<z><o></o>Потом она взяла картонную коробочку с хорошенькою нарисованною птичкой на крышке, раскрыла ее и положила туда мертвые цветы.</z>
+<z><o></o>&mdash; Вот вам и гробик! &mdash; сказала она. &mdash; А когда придут мои норвежские кузены, мы вас зароем в саду, чтобы на будущее лето вы выросли еще красивее!</z>
+<z><o></o>Йонас и Адольф, норвежские кузены, были бойкие мальчуганы; отец подарил им по новому луку, и они пришли показать их Иде. Она рассказала им про бедные цветы, которые умерли, и позволила похоронить их. Мальчики шли впереди с луками на плечах; за ними маленькая Ида с мертвыми цветами в коробочке. Вырыли в саду могилку. Ида поцеловала цветы и опустила коробочку в ямку, а Йонас с Адольфом выстрелили над могилкой из луков, &mdash; ни ружей, ни пушек у них ведь не было.</z>
+<div class="i0 tc" style="padding-top:.5em;border-bottom:1px solid #666;width:6em;margin:auto;position:relative"><span class="rel bg1" style="top:.4em;color:#666;padding:0em .2em;line-height:.8em">&#10022;</span></div><iframe id="noteFrame"></iframe><div id="tbd"></div><script>
+nf=ge("noteFrame");
+nf.onload = () => {
+	nfd=nf.contentWindow.document;
+	nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+}
+nfd=nf.contentWindow.document;
+nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+
+tf=ge("tocFrame");
+tf.onload = () => {
+	tfd=tf.contentWindow.document;
+	tfd.addEventListener("click",function(e){eid=tfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="tocHide")hideToc();},true);
+}
+</script>
+</div>
+<div id="s" style="height:0em"></div>
+<div class="tc" style="margin:3em -6px 1em">
+<div id="yar"></div>
+</div>
+
+
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">&copy; Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div><script>
+turl = new URL(document.URL);
+if (turl.hash != '')
+{
+	window.addEventListener('load',function(){scrollToId();});
+} 
+
+function scrollToId() {
+	ah_e = document.getElementById('ex_a' + turl.hash.substring(3));
+	ah_e.scrollIntoView({ block: "start" });
+}
+var cntr=0;</script>
+
+</div>
+
+<div id="f_r1" style="background-color:#e6e0d3">
+<div class="f" style="height:100%;border-left:1px solid #7f7f96;padding:0em"><div id="in" class="f fc jsb ci" style="width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div class="rel tc">
+<div id="right-rectangle-stick-1" class="ib" style="max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+</script>
+<div id="gglad" class="ib" style="max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+ <div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+  <div class="tc">
+	 <div id="right-rectangle-stick-2" class="ib" style="max-width:400px"></div>
+   <div id="btmad" class="ib" style="max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+	</div>
+ </div></div>
+</div>
+</div></div>
+</div>
+</div>
+
+</div>
+</div><div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: <a href="mailto:otklik@ilibrary.ru">otklik@ilibrary.ru</a></span><span class="bmi"><a href="/aboutilibrary/">О библиотеке</a></span><span class="bmi"><a href="/reklama.phtml">Реклама на сайте</a></span></div>
+<div>&copy;1996&#151;2026 Алексей Комаров. Подборка&nbsp;произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+<a href="https://metrika.yandex.ru/stat/?id=5179000&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/5179000/3_0_FFFFF0FF_E0E0D0FF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="5179000" data-lang="ru" /></a>
+<script type="text/javascript" >   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div><img src="https://mc.yandex.ru/watch/5179000" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+setBrackets();
+setArrows();setPoems();
+window.addEventListener('scroll',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+});
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(setBrackets)!=='undefined') setBrackets();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+if(cntr)document.write(cntr);</script>
+</div>
+</BODY>
+</HTML>
+<!-- 0.00052396 -->

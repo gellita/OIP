@@ -1,0 +1,322 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML lang="ru">
+
+<HEAD>
+<TITLE>П. П. Бажов. Ключ земли. Текст произведения</TITLE>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<META NAME="Keywords" CONTENT="русская классическая литература интернет-библиотека Алексея Комарова текст читать Павел Бажов Ключ земли">
+<META NAME="Description" CONTENT='Павел Бажов. Ключ земли. Текст произведения. Источник: П. П. Бажов. Сочинения в трех томах. Т. 1. М.: Правда, 1986. Интернет-библиотека Алексея Комарова'>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+<link id="mainCSS" rel=stylesheet type="text/css" href="/etc/styles4_18.css">
+<script src="https://yandex.ru/ads/system/header-bidding.js" async></script>
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+<script async src="https://cdn.skcrtxr.com/roxot-wrapper/js/roxot-manager.js?pid=8c86a31e-948e-4d37-9b5a-304d2fbc4c0c"></script>
+
+<script src="/js/adplacements3.js"></script>
+<script async>
+lgl=1;function ge(e){return document.getElementById(e)}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function gr(e){return e.getBoundingClientRect()}
+function ih(e,c){e.innerHTML=c}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+id_t=4608;</script>
+<script src="/js/ev3.js"></script>
+</HEAD>
+
+<BODY>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<span id="svg"></span>
+<div id="hdr" class="hdr">
+ <div class="logo">
+  <div class="logo1 rel">
+   <a href="/" title="Читаем книги онлайн. Интернет-библиотека Алексея Комарова">
+    <div id="lmini"><svg style="width:4.9em;height:2.5em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="800 15 1500 1600"><use xlink:href="#logoMini" /></svg></div>
+    <div id="lmaxi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoBg" /><use xlink:href="#logoMaxi" /></svg></div>
+    <div id="lmidi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoMidi" /></svg></div>
+   </a>
+	</div>
+ </div>
+ <div id="qs1" class="qson">
+  <form id="sf2" method=get action="/search.phtml"><div id="sf1" style="display:flex;align-items:stretch">
+	<div><input class="tf" id="qi1" size=200 type="text" name="q" placeholder="Поиск: автор и/или название произведения" value=""></div>
+	<div id="sb" class="sb" style="">
+	<input id="ss" type="submit" value="Найти"><span id="smg"><svg id="sb1" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="60 0 115 140">
+<use xlink:href="#mglass" /></svg></span></div></div>
+</form>
+</div>
+<div id="sm" class="m"><a style="width:1.2em;white-space:nowrap" href="#" class="ma" onclick="toggle_sf();">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="65 18 115 115"><use xlink:href="#mglass" /></svg>
+</a></div>
+<div class="m"><a href="/author.html" class="ma">Авторы</a></div>
+<div class="spce">&nbsp;</div>
+</div>
+<div id="ex" class="l">
+<div id="lft0">
+<div class="f fc" style="justify-content:space-between">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+
+	<div id="text" class="t hya">
+	<div id="thdr" class="thdr">
+<a href="/author/bazhov/index.html">П. П. Бажов</a>. <a href="/text/4608/index.html">Ключ земли</a></div>
+
+<div class="author">Павел Бажов</div>
+<div class="title"><h1>Ключ земли</h1></div>
+<z><o></o>К этому ремеслу &mdash; камешки-то искать &mdash; приверженности не было. Случалось, конечно, нахаживал, да только так... без понятия. Углядишь на смывке галечку с огоньком, ну и приберешь, а потом у верного человека спрашиваешь &mdash; похранить иль выбросить?</z>
+<z><o></o>С золотом-то куда проще. Понятно, и у золота сорт есть, да не на ту стать, как у камешков. По росту да по весу их вовсе не разберешь. Иной, глядишь, бо&#769;льшенький, другой много меньше, оба ровно по-хорошему блестят, а на поверку выходит разница. Большой-то за пятак не берут, а к маленькому тянутся: он, дескать, небывалой воды, тут игра будет.</z>
+<z><o></o>Когда и того смешнее. Купят у тебя камешок и при тебе же половину отшибут и в сор бросят. Это, &mdash; говорят, &mdash; только делу помеха: куст темнит. Из остатка еще половину сточат, да и хвалятся: теперь в самый раз вода обозначилась и при огне тухнуть не станет. И верно, камешок вышел махонький, а вовсе живенький, ровно смеется. Ну, и цена у него тоже переливается: услышишь &mdash; ахнешь. Вот и пойми в этом деле!</z>
+<z><o></o>А разговоры эти, какой камень здоровье хранит, какой сон оберегает, либо там тоску отводит и протча, это все, по моим мыслям, от безделья рукоделье, при пустой беседе язык почесать, и больше ничего. Только один сказ о камешках от своих стариков перенял. Этот, видать, орешек с добрым ядрышком. Кому по зубам &mdash; тот и раскусит.</z>
+<z><o></o>Есть, сказывают, в земле камень-одинец: другого такого нет. Не то что по нашим землям, и у других народов никто того камня не нахаживал, а слух про него везде идет. Ну, все-таки этот камешок в нашей земле. Это уж старики дознались. Неизвестно только, в котором месте, да это по делу и ни к чему, потому &mdash; этот камешок сам в руки придет кому надо. В том и особинка. Через девчонку одну про это узнали. Так, сказывают, дело-то было.</z>
+<z><o></o>То ли под Мурзинкой, то ли в другом месте был большой рудник. Золото и дорогие каменья тут выбирали. При казенном еще положении работы вели. Начальство в чинах да ясных пуговках, палачи при полной форме, по барабану народ на работу гоняли, под барабан скрозь строй водили, прутьями захлестывали. Однем словом, мука-мученская.</z>
+<z><o></o>И вот промеж этой муки моталась девчушка Васенка. Она на том руднике и родилась, тут и росла, и зимы зимовала. Мать-то у ней вроде стряпухи при щегарской казарме была приставлена, а про отца Васенка вовсе не знала.</z>
+<z><o></o>Таким ребятам, известно, какое житье. Кому бы и вовсе помолчать надо, и тот от маяты-то своей, глядишь, кольнет, а то и колотушку даст: было бы на ком злость сорвать. Прямо сказать, самой горькой жизни девчонка. Хуже сироты круглой. И от работы ущитить ее некому. Ребенок еще, вожжи держать не под силу, а ее уж к таратайке нарядили: &laquo;Чем под ногами вертеться, вози-ко песок!&raquo;</z>
+<z><o></o>Как подрастать стала, &mdash; пехло в руки да с другими девками-бабами на разборку песков выгонять стали. И вот, понимаешь, открылся у этой Васенки большой талан на камни. Чаще всех выхватывала, и камешок самый ловкий, вовсе дорогой.</z>
+<z><o></o>Девчонка без сноровки: найдет и сразу начальству отдает. Те, понятно, рады стараться: который камешок в банку, который себе в карман, а то и за щеку. Недаром говорится: что&#769; большой начальник в кармане унесет, то маленькому подальше прятать надо. А Васенку все похваливают, как сговорились. Прозвище ей придумали &mdash; Счастливый Глазок. Какой начальник подойдет, тот первым делом и спрашивает:</z>
+<z><o></o>&mdash; Ну, как, Счастливый Глазок? Обыскала что?</z>
+<z><o></o>Подаст Васенка находку, а начальник и затакает, как гусь на отлете:</z>
+<z><o></o>&mdash; Так-так, так-так. Старайся, девушка, старайся!</z>
+<z><o></o>Васенка, значит, и старается, да ей это и самой любопытно.</z>
+<z><o></o>Раз обыскала камешок в палец ростом, так все начальство сбежалось. Украсть даже никому нельзя стало, поневоле в казенный банк запечатали. Потом уж, сказывают, из царской казны этот камешок в котору-то заграницу ушел. Ну, не о том разговор...</z>
+<z><o></o>От Васенкиной удачи другим девкам-бабам не сладко. От начальства прижимка.</z>
+<z><o></o>&mdash; Почему у ней много, а у вас один пустяк да и того мало? Видно, глядите плохо.</z>
+<z><o></o>Бабешки, чем бы добром подучить Васенку, давай ее клевать. Вовсе житья девчонке не стало. Тут еще пес выискался &mdash; главный щегарь. Польстился, видно, на Васенкино счастье, да и объявил:</z>
+<z><o></o>&mdash; Женюсь на этой девчонке.</z>
+<z><o></o>Даром что сам давно зубы съел, и ближе пяти шагов к нему не подходи: пропастиной разит, &mdash; из нутра протух, а тоже гнусит:</z>
+<z><o></o>&mdash; Я те, девонька, благородьем сделаю. Понимай это и все камешки мне одному сдавай! Другим не показывай вовсе.</z>
+<z><o></o>Васенка хоть высоконькая на ногах была, а еще далеко до невест не дотянула. Подлеток еще, годов может тринадцати, много четырнадцати. Да разве на это поглядят, коли начальство велит. Сколь хочешь годов попы по книгам накинут. Ну, Васенка, значит, и испужалась. Руки-ноги задрожат, как увидит этого протухлого жениха. Поскорее подает ему, какие камешки нашла, а он бормочет:</z>
+<z><o></o>&mdash; Старайся, Васена, старайся! Зимой-то на мягкой перине спать будешь.</z>
+<z><o></o>Как отойдет, бабенки и давай Васенку шпынять, на смех поднимут, а она и без того на части бы разорвалась, кабы можно было. После барабана к матери в казарму забежит &mdash; того хуже. Мать-то, конечно, жалела девчушку, всяко ее выгораживала, да велика ли сила у казарменной стряпухи, коли щегарь ей начальник и всякий день может бабу под прутья поставить.</z>
+<z><o></o>До зимы все-таки Васенка провертелась, а дальше невмоготу стало. Каждый день этот щегарь на мать наступать стал:</z>
+<z><o></o>&mdash; Отдавай дочь добром, а то худо будет!</z>
+<z><o></o>Про малолетство ему и не поминай &mdash; бумажку от попов в нос тычет:</z>
+<z><o></o>&mdash; Еще что сплетешь? По книгам-то, небось, шестнадцать лет обозначено. Самые законные годы. Коли упрямство свое не бросишь, пороть тебя завтра велю.</z>
+<z><o></o>Тут мать-то и подалась:</z>
+<z><o></o>&mdash; Не уйдешь, видно, доченька, от своей доли!</z>
+<z><o></o>А доченька что? Руки-ноги отнялись, слова сказать не может. К ночи все-таки отошла и с рудника побежала. Вовсе и не сторожится, прямо по дороге зашагала, а куда &mdash; о том и не подумала. Лишь бы от рудника подальше.</z>
+<z><o></o>Погода-то тихая да теплая издалась, и с вечера снег пошел. Ласковый такой снежок, ровно мелкие перышки просыпались. Дорога лесом пошла. Там, конечно, волки и другой зверь. Только Васенка никого не боится. На то решилась:</z>
+<z><o></o>&mdash; Пускай лучше волки загрызут, лишь бы не за протухлого замуж.</z>
+<z><o></o>Вот она, значит, и шлепает да шлепает. Сперва-то вовсе ходко шла. Верст, поди, пятнадцать, а то и все двадцать отхватила. Одежонка у ней не больно справная, а итти не холодно, жарко даже: снегу-то насыпало, почитай, на две четверти, еле ноги вытаскивает, &mdash; вот и согрелась. А снег-то все идет да идет. Еще ровно дружнее стал. Богатство прямо. Васенка и притомилась, из сил выбилась, да на дороге и села.</z>
+<z><o></o>&laquo;Дай, &mdash; думает, &mdash; отдохну маленько&raquo;, &mdash; а того понятия нет, что в такую погоду садиться на открытом месте хуже всего.</z>
+<z><o></o>Сидит это, на снежок любуется, а он к ней липнет да липнет. Посидела, а подняться и не может. Только не испугалась, про себя подумала:</z>
+<z><o></o>&laquo;Еще, видно, посидеть надо. Отдохнуть как следует&raquo;.</z>
+<z><o></o>Ну, и отдохнула. Снегом-то ее совсем завалило. Как копешка среди дороги оказалась. И вовсе от деревни близко.</z>
+<z><o></o>По счастью, наутро какому-то деревенскому, &mdash; он тоже летами маленько камешками да золотом занимался, &mdash; случилось в ту сторону на лошади дорогу торить. Лошадь и насторожилась, зафыркала, не подходит к копешке-то. Старатель и разглядел, что человека засыпало. Подошел поближе, видит &mdash; ровно еще не вовсе охолодал, руки гнутся. Подхватил Васенку да в сани, прикрыл своим верхним тулупом и домой. Там с женой занялись отхаживать Васенку. И ведь отутовела. Глаза открыла и пальцы на руках разжала. Глядит, а у ней в руке-то камешок большой блестит, чистой голубой воды. Старатель даже испугался, &mdash; еще в острог за такой посадят, &mdash; и спрашивает:</z>
+<z><o></o>&mdash; Где взяла?</z>
+<z><o></o>Васенка и отвечает:</z>
+<z><o></o>&mdash; Сам в руку залетел.</z>
+<z><o></o>&mdash; Как так?</z>
+<z><o></o>Тогда Васенка и рассказала, как дело было.</z>
+<z><o></o>Когда ее уж вовсе стало засыпать снегом, вдруг открылся перед ней ходок в землю. Неширокий ходок, и темненько тут, а итти можно: ступеньки видать и тепло. Васенка и обрадовалась.</z>
+<z><o></o>&laquo;Вот где, &mdash; думает, &mdash; никому из руднишных меня не найти&raquo;, &mdash; и стала спускаться по ступенькам. Долго спускалась и вышла на большое-большое поле. Конца-краю ему не видно. Трава на этом поле кустиками и деревья реденько, &mdash; все пожелтело, как осенью. Поперек поля река. Черным-чернехонька, и не пошевельнется, как окаменела. За рекой, прямо перед Васенкой, горочка небольшая, а на верхушке камни-голыши: посредине &mdash; как стол, а кругом &mdash; как табуреточки. Не по человечьему росту, а много больше. Холодно тут и чего-то боязно.</z>
+<z><o></o>Хотела уж Васенка обратно податься, только вдруг за горкой искры посыпались. Глядят, &mdash; на каменном-то столе ворох дорогих камней оказался. Разными огоньками горят, и река от них повеселее стала. Глядеть любо. Тут кто-то и спрашивает:</z>
+<z><o></o>&mdash; Это на кого?</z>
+<z><o></o>Снизу ему кричат:</z>
+<z><o></o>&mdash; На простоту.</z>
+<z><o></o>И сейчас же камешки искорками во все стороны разлетелись. Потом за горкой опять огнем полыхнуло и на каменный стол камни выбросило. Много их. Не меньше, поди, сенного воза. И камешки покрупнее. Кто-то опять спрашивает:</z>
+<z><o></o>&mdash; Это на кого?</z>
+<z><o></o>Снизу кричат:</z>
+<z><o></o>&mdash; На терпеливого.</z>
+<z><o></o>И, как тот раз, камешки полетели во все стороны. Ровно облако жучков поднялось. Та только различна, что блестят по-другому. Одни красным отливают, другие зелеными огоньками посверкивают, голубенькие тоже, желтенькие... всякие. И тоже на лету жужжат. Загляделась Васенка на тех жучков, а за горкой опять огнем полыхнуло, и на каменном столе новый ворошок камней. На этот раз вовсе маленький, зато камни все крупные и красоты редкой. Снизу кричат:</z>
+<z><o></o>&mdash; Это на удалого да на счастливый глаз.</z>
+<z><o></o>И сейчас же камешки, как мелкие пташечки, заныряли-полетели во все стороны. Над полем ровно фонарики запокачивались. Эти тихонько летят, не торопятся. Один камешок к Васенке подлетел да, как котенок, головенкой в руку и ткнулся &mdash; тут, дескать, я, возьми!</z>
+<z><o></o>Разлетелись каменные птички, тихо да темно стало. Ждет Васенка, что дальше будет, и видит &mdash; появился на каменном столе один камешок. Ровно вовсе простенький, на пять граней: три продольных да две поперечных. И тут сразу тепло да светло стало, трава и деревья зазеленели, птички запели, и река заблестела, засверкала, запоплескивала. Где голый песок был, там хлеба густые да рослые. И людей появилось многое множество. Да все веселые. Кто будто и с работы идет, а тоже песню поет.</z>
+<z><o></o>Васенушка тут сама закричала:</z>
+<z><o></o>&mdash; Это кому, дяденьки?</z>
+<z><o></o>Снизу ей и ответили:</z>
+<z><o></o>&mdash; Тому, кто верной дорогой народ поведет. Этим ключом-камнем тот человек землю отворит и тогда будет, как сейчас видела.</z>
+<z><o></o>Тут свет потух, и ничего не стало.</z>
+<z><o></o>Старатель с женой сперва посомневались, потом думают, &mdash; откуда у девчонки в руке камешок оказался. Стали спрашивать, чья она да откуда. Васенка и это без утайки рассказала, а сама просит:</z>
+<z><o></o>&mdash; Тетенька, дяденька, не сказывайте про меня руднишным!</z>
+<z><o></o>Муж с женой подумали-подумали, да и говорят:</z>
+<z><o></o>&mdash; Ладно, живи у нас... Ухраним как-нибудь, только звать станем Феней. На это имя ты и откликайся.</z>
+<z><o></o>У них, видишь, своя девчонка недавно умерла: Феней звали. Как раз в тех же годах. И на то надеялись, что деревня не на казенных, а на демидовских землях пришлась.</z>
+<z><o></o>Так оно и вышло. Барский староста, понятно, сразу прибылую заметил, да ему что? Не от него, поди-ко, сбежала. Лишний работник не убыток. Стал ее на работу наряжать.</z>
+<z><o></o>Конечно, и в демидовской деревне сладкого было мало, а все не на ту стать, как на казенном руднике. Ну, и камешок, который в руке Васенки оказался, помог. Старатель сбыл-таки потихоньку этот камешок. Понятно, не за настоящую цену, а все-таки хорошие деньги взял. Маленько и вздохнули.</z>
+<z><o></o>Как в полный возраст Васенка пришла, так в этой же деревне и замуж за хорошего парня вышла. С ним и до старости прожила, детей и внуков вырастила.</z>
+<z><o></o>Старое свое имя да прозвище Счастливый Глазок бабка Федосья, может, и сама забыла, про рудник никогда не вспоминала. Только вот когда о счастливых находках заговорят, всегда ввяжется.</z>
+<z><o></o>&mdash; Это, &mdash; говорит, &mdash; хитрости мало &mdash; хорошие камешки обыскать, да немного они нашему брату счастья дают. Лучше о том надо заботиться, как ключ земли поскорее вызволить.</z>
+<z><o></o>И тут расскажет:</z>
+<z><o></o>&mdash; Есть, дескать, камень &mdash; ключ земли. До времени его никому не добыть: ни простому, ни терпеливому, ни удалому, ни счастливому. А вот когда народ по правильному пути за своей долей пойдет, тогда тому, который передом идет и народу путь кажет, этот ключ земли сам в руки дастся.</z>
+<z><o></o>Тогда все богатства земли откроются, и полная перемена жизни будет. На то надейтесь!<div class="epigraf_source"></div></z>
+<div class="i0 tc" style="padding-top:.5em;border-bottom:1px solid #666;width:6em;margin:auto;position:relative"><span class="rel bg1" style="top:.4em;color:#666;padding:0em .2em;line-height:.8em">&#10022;</span></div><iframe id="noteFrame"></iframe><div id="tbd"></div><script>
+nf=ge("noteFrame");
+nf.onload = () => {
+	nfd=nf.contentWindow.document;
+	nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+}
+nfd=nf.contentWindow.document;
+nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+
+tf=ge("tocFrame");
+tf.onload = () => {
+	tfd=tf.contentWindow.document;
+	tfd.addEventListener("click",function(e){eid=tfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="tocHide")hideToc();},true);
+}
+</script>
+</div>
+<div id="s" style="height:0em"></div>
+<div class="tc" style="margin:3em -6px 1em">
+<div id="yar"></div>
+</div>
+
+
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">&copy; Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div><script>
+turl = new URL(document.URL);
+if (turl.hash != '')
+{
+	window.addEventListener('load',function(){scrollToId();});
+} 
+
+function scrollToId() {
+	ah_e = document.getElementById('ex_a' + turl.hash.substring(3));
+	ah_e.scrollIntoView({ block: "start" });
+}
+var cntr=0;</script>
+
+</div>
+
+<div id="f_r1" style="background-color:#e6e0d3">
+<div class="f" style="height:100%;border-left:1px solid #7f7f96;padding:0em"><div id="in" class="f fc jsb ci" style="width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div class="rel tc">
+<div id="right-rectangle-stick-1" class="ib" style="max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+</script>
+<div id="gglad" class="ib" style="max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+ <div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+  <div class="tc">
+	 <div id="right-rectangle-stick-2" class="ib" style="max-width:400px"></div>
+   <div id="btmad" class="ib" style="max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+	</div>
+ </div></div>
+</div>
+</div></div>
+</div>
+</div>
+
+</div>
+</div><div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: <a href="mailto:otklik@ilibrary.ru">otklik@ilibrary.ru</a></span><span class="bmi"><a href="/aboutilibrary/">О библиотеке</a></span><span class="bmi"><a href="/reklama.phtml">Реклама на сайте</a></span></div>
+<div>&copy;1996&#151;2026 Алексей Комаров. Подборка&nbsp;произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+<a href="https://metrika.yandex.ru/stat/?id=5179000&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/5179000/3_0_FFFFF0FF_E0E0D0FF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="5179000" data-lang="ru" /></a>
+<script type="text/javascript" >   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div><img src="https://mc.yandex.ru/watch/5179000" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+setBrackets();
+setArrows();setPoems();
+window.addEventListener('scroll',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+});
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(setBrackets)!=='undefined') setBrackets();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+if(cntr)document.write(cntr);</script>
+</div>
+</BODY>
+</HTML>
+<!-- 0.000523107 -->

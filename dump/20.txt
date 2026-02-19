@@ -1,0 +1,317 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML lang="ru">
+
+<HEAD>
+<TITLE>Х. К. Андерсен. Огниво. Текст произведения</TITLE>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<META NAME="Keywords" CONTENT="русская классическая литература интернет-библиотека Алексея Комарова текст читать Ханс Андерсен Огниво">
+<META NAME="Description" CONTENT='Ханс Андерсен. Огниво. Текст произведения. Источник: Х. К. Андерсен. Сказки, рассказанные детям; Новые сказки. М.: Наука, 1983. (Литературные памятники). Интернет-библиотека Алексея Комарова'>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+<link id="mainCSS" rel=stylesheet type="text/css" href="/etc/styles4_18.css">
+<script src="https://yandex.ru/ads/system/header-bidding.js" async></script>
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+<script async src="https://cdn.skcrtxr.com/roxot-wrapper/js/roxot-manager.js?pid=8c86a31e-948e-4d37-9b5a-304d2fbc4c0c"></script>
+
+<script src="/js/adplacements3.js"></script>
+<script async>
+lgl=1;function ge(e){return document.getElementById(e)}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function gr(e){return e.getBoundingClientRect()}
+function ih(e,c){e.innerHTML=c}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+id_t=4617;</script>
+<script src="/js/ev3.js"></script>
+</HEAD>
+
+<BODY>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<span id="svg"></span>
+<div id="hdr" class="hdr">
+ <div class="logo">
+  <div class="logo1 rel">
+   <a href="/" title="Читаем книги онлайн. Интернет-библиотека Алексея Комарова">
+    <div id="lmini"><svg style="width:4.9em;height:2.5em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="800 15 1500 1600"><use xlink:href="#logoMini" /></svg></div>
+    <div id="lmaxi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoBg" /><use xlink:href="#logoMaxi" /></svg></div>
+    <div id="lmidi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoMidi" /></svg></div>
+   </a>
+	</div>
+ </div>
+ <div id="qs1" class="qson">
+  <form id="sf2" method=get action="/search.phtml"><div id="sf1" style="display:flex;align-items:stretch">
+	<div><input class="tf" id="qi1" size=200 type="text" name="q" placeholder="Поиск: автор и/или название произведения" value=""></div>
+	<div id="sb" class="sb" style="">
+	<input id="ss" type="submit" value="Найти"><span id="smg"><svg id="sb1" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="60 0 115 140">
+<use xlink:href="#mglass" /></svg></span></div></div>
+</form>
+</div>
+<div id="sm" class="m"><a style="width:1.2em;white-space:nowrap" href="#" class="ma" onclick="toggle_sf();">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="65 18 115 115"><use xlink:href="#mglass" /></svg>
+</a></div>
+<div class="m"><a href="/author.html" class="ma">Авторы</a></div>
+<div class="spce">&nbsp;</div>
+</div>
+<div id="ex" class="l">
+<div id="lft0">
+<div class="f fc" style="justify-content:space-between">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+
+	<div id="text" class="t hya">
+	<div id="thdr" class="thdr">
+<a href="/author/hkandersen/index.html">Х. К. Андерсен</a>. <a href="/text/4617/index.html">Огниво</a></div>
+
+<div class="author" ID="ac4681">Ханс Кристиан Андерсен</div>
+
+<div class="title" ID="tc4681" STYLE="display:none">
+<h1 ID="h1c4681">Сказки, рассказанные детям</h1>
+
+<h2>Первый том</h2>
+<h3>Первый выпуск
+<br>1835</h3>
+</div>
+
+
+<div class="title"><h1>Огниво</h1></div>
+<z><o></o>Шел солдат по дороге: раз-два! раз-два! Ранец за спиной, сабля на боку; он шел домой с войны. На дороге встретилась ему старая безобразная ведьма, нижняя губа висела у нее до самой груди.</z>
+<z><o></o>&mdash; Здорово, служивый! &mdash; сказала она. &mdash; Какая у тебя славная сабля и большой ранец! Вот бравый солдат! Сейчас ты получишь денег сколько твоей душе угодно.</z>
+<z><o></o>&mdash; Спасибо, старая ведьма! &mdash; сказал солдат.</z>
+<z><o></o>&mdash; Видишь вон то старое дерево? &mdash; сказала ведьма, показывая на дерево, которое стояло неподалеку. &mdash; Оно пустое внутри. Влезь наверх, там будет дупло, ты и спустись в него, в самый низ! А я обвяжу тебя веревкой вокруг пояса и вытащу назад, когда ты мне крикнешь.</z>
+<z><o></o>&mdash; Зачем мне лезть туда в дерево? &mdash; спросил солдат.</z>
+<z><o></o>&mdash; За деньгами! &mdash; сказала ведьма. &mdash; Знай, что когда ты доберешься до самого низа, ты увидишь большой подземный ход; там совсем светло, потому что горит добрая сотня ламп. Потом ты увидишь три двери; можешь отворить их, ключи торчат снаружи. Войди в первую комнату; посреди комнаты увидишь большой сундук, а на нем собаку: глаза у нее, словно чайные чашки! Да ты не бойся! Я дам тебе свой синий клетчатый передник, расстели его на полу, живо подойди и схвати собаку, посади ее на передник, открой сундук и бери из него вволю. Тут одни медные деньги; захочешь серебра &mdash; ступай в другую комнату; там сидит собака с глазами что твои мельничные колеса! Но ты не пугайся: сажай ее на передник и бери себе денежки. А хочешь, можешь достать и золота сколько угодно; пойди только в третью комнату. Но у собаки, что сидит там на сундуке, глаза &mdash; каждый с Круглую башню. Вот это собака так собака! Но ты ее не бойся: посади на мой передник, и она тебя не тронет, а ты бери себе золота сколько хочешь!</z>
+<z><o></o>&mdash; Оно бы недурно! &mdash; сказал солдат. &mdash; Но что ты с меня возьмешь за это, старая ведьма? Ведь уж что-нибудь да тебе от меня нужно?</z>
+<z><o></o>&mdash; Я не возьму с тебя ни полушки! &mdash; сказала ведьма. &mdash; Только принеси мне старое огниво, которое позабыла там в последний раз моя бабушка.</z>
+<z><o></o>&mdash; Ну, обвязывай меня веревкой! &mdash; приказал солдат.</z>
+<z><o></o>&mdash; Готово! &mdash; сказала ведьма. &mdash; А вот и мой синий клетчатый передник!</z>
+<z><o></o>Солдат влез на дерево, спустился в дупло и очутился, как сказала ведьма, в большом проходе, где горели сотни ламп.</z>
+<z><o></o>Вот он открыл первую дверь. Ух! Там сидел пес с глазами, точно чайные чашки, и таращился на солдата.</z>
+<z><o></o>&mdash; Малый не дурен! &mdash; сказал солдат, посадил пса на ведьмин передник и набрал полный карман медных денег, потом закрыл сундук, опять посадил на него собаку и отправился в другую комнату. Ай-ай! Там сидела собака с глазами, как мельничные колеса.</z>
+<z><o></o>&mdash; Нечего тебе таращиться на меня, глаза заболят! &mdash; сказал солдат и посадил собаку на ведьмин передник. Увидев в сундуке такую кучу серебра, он выбросил все медяки и набил оба кармана и ранец одним серебром. Затем солдат пошел в третью комнату. Фу ты пропасть! У этой собаки глаза были ни дать ни взять две Круглые башни и вертелись точно колеса.</z>
+<z><o></o>&mdash; Мое почтение! &mdash; сказал солдат и взял под козырек. Такой собаки он еще не видывал.</z>
+<z><o></o>Долго смотреть на нее он, впрочем, не стал, а взял да и посадил на передник и открыл сундук. Батюшки! Сколько тут было золота! Он мог бы купить на него весь Копенгаген, всех сахарных поросят у торговок сластями, всех оловянных солдатиков, всех деревянных лошадок и все кнутики на свете! На все хватило бы! Солдат повыбросил из карманов и ранца серебряные деньги и так набил карманы, ранец, шапку и сапоги золотом, что еле-еле мог двигаться. Теперь-то он был с деньгами! Собаку он опять посадил на сундук, потом захлопнул дверь и закричал наверх:</z>
+<z><o></o>&mdash; Тащи меня, старая ведьма.</z>
+<z><o></o>&mdash; Ты взял огниво? &mdash; спросила ведьма.</z>
+<z><o></o>&mdash; Ах, правда, чуть не забыл! &mdash; сказал солдат, пошел и взял огниво.</z>
+<z><o></o>Ведьма вытащила его наверх, и он опять очутился на дороге с набитыми золотом карманами, сапогами, ранцем и фуражкой.</z>
+<z><o></o>&mdash; Зачем тебе это огниво? &mdash; спросил солдат.</z>
+<z><o></o>&mdash; Не твое дело! &mdash; ответила ведьма. &mdash; Ты ведь получил деньги! Отдай же мне огниво!</z>
+<z><o></o>&mdash; Как бы не так! &mdash; сказал солдат. &mdash; Сейчас говори, зачем тебе оно, не то я вытащу саблю да срублю тебе голову.</z>
+<z><o></o>&mdash; Не скажу! &mdash; уперлась ведьма.</z>
+<z><o></o>Солдат взял и срубил ей голову. Ведьма так и повалилась, а он завязал все деньги в ее передник, взвалил узел на спину, сунул огниво в карман и отправился прямо в город.</z>
+<z><o></o>Город был чудесный; солдат остановился в самой лучшей гостинице и потребовал себе самые лучшие комнаты и все свои любимые блюда &mdash; теперь ведь он был богачом!</z>
+<z><o></o>Слуга, который должен был чистить его сапоги, удивился было, что у такого богатого господина сапоги такие плохие, но солдат еще не успел обзавестись новыми. Зато на другой день он купил себе и хорошие сапоги и богатое платье. Теперь солдат сделался настоящим барином, и ему рассказали обо всех чудесах, какие были тут, в городе, и о короле, и о его прелестной дочери, принцессе.</z>
+<z><o></o>&mdash; Как бы ее увидать? &mdash; спросил солдат.</z>
+<z><o></o>&mdash; Этого никак нельзя! &mdash; сказали ему. &mdash; Она живет в огромном медном замке, за высокими стенами с башнями. Никто, кроме самого короля, не смеет ни войти туда, ни выйти оттуда, потому что королю предсказали, будто дочь его выйдет замуж за простого солдата, а королю это не понравилось.</z>
+<z><o></o>&laquo;Вот бы на нее поглядеть!&raquo; &mdash; подумал солдат.</z>
+<z><o></o>Да кто бы ему позволил?!</z>
+<z><o></o>Теперь-то он зажил весело: ходил в театры, ездил кататься в королевский сад и много помогал бедным. И хорошо делал: он ведь по себе знал, как плохо сидеть без гроша в кармане! Теперь он был богат, прекрасно одевался и приобрел очень много друзей; все они называли его славным малым, настоящим барином, а ему это очень нравилось. Так он все тратил да тратил деньги, а вновь-то взять было неоткуда, и осталось у него в конце концов всего-навсего две денежки! Пришлось перебраться из хороших комнат в крошечную каморку под самой крышей, самому чистить себе сапоги и даже зашивать на них дыры, никто из друзей не навещал его, &mdash; уж очень высоко было подниматься к нему!</z>
+<z><o></o>Раз как-то, вечером, сидел солдат в своей каморке; совсем уже стемнело, а у него не было даже денег на свечку; он и вспомнил про маленький огарочек в огниве, которое взял в подземелье, куда спускала его ведьма. Солдат достал огниво и огарок, но как только, высекая огонь, ударил по кремню, дверь распахнулась, и перед ним очутилась собака с глазами, точно чайные чашки, та самая, которую он видел в подземелье.</z>
+<z><o></o>&mdash; Что угодно, господин? &mdash; спросила собака.</z>
+<z><o></o>&mdash; Вот так история! &mdash; сказал солдат. &mdash; Огниво-то, выходит, презабавное: я могу получить все, что захочу! Эй ты, добудь мне деньжонок! &mdash; сказал он собаке. И раз &mdash; ее и след простыл, два &mdash; она опять тут как тут, а в зубах у нее большой мешок, набитый медяками! Тут солдат и узнал, что за чудное у него огниво. Стоило ударить по кремню раз &mdash; являлась собака, которая сидела на сундуке с медными деньгами, два раза &mdash; являлась та, у которой было серебро, а три &mdash; являлась собака с золотом.</z>
+<z><o></o>И вот солдат опять перебрался в хорошие комнаты, стал ходить в щегольском платье, и все его друзья сейчас же опять узнали его и ужасно полюбили.</z>
+<z><o></o>Раз ему и приди в голову: &laquo;Почему бы это нельзя видеть принцессы? Все говорят, что она такая красавица! А что толку, если она весь век свой сидит в медном замке, за высокими стенами с башнями. Неужели мне так и не удастся взглянуть на нее? Ну-ка, где мое огниво?&raquo; И он ударил по кремню раз &mdash; в тот же миг перед ним стояла собака с глазами, точно чайные чашки.</z>
+<z><o></o>&mdash; Теперь, правда, уже ночь, &mdash; сказал солдат. &mdash; Но мне до смерти захотелось увидеть принцессу, хоть на одну минуточку!</z>
+<z><o></o>Собака сейчас же за дверь, и не успел солдат опомниться, как она явилась с принцессой. Принцесса сидела у собаки на спине и спала. Она была чудо как хороша; всякий сразу бы увидел, что это настоящая принцесса, и солдат не утерпел и поцеловал ее, &mdash; он ведь был бравый воин, настоящий кавалер!</z>
+<z><o></o>Собака отнесла принцессу назад, и за утренним чаем принцесса рассказала королю с королевой, какой она видела сегодня ночью удивительный сон про собаку и солдата: будто она ехала верхом на собаке, а солдат поцеловал ее.</z>
+<z><o></o>&mdash; Вот так история! &mdash; сказала королева.</z>
+<z><o></o>И на следующую ночь к постели принцессы приставили старуху фрейлину &mdash; она должна была разузнать, был ли то в самом деле сон, или что другое.</z>
+<z><o></o>А солдату опять ужасно захотелось увидеть прелестную принцессу. И вот ночью опять явилась собака, схватила принцессу и помчалась с ней во всю прыть, но старуха фрейлина надела непромокаемые сапоги и пустилась вдогонку. Увидав, что собака скрылась с принцессой в одном большом доме, фрейлина подумала: &laquo;Теперь я знаю, где их найти!&raquo; &mdash; взяла кусок мела, поставила на воротах дома крест и отправилась домой спать. Но собака, когда понесла принцессу назад, увидала этот крест, тоже взяла кусок мела и наставила крестов на всех воротах в городе. Это было ловко придумано: теперь фрейлина не могла отыскать настоящих ворот &mdash; повсюду стояли кресты.</z>
+<z><o></o>Рано утром король с королевой, старуха фрейлина и все офицеры пошли посмотреть, куда это ездила принцесса ночью.</z>
+<z><o></o>&mdash; Вот куда! &mdash; сказал король, увидев первые ворота с крестом.</z>
+<z><o></o>&mdash; Нет, вот куда, муженек! &mdash; возразила королева, заметив крест на других воротах.</z>
+<z><o></o>&mdash; Да и здесь крест, и здесь! &mdash; зашумели другие, увидев кресты на всех воротах. Тут все поняли, что толку им не добиться.</z>
+<z><o></o>Но королева была женщина умная, умела не только в каретах разъезжать. Взяла она большие золотые ножницы, изрезала на лоскутки большой кусок шелковой материи, сшила крошечный хорошенький мешочек, насыпала в него мелкой гречневой крупы, привязала его на спину принцессе и потом прорезала в мешочке дырочку, чтобы крупа могла сыпаться на дорогу, по которой ездила принцесса.</z>
+<z><o></o>Ночью собака явилась опять, посадила принцессу на спину и понесла к солдату; солдат так полюбил принцессу, что от души желал бы стать принцем и жениться на ней.</z>
+<z><o></o>Собака совсем и не заметила, что крупа сыпалась за нею по всей дороге, от самого дворца до окна солдата, куда она вскочила с принцессой. Поутру король и королева сразу узнали, куда ездила принцесса, и солдата посадили в тюрьму.</z>
+<z><o></o>Как там было темно и скучно! Засадили его туда и сказали: &laquo;Завтра утром тебя повесят!&raquo; Очень было невесело слышать это, а огниво свое он позабыл дома в гостинице.</z>
+<z><o></o>Утром солдат подошел к маленькому окошку и стал смотреть сквозь железную решетку на улицу: народ толпами валил за город смотреть, как будут вешать солдата; били барабаны, проходили полки. Все спешили, бежали бегом. Тут же бежал какой-то мальчишка-сапожник в кожаном переднике и туфлях. Он мчался вприпрыжку, и одна туфля слетела у него с ноги и ударилась в стену тюрьмы, чуть не в окошко, где стоял солдат.</z>
+<z><o></o>&mdash; Эй ты, куда торопишься? &mdash; сказал мальчику солдат. &mdash; Без меня ведь дело не обойдется! А вот, если сбегаешь туда, где я жил, за моим огнивом, получишь четыре монетки. Только живо!</z>
+<z><o></o>Мальчишка был не прочь получить четыре монеты, он стрелой пустился за огнивом, отдал его солдату и... А вот теперь послушаем!</z>
+<z><o></o>За городом была устроена виселица, вокруг стояли солдаты и сотни тысяч народу. Король и королева сидели на чудесном троне прямо против судей и всего совета.</z>
+<z><o></o>Солдат уже стоял на лестнице, и ему хотели накинуть веревку на шею, но он сказал, что, прежде нежели казнить преступника, всегда исполняют какое-нибудь его желание. А ему бы очень хотелось выкурить трубочку табаку, это ведь будет последняя его трубочка на этом свете!</z>
+<z><o></o>Королю не захотелось отказать, и солдат вытащил свое огниво. Ударил по кремню раз, два, три &mdash; и перед ним предстали все три собаки: собака с глазами, как чайные чашки, собака с глазами, как мельничные колеса, и собака с глазами, как Круглая башня.</z>
+<z><o></o>&mdash; Ну-ка, помогите мне избавиться от петли! &mdash; приказал солдат.</z>
+<z><o></o>И собаки бросились на судей и на весь королевский совет: того за ноги, того за нос да кверху на несколько сажен, и все расшиблись вдребезги!</z>
+<z><o></o>&mdash; Не хочу! &mdash; закричал король, но самая большая собака схватила его вместе с королевой и подбросила их кверху вслед за другими. Тогда солдаты испугались, а весь народ закричал: &mdash; Милый солдат, будь нашим королем и возьми за себя прекрасную принцессу!</z>
+<z><o></o>Солдата посадили в королевскую карету, и все три собаки танцевали перед ней и кричали &laquo;ура&raquo;. Мальчишки свистели, засунув пальцы в рот, солдаты отдавали честь. Принцесса вышла из своего медного замка и сделалась королевой, чем была очень довольна. Свадебный пир продолжался целую неделю; собаки тоже сидели за столом и таращили глаза.</z>
+<div class="i0 tc" style="padding-top:.5em;border-bottom:1px solid #666;width:6em;margin:auto;position:relative"><span class="rel bg1" style="top:.4em;color:#666;padding:0em .2em;line-height:.8em">&#10022;</span></div><iframe id="noteFrame"></iframe><div id="tbd"></div><script>
+nf=ge("noteFrame");
+nf.onload = () => {
+	nfd=nf.contentWindow.document;
+	nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+}
+nfd=nf.contentWindow.document;
+nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+
+tf=ge("tocFrame");
+tf.onload = () => {
+	tfd=tf.contentWindow.document;
+	tfd.addEventListener("click",function(e){eid=tfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="tocHide")hideToc();},true);
+}
+</script>
+</div>
+<div id="s" style="height:0em"></div>
+<div class="tc" style="margin:3em -6px 1em">
+<div id="yar"></div>
+</div>
+
+
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">&copy; Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div><script>
+turl = new URL(document.URL);
+if (turl.hash != '')
+{
+	window.addEventListener('load',function(){scrollToId();});
+} 
+
+function scrollToId() {
+	ah_e = document.getElementById('ex_a' + turl.hash.substring(3));
+	ah_e.scrollIntoView({ block: "start" });
+}
+var cntr=0;</script>
+
+</div>
+
+<div id="f_r1" style="background-color:#e6e0d3">
+<div class="f" style="height:100%;border-left:1px solid #7f7f96;padding:0em"><div id="in" class="f fc jsb ci" style="width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div class="rel tc">
+<div id="right-rectangle-stick-1" class="ib" style="max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+</script>
+<div id="gglad" class="ib" style="max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+ <div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+  <div class="tc">
+	 <div id="right-rectangle-stick-2" class="ib" style="max-width:400px"></div>
+   <div id="btmad" class="ib" style="max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+	</div>
+ </div></div>
+</div>
+</div></div>
+</div>
+</div>
+
+</div>
+</div><div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: <a href="mailto:otklik@ilibrary.ru">otklik@ilibrary.ru</a></span><span class="bmi"><a href="/aboutilibrary/">О библиотеке</a></span><span class="bmi"><a href="/reklama.phtml">Реклама на сайте</a></span></div>
+<div>&copy;1996&#151;2026 Алексей Комаров. Подборка&nbsp;произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+<a href="https://metrika.yandex.ru/stat/?id=5179000&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/5179000/3_0_FFFFF0FF_E0E0D0FF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="5179000" data-lang="ru" /></a>
+<script type="text/javascript" >   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div><img src="https://mc.yandex.ru/watch/5179000" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+setBrackets();
+setArrows();setPoems();
+window.addEventListener('scroll',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+});
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(setBrackets)!=='undefined') setBrackets();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+if(cntr)document.write(cntr);</script>
+</div>
+</BODY>
+</HTML>
+<!-- 0.000518277 -->

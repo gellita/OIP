@@ -1,0 +1,295 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML lang="ru">
+
+<HEAD>
+<TITLE>П. П. Бажов. Про главного вора. Текст произведения</TITLE>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<META NAME="Keywords" CONTENT="русская классическая литература интернет-библиотека Алексея Комарова текст читать Павел Бажов Про главного вора">
+<META NAME="Description" CONTENT='Павел Бажов. Про главного вора. Текст произведения. Источник: П. П. Бажов. Сочинения в трех томах. Т. 2. М.: Правда, 1986. Интернет-библиотека Алексея Комарова'>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+<link id="mainCSS" rel=stylesheet type="text/css" href="/etc/styles4_18.css">
+<script src="https://yandex.ru/ads/system/header-bidding.js" async></script>
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+<script async src="https://cdn.skcrtxr.com/roxot-wrapper/js/roxot-manager.js?pid=8c86a31e-948e-4d37-9b5a-304d2fbc4c0c"></script>
+
+<script src="/js/adplacements3.js"></script>
+<script async>
+lgl=1;function ge(e){return document.getElementById(e)}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function gr(e){return e.getBoundingClientRect()}
+function ih(e,c){e.innerHTML=c}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+id_t=4669;</script>
+<script src="/js/ev3.js"></script>
+</HEAD>
+
+<BODY>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<span id="svg"></span>
+<div id="hdr" class="hdr">
+ <div class="logo">
+  <div class="logo1 rel">
+   <a href="/" title="Читаем книги онлайн. Интернет-библиотека Алексея Комарова">
+    <div id="lmini"><svg style="width:4.9em;height:2.5em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="800 15 1500 1600"><use xlink:href="#logoMini" /></svg></div>
+    <div id="lmaxi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoBg" /><use xlink:href="#logoMaxi" /></svg></div>
+    <div id="lmidi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoMidi" /></svg></div>
+   </a>
+	</div>
+ </div>
+ <div id="qs1" class="qson">
+  <form id="sf2" method=get action="/search.phtml"><div id="sf1" style="display:flex;align-items:stretch">
+	<div><input class="tf" id="qi1" size=200 type="text" name="q" placeholder="Поиск: автор и/или название произведения" value=""></div>
+	<div id="sb" class="sb" style="">
+	<input id="ss" type="submit" value="Найти"><span id="smg"><svg id="sb1" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="60 0 115 140">
+<use xlink:href="#mglass" /></svg></span></div></div>
+</form>
+</div>
+<div id="sm" class="m"><a style="width:1.2em;white-space:nowrap" href="#" class="ma" onclick="toggle_sf();">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="65 18 115 115"><use xlink:href="#mglass" /></svg>
+</a></div>
+<div class="m"><a href="/author.html" class="ma">Авторы</a></div>
+<div class="spce">&nbsp;</div>
+</div>
+<div id="ex" class="l">
+<div id="lft0">
+<div class="f fc" style="justify-content:space-between">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+
+	<div id="text" class="t hya">
+	<div id="thdr" class="thdr">
+<a href="/author/bazhov/index.html">П. П. Бажов</a>. <a href="/text/4669/index.html">Про главного вора</a></div>
+
+<div class="author">Павел Бажов</div>
+<div class="title"><h1>Про главного вора</h1></div>
+<z><o></o>Как мне здешние места не знать! В этой самой деревне Кунгурке родился, около нее всю жизнь по рудникам да приискам кайлой долбил да лопаткой ширкал. Все, можно сказать, тропки отоптал, всякий ложок обыскал, каждую горушечку обстукал, &mdash; не пахнет ли где золотишком, не звенит ли серебро, не брянчат ли хоть медяшки. Найти немного нашел, а людей-таки повидал, кого &mdash; с головы, кого &mdash; с пяток.</z>
+<z><o></o>И про старину слыхал. Много старики сказывали, да память у меня на эти штуки тупая. Все забыл, сколь ни занятно казалось. Про одного вот только старинного немца в голове засело. Это помню. Недаром его прозвали &laquo;главный вор&raquo;. Главный и есть! Про такого не забудешь.</z>
+<z><o></o>Немецких воров тоже и живых немало видать случалось. Одного такого фон-барона с поличным ловить доводилось. Бревером звали, а прозвище ему было Усатик.</z>
+<z><o></o>Старались мы тогда артелкой недалеко от горного щита, а этот фон-барон Усатик держал прииск рядом, на казенной земле. И что ты думаешь? Стал он у нас песок воровать. Зароются, значит, в нашу сторону и таскают из нашего пласта. Ну, поймали мы этого Усатика на таком деле, а он, прусачье мясо, хоть бы что.</z>
+<z><o></o>&mdash; Фуй, какой, &mdash; говорит, &mdash; малый слёф! Бутилка фотки такой слёф не стоит.</z>
+<z><o></o>Этим пустяком и отъехал. Другой раз поймали, опять отговорку нашел. Рабочие, дескать, прошиблись маленько. Да еще жалуется:</z>
+<z><o></o>&mdash; Русски рабочий очень плёх слюшит. Говориль ему &mdash; пери зюд-вест, фсегда пери зюд-вест, а он перёт ост. Штраф такая работа надо!</z>
+<z><o></o>И хоть бы покраснел. А сам важный такой. Усы по четверти, брюхо на аршин вперед, одежа, как полагается по барскому званью. Кабы не поймали с поличным, ввек бы никто не подумал, что такой барин придумал эку пакость &mdash; песок воровать. А горнощитские старатели, которые на немцевом прииске колотились, в одно слово сказывали &mdash; только о том и наказывал:</z>
+<z><o></o>&mdash; Ост пери! Фсегда ост пери! Там песок ошень лютший.</z>
+<z><o></o>Да ведь еще что придумал? Как сорвала с него наша артелка четвертной билет за воровство, так он хотел эти деньги со своих рабочих выморщить: вы, дескать, виноваты. Ну, те не дались, понятно. Объявили &mdash; в суд пойдем, коли такая прижимка случится.</z>
+<z><o></o>Тоже и в здешних местах немцев видал. В те годы Дегтярского рудника и в помине не было. Один Крылатовский гремел. На три чаши там работу вели. По-старому это немало считалось. Ну, старатели тоже кругом копошились. Поводок к нашей Дегтярке обозначаться стал. То один, то другой, глядишь, найдется занятный камешок. Разведывать помаленьку стали. Немец и объявился. Он хоть был толстоносый, а нюх на эти дела у него не хуже самой чутьистой собаки. Он на такую штуку, чтоб к чужому подобраться, оказался вовсе легкий. Вроде пушинки прильнет &mdash; и не заметишь. А доверься ему, так не то что кошелек с добычей &mdash; ложку из-за голенища стянет. Не побрезгует!</z>
+<z><o></o>Сысертские владельцы большой приверженности к немцам не имели, а немцы все-таки подобрались как-то, &mdash; мы, дескать, тут шахту бить станем. Ну, сговорились, заложили шахту. Берлином ее прозвали для важности. Знай, дескать, наших! А сами-то вовсе были мелкодушные ворюги. Пустяк какой, &mdash; и тот прикарманят и штрафами народ донимают невмочь. Недаром рабочих больше из башкир нанимали. Наши, известно, хоть маленько за себя постоять могли, а башкирам при старом-то положении вовсе туго приходилось. Немцы этим и пользовались. Потому у этой шахты в поселке больше башкиры да чуваши живут.</z>
+<z><o></o>Эту шахту, конечно, теперь по-другому зовут. Вскорости после революции ей новое имя дали. При моих это глазах было. Как сейчас помню. Собрались это перед началом работы. Ну, тут и говорят, какое бы новое имя придумать, чтобы немецкий этот Берлин без остатка покрыло. Тут и вышел на круг башкирец один &mdash; дедушко Ирхуша Телекаев. В недавних годах он помер, а тогда еще в силах был. Ну, все-таки старенький и видел плоховато, а руками дюжий. Все, понятно, удивились, как он к разговору вышел, подбадривают:</z>
+<z><o></o>&mdash; Говори, дедушко Ирхуша! Сказывай, что придумал.</z>
+<z><o></o>Старик и отвечает:</z>
+<z><o></o>&mdash; Знаю такое слово. Оно все перекрыть может.</z>
+<z><o></o>&mdash; Какое? &mdash; спрашивают.</z>
+<z><o></o>&mdash; Большевик, &mdash; говорит, &mdash; такое слово будет.</z>
+<z><o></o>Все, конечно, захлопали в ладоши.</z>
+<z><o></o>&mdash; Правильно сказал, дедушко Ирхуша!</z>
+<z><o></o>С той поры эту шахту и стали так звать. На прежнюю она, понятно, нисколько не походит. По-новому все устроено. Ну, да ладно. Не про это разговор. Про другого немца в голове держу.</z>
+<z><o></o>Этот был на особу стать. Такой ворина, что другого, может, по всем землям не сыскать. Он все здешние заводы у казны украл и целую гору заглотил. И не подавился. Вот какой брюхан!</z>
+<z><o></o>Так, сказывают, дело вышло. По нашим местам только и было заводчиков, что казна да Демидовы. Демидовы из кузнецов вышли. В заводском деле они понятие имели. Немцев им ни к чему, своим народом обходились. А при казенных заводах в ту пору немцев порядком сидело. Пособлять делу будто их навезли. Они, значит, и пособляли левой рукой из правого кармана. Может, и не все на одну колодку были, а все-таки дело у них не шло. От всех заводов казне убыток. Кому это поглянется? А тут еще Демидовы, как тесто на хорошей опаре, на глазах у всех подымались-богатели дальше некуда. Вот и пошел разговор, какую перемену сделать, чтоб казне от заводов тоже прибыль шла.</z>
+<z><o></o>У немцев в ту пору при царице которой-то большая сила была. Как на собачью свадьбу их сбежалось, и все в чинах. Этот &mdash; генерал, другой &mdash; министр, а у третьего должность того выше &mdash; при царице вроде мужа ходит. Ну, и мелких большая стая. Вот и стали эти царицыны немцы поддувать: &laquo;Надо, дескать, из немецкой земли такого умного добыть, чтоб он все дело о казенных заводах распутал&raquo;.</z>
+<z><o></o>Так и сделали. Привезли еще какого-то немца. Для начала ему всяких чинов надавали. Стал он называться обер-гер над горами голова, а на поверку вышел несусветный вор, ненасытно брюхо.</z>
+<z><o></o>Привели этого немца к царице, нахваливают его всяко.</z>
+<z><o></o>&mdash; Этот, дескать, может всякий убыток в прибыль обернуть.</z>
+<z><o></o>Царица обрадовалась, говорит:</z>
+<z><o></o>&mdash; Давно такого нам надо. Осмотри, сделай милость, казенные заводы и дай полное тому делу решение.</z>
+<z><o></o>&mdash; Хорошо, &mdash; отвечает, &mdash; только надо сперва все до тонкости разобрать, а на это время потребуется.</z>
+<z><o></o>&mdash; Об этом, &mdash; говорит царица, &mdash; не беспокойся. Жалованье положим подходящее, прогон генеральский. Поезди, погляди своими глазами.</z>
+<z><o></o>Приехал этот немец в здешние места. Поразнюхал дело. А в те годы самый большой разговор был о горе Благодати. Какой-то, сказывают, охотник принес камешки с этой горы в наш город и показал горному начальству. Те видят &mdash; железная руда самого высокого сорту, живо нарядили знающих людей поглядеть на место. Оказалось, &mdash; вся гора из сплошной руды. Понятно, такое место сразу остолбили и за казну взяли. Вскорости завод тут строить стали. Вовсе по-хорошему.</z>
+<z><o></o>Демидов, конечно, мимо этого дела не прошел, тоже руки к рудной горе протянул. Да еще что! На своих приспешников накинулся.</z>
+<z><o></o>&mdash; Куда глядели? Почему охотника с рудой до начальства допустили?</z>
+<z><o></o>Приспешникам что делать? Они, сказывают, взяли да и убили того охотника, чтоб напредки другие не смели мимо Демидова руду проносить. Одним словом, круто заварилось.</z>
+<z><o></o>Тут еще один заводчик выискался. Как услышал про рудную гору, заявку подал:</z>
+<z><o></o>&mdash; Допустите в долю! Это место мне давно ведомо. На него и метил, как свой завод ставил.</z>
+<z><o></o>Немец из этого понял &mdash; большой кусок эта гора Благодать. Не стал больше по заводам трястись, сразу к царице уехал.</z>
+<z><o></o>&mdash; Так и так, &mdash; говорит, &mdash; оглядел я все заводы и вижу &mdash; самое прибыльное эти заводы по рукам раздать. Без хлопот тогда будет. А мне за такой совет отдать гору Благодать. По крайности, тогда никакого спору не будет. Ну, и заводы, которые при горе строятся, мне же отдать причтется, чтоб из-за них беспокойства не случилось. Уж потружусь как-нибудь.</z>
+<z><o></o>Остальные немцы, которые при этом разговоре случились, радуются, похваливают:</z>
+<z><o></o>&mdash; Ай, малатец какой! Ай, малатец! Все сразу понималь.</z>
+<z><o></o>Из русских бар тоже мошенников нашлось. Стали тому немцу поддувать:</z>
+<z><o></o>&mdash; Мы де на это согласны. Можем любой завод за себя перевести, особливо ежели бесплатно, либо в долг на многие годы.</z>
+<z><o></o>Царице и думать нечего. Да у ней только три слова грамоты и было: сослать да повесить, да быть по сему. Живо немцу бумажку нужным словом подмахнула.</z>
+<z><o></o>С той поры вот все казенные заводы и расползлись по барским рукам, а немец тот &mdash; главный-то вор &mdash; больше всех захватил. Ему гороблагодатские заводы достались, да еще царица сделала его главным над всеми здешними заводами. Он и давай хапать, что углядит.</z>
+<z><o></o>Другие, коим по заводу из казны попало, хоть в должниках числились, а этот как раз наоборот. Сам не платил, а новые долги делал и так ловко подводил, что все эти долги на казну переписывал. Я, дескать, тружусь, дураков ловлю да деньги из них вытягиваю, а казна пусть платит. Тогда и выйдет без обиды.</z>
+<z><o></o>Мало этого показалось, так стал железо с казенных заводов, которое раньше было сделано, от себя продавать.</z>
+<z><o></o>До той поры хозяйничал, пока та царица ноги не протянула. Тут, понятно, взяли кота поперек живота, а он отговаривается, дескать, человек немецкий и по здешним законам судить невозможно. Ну, говорят, сослали все-таки, а воровскую выдумку, чтоб казенные заводы по рукам расхватывать, не забросили. Это, видно, по душе пришлось.</z>
+<z><o></o>Вот про этого старинного немца памятка по заводам и держится. Так и зовут его: обер-гор &mdash; главный вор, &mdash; гору проглотил и заводы у казны украл.<div class="epigraf_source"></div></z>
+<div class="i0 tc" style="padding-top:.5em;border-bottom:1px solid #666;width:6em;margin:auto;position:relative"><span class="rel bg1" style="top:.4em;color:#666;padding:0em .2em;line-height:.8em">&#10022;</span></div><iframe id="noteFrame"></iframe><div id="tbd"></div><script>
+nf=ge("noteFrame");
+nf.onload = () => {
+	nfd=nf.contentWindow.document;
+	nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+}
+nfd=nf.contentWindow.document;
+nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+
+tf=ge("tocFrame");
+tf.onload = () => {
+	tfd=tf.contentWindow.document;
+	tfd.addEventListener("click",function(e){eid=tfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="tocHide")hideToc();},true);
+}
+</script>
+</div>
+<div id="s" style="height:0em"></div>
+<div class="tc" style="margin:3em -6px 1em">
+<div id="yar"></div>
+</div>
+
+
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">&copy; Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div><script>
+turl = new URL(document.URL);
+if (turl.hash != '')
+{
+	window.addEventListener('load',function(){scrollToId();});
+} 
+
+function scrollToId() {
+	ah_e = document.getElementById('ex_a' + turl.hash.substring(3));
+	ah_e.scrollIntoView({ block: "start" });
+}
+var cntr=0;</script>
+
+</div>
+
+<div id="f_r1" style="background-color:#e6e0d3">
+<div class="f" style="height:100%;border-left:1px solid #7f7f96;padding:0em"><div id="in" class="f fc jsb ci" style="width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div class="rel tc">
+<div id="right-rectangle-stick-1" class="ib" style="max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+</script>
+<div id="gglad" class="ib" style="max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+ <div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+  <div class="tc">
+	 <div id="right-rectangle-stick-2" class="ib" style="max-width:400px"></div>
+   <div id="btmad" class="ib" style="max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+	</div>
+ </div></div>
+</div>
+</div></div>
+</div>
+</div>
+
+</div>
+</div><div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: <a href="mailto:otklik@ilibrary.ru">otklik@ilibrary.ru</a></span><span class="bmi"><a href="/aboutilibrary/">О библиотеке</a></span><span class="bmi"><a href="/reklama.phtml">Реклама на сайте</a></span></div>
+<div>&copy;1996&#151;2026 Алексей Комаров. Подборка&nbsp;произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+<a href="https://metrika.yandex.ru/stat/?id=5179000&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/5179000/3_0_FFFFF0FF_E0E0D0FF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="5179000" data-lang="ru" /></a>
+<script type="text/javascript" >   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div><img src="https://mc.yandex.ru/watch/5179000" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+setBrackets();
+setArrows();setPoems();
+window.addEventListener('scroll',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+});
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(setBrackets)!=='undefined') setBrackets();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+if(cntr)document.write(cntr);</script>
+</div>
+</BODY>
+</HTML>
+<!-- 0.000496726 -->

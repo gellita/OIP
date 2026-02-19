@@ -1,0 +1,345 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML lang="ru">
+
+<HEAD>
+<TITLE>Х. К. Андерсен. Ель. Текст произведения</TITLE>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<META NAME="Keywords" CONTENT="русская классическая литература интернет-библиотека Алексея Комарова текст читать Ханс Андерсен Ель">
+<META NAME="Description" CONTENT='Ханс Андерсен. Ель. Текст произведения. Источник: Х. К. Андерсен. Сказки, рассказанные детям; Новые сказки. М.: Наука, 1983. (Литературные памятники). Интернет-библиотека Алексея Комарова'>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+<link id="mainCSS" rel=stylesheet type="text/css" href="/etc/styles4_18.css">
+<script src="https://yandex.ru/ads/system/header-bidding.js" async></script>
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+<script async src="https://cdn.skcrtxr.com/roxot-wrapper/js/roxot-manager.js?pid=8c86a31e-948e-4d37-9b5a-304d2fbc4c0c"></script>
+
+<script src="/js/adplacements3.js"></script>
+<script async>
+lgl=1;function ge(e){return document.getElementById(e)}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function gr(e){return e.getBoundingClientRect()}
+function ih(e,c){e.innerHTML=c}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+id_t=4655;</script>
+<script src="/js/ev3.js"></script>
+</HEAD>
+
+<BODY>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<span id="svg"></span>
+<div id="hdr" class="hdr">
+ <div class="logo">
+  <div class="logo1 rel">
+   <a href="/" title="Читаем книги онлайн. Интернет-библиотека Алексея Комарова">
+    <div id="lmini"><svg style="width:4.9em;height:2.5em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="800 15 1500 1600"><use xlink:href="#logoMini" /></svg></div>
+    <div id="lmaxi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoBg" /><use xlink:href="#logoMaxi" /></svg></div>
+    <div id="lmidi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoMidi" /></svg></div>
+   </a>
+	</div>
+ </div>
+ <div id="qs1" class="qson">
+  <form id="sf2" method=get action="/search.phtml"><div id="sf1" style="display:flex;align-items:stretch">
+	<div><input class="tf" id="qi1" size=200 type="text" name="q" placeholder="Поиск: автор и/или название произведения" value=""></div>
+	<div id="sb" class="sb" style="">
+	<input id="ss" type="submit" value="Найти"><span id="smg"><svg id="sb1" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="60 0 115 140">
+<use xlink:href="#mglass" /></svg></span></div></div>
+</form>
+</div>
+<div id="sm" class="m"><a style="width:1.2em;white-space:nowrap" href="#" class="ma" onclick="toggle_sf();">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="65 18 115 115"><use xlink:href="#mglass" /></svg>
+</a></div>
+<div class="m"><a href="/author.html" class="ma">Авторы</a></div>
+<div class="spce">&nbsp;</div>
+</div>
+<div id="ex" class="l">
+<div id="lft0">
+<div class="f fc" style="justify-content:space-between">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+
+	<div id="text" class="t hya">
+	<div id="thdr" class="thdr">
+<a href="/author/hkandersen/index.html">Х. К. Андерсен</a>. <a href="/text/4655/index.html">Ель</a></div>
+
+<div class="title" ID="tc4686" STYLE="display:none">
+<h2>Первый том</h2>
+<h3>Второй выпуск
+<br>1845</h3>
+</div>
+
+<div class="dedication2" ID="d2c4686" STYLE="display:none">
+Поэту господину профессору, кавалеру Фредрику Хёг-Гульдбергу, первому, кто в давние дни заронил луч солнца в сказку моей жизни, посвящаю я эти страницы
+</div>
+
+<div class="author">Ханс Кристиан Андерсен</div>
+<div class="title"><h1>Ель</h1></div>
+<z><o></o>В лесу стояла чудесная елочка. Место у нее было хорошее, воздуха и света вдоволь; кругом росли подруги постарше &mdash; и ели и сосны. Елочке ужасно хотелось поскорее вырасти; она не думала ни о теплом солнышке, ни о свежем воздухе, не было ей дела и до болтливых крестьянских ребятишек, что сбирали в лесу землянику и малину; набрав полные кружки или нанизав ягоды, словно бусы, на тонкие соломинки, они присаживались возле елочки отдохнуть и всегда говорили:</z>
+<z><o></o>&mdash; Вот славная елочка! Хорошенькая, маленькая!</z>
+<z><o></o>Таких речей деревцо и слушать не хотело.</z>
+<z><o></o>Прошел год &mdash; и у елочки прибавилось одно коленце, прошел еще год &mdash; прибавилось еще одно: так по числу коленцев и можно узнать, сколько лет ели.</z>
+<z><o></o>&mdash; Ах, если бы я была такой же большой, как другие деревья! &mdash; вздыхала елочка. &mdash; Тогда бы и я широко раскинула свои ветви, высоко подняла голову, и мне бы видно было далеко-далеко вокруг! Птицы свили бы в моих ветвях гнезда, и я при ветре так же важно кивала бы головой, как другие!</z>
+<z><o></o>И ни солнышко, ни пение птичек, ни розовые утренние и вечерние облака не доставляли ей ни малейшего удовольствия.</z>
+<z><o></o>Стояла зима; земля была устлана сверкающим снежным ковром; по снегу нет-нет да пробегал заяц и иногда даже перепрыгивал через елочку &mdash; вот обида! Но прошло еще две зимы, и к третьей деревцо подросло уже настолько, что зайцу приходилось обходить его.</z>
+<z><o></o>&laquo;Да, расти, расти и поскорее сделаться большим, старым деревом &mdash; что может быть лучше этого!&raquo; &mdash; думалось елочке.</z>
+<z><o></o>Каждую осень в лесу появлялись дровосеки и рубили самые большие деревья. Елочка каждый раз дрожала от страха при виде падавших на землю с шумом и треском огромных деревьев. Их очищали от ветвей, и они валялись на земле такими голыми, длинными и тонкими. Едва можно было узнать их! Потом их укладывали на дровни и увозили из леса.</z>
+<z><o></o>Куда? Зачем?</z>
+<z><o></o>Весною, когда прилетели ласточки и аисты, деревцо спросило у них:</z>
+<z><o></o>&mdash; Не знаете ли, куда повезли те деревья? Не встречали ли вы их?</z>
+<z><o></o>Ласточки ничего не знали, но один из аистов подумал, кивнул головой и сказал:</z>
+<z><o></o>&mdash; Да, пожалуй! Я встречал на море, по пути из Египта, много новых кораблей с великолепными, высокими мачтами. От них пахло елью и сосной. Я привез вам поклон от этих важных особ!</z>
+<z><o></o>&mdash; Ах, поскорей бы и мне вырасти да пуститься в море! А каково это море, на что оно похоже?</z>
+<z><o></o>&mdash; Ну, это долго рассказывать! &mdash; отвечал аист и улетел.</z>
+<z><o></o>&mdash; Радуйся своей юности! &mdash; говорили елочке солнечные лучи. &mdash; Радуйся своему здоровому росту, своей молодости и жизненным силам!</z>
+<z><o></o>И ветер целовал дерево, роса проливала над ним слезы, но ель ничего этого не ценила.</z>
+<z><o></o>Около рождества срубили несколько совсем молоденьких елок; некоторые из них были даже меньше нашей елочки, которой так хотелось поскорее вырасти. Все срубленные деревца были прехорошенькие; их не очищали от ветвей, а прямо уложили на дровни и увезли из леса.</z>
+<z><o></o>&mdash; Куда? &mdash; спросила ель. &mdash; Они не больше меня, одна даже меньше. И почему на них оставили все ветви? Куда их повезли?</z>
+<z><o></o>&mdash; Мы знаем! Мы знаем! &mdash; прочирикали воробьи. &mdash; Мы были в городе и заглядывали в окна! Мы знаем куда их повезли! Они попадут в такую честь, что и сказать нельзя! Мы заглядывали в окна и видели! Их ставят посреди теплой комнаты и украшают чудеснейшими вещами, золочеными яблоками, медовыми пряниками и множеством свечей!</z>
+<z><o></o>&mdash; А потом?... &mdash; спросила ель, дрожа всеми ветвями. &mdash; А потом?... Что было с ними потом?</z>
+<z><o></o>&mdash; А больше мы ничего не видали! Но это было бесподобно!</z>
+<z><o></o>&mdash; Может быть, и я пойду такою же блестящею дорогой! &mdash; радовалась ель. &mdash; Это получше, чем плавать по морю! Ах, я просто изнываю от тоски и нетерпения! Хоть бы поскорее пришло рождество! Теперь и я стала такою же высокою и раскидистою, как те, что были срублены прошлый год! Ах, если б я уже лежала на дровнях! Ах, если б я уже стояла разубранною всеми этими прелестями, в теплой комнате! А потом что?.. Потом, верно, будет еще лучше, иначе зачем бы и наряжать меня!.. Только что именно? Ах, как я тоскую и рвусь отсюда! Просто и сама не знаю, что со мной!</z>
+<z><o></o>&mdash; Радуйся нам! &mdash; сказали ей воздух и солнечный свет. &mdash; Радуйся своей юности и лесному приволью!</z>
+<z><o></o>Но она и не думала радоваться, а все росла да росла. И зиму и лето стояла она в своем зеленом уборе, и все, кто видел ее, говорили: &laquo;Вот чудесное деревцо!&raquo; Подошло наконец и рождество, и елочку срубили первую. Жгучая боль и тоска не дали ей даже подумать о будущем счастье; грустно было расставаться с родным лесом, с тем уголком, где она выросла, &mdash; она ведь знала, что никогда больше не увидит своих милых подруг &mdash; елей и сосен, кустов, цветов, а может быть, даже и птичек! Как тяжело, как грустно!..</z>
+<z><o></o>Деревцо пришло в себя только тогда, когда очутилось вместе с другими деревьями на дворе и услышало возле себя чей-то голос:</z>
+<z><o></o>&mdash; Чудесная елка! Такую-то нам и нужно!</z>
+<z><o></o>Явились двое разодетых слуг, взяли елку и внесли ее в огромную, великолепную залу. По стенам висели портреты, а на большой кафельной печке стояли китайские вазы со львами на крышках; повсюду были расставлены кресла-качалки, обитые шелком диваны и большие столы, заваленные альбомами, книжками и игрушками на несколько сот далеров &mdash; так по крайней мере говорили дети. Елку посадили в большую кадку с песком, обвернули кадку зеленою материей и поставили на пестрый ковер. Как трепетала елочка! Что-то теперь будет? Явились слуги и молодые девушки и стали наряжать ее. Вот на ветвях повисли набитые сластями маленькие сетки, вырезанные из цветной бумаги, выросли золоченые яблоки и орехи и закачались куклы &mdash; ни дать ни взять живые человечки; таких елка еще не видывала. Наконец к ветвям прикрепили сотни разноцветных маленьких свечек &mdash; красных, голубых, белых, а к самой верхушке ели &mdash; большую звезду из сусального золота. Ну, просто глаза разбегались, глядя на все это великолепие!</z>
+<z><o></o>&mdash; Как заблестит, засияет елка вечером, когда зажгутся свечки! &mdash; сказали все.</z>
+<z><o></o>&laquo;Ах! &mdash; подумала елка. &mdash; Хоть бы поскорее настал вечер и зажгли свечки! А что же будет потом? Не явятся ли сюда из лесу, чтобы полюбоваться на меня, другие деревья? Не прилетят ли к окошкам воробьи? Или, может быть, я врасту в эту кадку и буду стоять тут такою нарядной и зиму и лето?&raquo;</z>
+<z><o></o>Да, много она знала!.. От напряженного ожидания у нее даже заболела кора, а это для дерева так же неприятно, как для нас головная боль.</z>
+<z><o></o>Но вот зажглись свечи. Что за блеск, что за роскошь! Елка задрожала всеми ветвями, одна из свечек подпалила зеленые иглы, и елочка пребольно обожглась.</z>
+<z><o></o>&mdash; Ай-ай! &mdash; закричали барышни и поспешно затушили огонь,</z>
+<z><o></o>Больше елка дрожать не смела. И напугалась же она! Особенно потому, что боялась лишиться хоть малейшего из своих украшений. Но весь этот блеск просто ошеломлял ее... Вдруг обе половинки дверей распахнулись, и ворвалась целая толпа детей; можно было подумать, что они намеревались свалить дерево! За ними степенно вошли старшие. Малыши остановились как вкопанные, но лишь на минуту, а потом поднялся такой шум и гам, что просто в ушах звенело. Дети поплясали вокруг елки, и мало-помалу все подарки с нее были сорваны.</z>
+<z><o></o>&laquo;Что же это они делают? &mdash; думала елка. &mdash; Что это значит?&raquo;</z>
+<z><o></o>Свечки догорели, их потушили, а детям позволили обобрать дерево. Как они набросились на него! Только ветви затрещали! Не будь верхушка с золотой звездой крепко привязана к потолку, они бы повалили елку.</z>
+<z><o></o>Потом дети опять принялись плясать, не выпуская из рук своих чудесных игрушек. Никто больше не глядел на елку, кроме старой няни, да и та высматривала только, не осталось ли где в ветвях яблочка или финика.</z>
+<z><o></o>&mdash; Сказку! Сказку! &mdash; закричали дети и подтащили к елке маленького, толстенького господина.</z>
+<z><o></o>Он уселся под деревом и сказал:</z>
+<z><o></o>&mdash; Вот мы и в лесу! Да и елка кстати послушает! Но я расскажу только одну сказку! Какую хотите: про Иведе-Аведе или про Клумпе-Думпе, который, хоть и свалился с лестницы, все-таки вошел в честь и добыл себе принцессу?</z>
+<z><o></o>&mdash; Про Иведе-Аведе! &mdash; закричали одни.</z>
+<z><o></o>&mdash; Про Клумпе-Думпе! &mdash; кричали другие.</z>
+<z><o></o>Поднялся крик и шум; одна елка стояла смирно и думала:</z>
+<z><o></o>&laquo;А мне разве нечего больше делать?&raquo;</z>
+<z><o></o>Она уж сделала свое дело!</z>
+<z><o></o>И толстенький человек рассказал про Клумпе-Думпе, который, хоть и свалился с лестницы, все-таки прославился, вошел в честь и добыл себе принцессу.</z>
+<z><o></o>Дети захлопали в ладоши и закричали:</z>
+<z><o></o>&mdash; Еще, еще! &mdash; Они хотели послушать и про Иведе-Аведе, но остались при одном Клумпе-Думпе.</z>
+<z><o></o>Тихо, задумчиво стояла елка, &mdash; лесные птицы никогда не рассказывали ничего подобного. &laquo;Клумпе-Думпе свалился с лестницы, и все же ему досталась принцесса! Да, вот что бывает на белом свете!&raquo; &mdash; думала елка; она вполне верила всему, что сейчас слышала, &mdash; рассказывал ведь такой почтенный человек. &laquo;Да, да, кто знает! Может быть, и мне придется свалиться с лестницы, а потом и мне достанется принцесса!&raquo; И она с радостью думала о завтрашнем дне: ее опять украсят свечками и игрушками, золотом и фруктами! &laquo;Завтра уж я не задрожу! &mdash; думала она. &mdash; Я хочу как следует насладиться своим великолепием! И завтра я опять услышу сказку про Клумпе-Думпе, а может статься, и про Иведе-Аведе&raquo;. И деревцо смирно простояло всю ночь мечтая о завтрашнем дне.</z>
+<z><o></o>Поутру явились слуги и горничная. &laquo;Сейчас опять начнут меня украшать?&raquo; &mdash; подумала елка, но они вытащили ее из комнаты, поволокли по лестнице и сунули в самый темный угол чердака, куда даже не проникал дневной свет.</z>
+<z><o></o>&laquo;Что же это значит? &mdash; думала елка. &mdash; Что мне здесь делать? Что я тут увижу и услышу?&raquo; И она прислонилась к стене и все думала, думала... Времени на это было довольно: проходили дни и ночи &mdash; никто не заглядывал к ней. Раз только пришли люди поставить на чердак какие-то ящики. Дерево стояло совсем в стороне, и о нем, казалось, забыли.</z>
+<z><o></o>&laquo;На дворе зима! &mdash; думала елка. &mdash; Земля затвердела и покрылась снегом; нельзя, значит, снова посадить меня в землю, вот и приходится постоять под крышей до весны! Как это умно придумано! Какие люди добрые! Не будь только здесь так темно и так ужасно пусто!.. Нет даже ни единого зайчика!.. А в лесу-то как было весело! Кругом снег, а по снегу скачут зайчики! Хорошо было... Даже когда они прыгали через меня, хоть меня это и сердило! А тут как пусто!&raquo;</z>
+<z><o></o>&mdash; Пи-ни! &mdash; пискнул вдруг мышонок и выскочил из норки, за ним еще один, маленький. Они принялись обнюхивать дерево и шмыгать меж его ветвями.</z>
+<z><o></o>&mdash; Ужасно холодно здесь! &mdash; сказали мышенята. &mdash; А то совсем бы хорошо было! Правда, старая елка?</z>
+<z><o></o>&mdash; Я вовсе не стара! &mdash; отвечала ель. &mdash; Есть много деревьев постарше меня!</z>
+<z><o></o>&mdash; Откуда ты и что ты знаешь? &mdash; спросили мышенята; они были ужасно любопытны. &mdash; Расскажи нам, где самое лучшее место на земле? Ты была там? Была ты когда-нибудь в кладовой, где на полках лежат сыры, а под потолком висят окорока и где можно плясать на сальных свечках? Туда войдешь тощим, а выйдешь оттуда толстым!</z>
+<z><o></o>&mdash; Нет, такого места я не знаю! &mdash; сказало дерево. &mdash; Но я знаю лес, где светит солнышко и поют птички!</z>
+<z><o></o>И она рассказала им о своей юности; мышенята никогда не слыхали ничего подобного, выслушали рассказ елки и потом сказали:</z>
+<z><o></o>&mdash; Как же ты много видела! Как ты была счастлива!</z>
+<z><o></o>&mdash; Счастлива? &mdash; сказала ель и задумалась о том времени, о котором только что рассказывала. &mdash; Да, пожалуй, тогда мне жилось недурно!</z>
+<z><o></o>Затем она рассказала им про тот вечер, когда была разубрана пряниками и свечками.</z>
+<z><o></o>&mdash; О! &mdash; сказали мышенята. &mdash; Как же ты была счастлива, старая елка!</z>
+<z><o></o>&mdash; Я совсем еще не стара! &mdash; возразила ель. &mdash; Я взята из лесу только нынешнею зимой! Я в самой поре! Только что вошла в рост!</z>
+<z><o></o>&mdash; Как ты чудесно рассказываешь! &mdash; сказали мышенята и на следующую ночь привели с собой еще четырех, которым тоже надо было послушать рассказы елки. А сама ель чем больше рассказывала, тем яснее припоминала свое прошлое, и ей казалось, что она пережила много хороших дней.</z>
+<z><o></o>&mdash; Но они же вернутся! Вернутся! И Клумпе-Думпе упал с лестницы, а все-таки ему досталась принцесса! Может быть, и мне достанется!</z>
+<z><o></o>Тут дерево вспомнило хорошенькую березку, что росла в лесной чаще неподалеку от него, &mdash; она казалась ему настоящей принцессой.</z>
+<z><o></o>&mdash; Кто это Клумпе-Думпе? &mdash; спросили мышенята, и ель рассказала им всю сказку; она запомнила ее слово в слово. Мышенята от удовольствия прыгали чуть не до самой верхушки дерева. На следующую ночь явилось еще несколько мышей, а в воскресенье пришли даже две крысы. Этим сказка вовсе не понравилась, что очень огорчило мышенят, но теперь и они перестали уже так восхищаться сказкою, как прежде.</z>
+<z><o></o>&mdash; Вы только одну эту историю и знаете? &mdash; спросили крысы.</z>
+<z><o></o>&mdash; Только! &mdash; отвечала ель. &mdash; Я слышала ее в счастливейший вечер моей жизни; тогда-то я, впрочем, еще не сознавала этого!</z>
+<z><o></o>&mdash; В высшей степени жалкая история! Не знаете ли вы чего-нибудь про жир или сальные свечи? Про кладовую?</z>
+<z><o></o>&mdash; Нет! &mdash; ответило дерево.</z>
+<z><o></o>&mdash; Так счастливо оставаться! &mdash; сказали крысы и ушли.</z>
+<z><o></o>Мышенята тоже разбежались, и ель вздохнула:</z>
+<z><o></o>&mdash; А ведь славно было, когда эти резвые мышенята сидели вокруг меня и слушали мои рассказы! Теперь и этому конец... Но уж теперь я не упущу своего, порадуюсь хорошенько, когда наконец снова выйду на белый свет!</z>
+<z><o></o>Не так-то скоро это случилось!</z>
+<z><o></o>Однажды утром явились люди прибрать чердак. Ящики были вытащены, а за ними и ель. Сначала ее довольно грубо бросили на пол, потом слуга поволок ее по лестнице вниз.</z>
+<z><o></o>&laquo;Ну, теперь для меня начнется новая жизнь!&raquo; &mdash; подумала елка.</z>
+<z><o></o>Вот на нее повеяло свежим воздухом, блеснул луч солнца &mdash; ель очутилась на дворе. Все это произошло так быстро, вокруг было столько нового и интересного для нее, что она не успела и поглядеть на самое себя. Двор примыкал к саду; в саду все зеленело и цвело. Через изгородь перевешивались свежие благоухающие розы, липы были покрыты цветом, ласточки летали взад и вперед и щебетали:</z>
+<z><o></o>&mdash; Квир-вир-вит! Мой муж вернулся!</z>
+<z><o></o>Но это не относилось к ели.</z>
+<z><o></o>&mdash; Теперь я заживу! &mdash; радовалась она и расправляла свои ветви. Ах, как они поблекли и пожелтели!</z>
+<z><o></o>Дерево лежало в углу двора, на крапиве и сорной траве; на верхушке его все еще сияла золотая звезда.</z>
+<z><o></o>Во дворе весело играли те самые ребятишки, что прыгали и плясали вокруг разубранной елки в сочельник. Самый младший увидел звезду и сорвал...</z>
+<z><o></o>&mdash; Поглядите-ка, что осталось на этой гадкой, старой елке! &mdash; крикнул он и наступил на ее ветви; ветви захрустели.</z>
+<z><o></o>Ель посмотрела на молодую, цветущую жизнь вокруг, потом поглядела на самое себя и пожелала вернуться в свой темный угол на чердак. Вспомнились ей и молодость, и лес, и веселый сочельник, и мышата, радостно слушавшие сказку про Клумпе-Думпе...</z>
+<z><o></o>&mdash; Все прошло, прошло! &mdash; сказала бедная елка. &mdash; И хоть бы я радовалась, пока было время! А теперь... все прошло, прошло!</z>
+<z><o></o>Пришел слуга и изрубил елку в куски, &mdash; вышла целая связка растопок. Как жарко запылали они под большим котлом! Дерево глубоко-глубоко вздыхало, и эти вздохи были похожи на слабые выстрелы. Прибежали дети, уселись перед огнем и встречали каждый выстрел веселым &laquo;пиф! паф!&raquo; А ель, испуская тяжелые вздохи, вспоминала ясные летние дни и звездные зимние ночи в лесу, веселый сочельник и сказку про Клумпе-Думпе, единственную слышанную ею сказку!.. Так она вся и сгорела.</z>
+<z><o></o>Мальчики опять играли во дворе; у младшего на груди сияла та самая золотая звезда, которая украшала елку в счастливейший вечер ее жизни. Теперь он прошел, канул в вечность, елке тоже пришел конец, а с нею и нашей истории. Конец, конец! Все на свете имеет свой конец!</z>
+<div class="i0 tc" style="padding-top:.5em;border-bottom:1px solid #666;width:6em;margin:auto;position:relative"><span class="rel bg1" style="top:.4em;color:#666;padding:0em .2em;line-height:.8em">&#10022;</span></div><iframe id="noteFrame"></iframe><div id="tbd"></div><script>
+nf=ge("noteFrame");
+nf.onload = () => {
+	nfd=nf.contentWindow.document;
+	nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+}
+nfd=nf.contentWindow.document;
+nfd.addEventListener("click",function(e){eid=nfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="fnHide")hideFn();},true);
+
+tf=ge("tocFrame");
+tf.onload = () => {
+	tfd=tf.contentWindow.document;
+	tfd.addEventListener("click",function(e){eid=tfd.elementFromPoint(e.clientX,e.clientY).id;if(eid=="tocHide")hideToc();},true);
+}
+</script>
+</div>
+<div id="s" style="height:0em"></div>
+<div class="tc" style="margin:3em -6px 1em">
+<div id="yar"></div>
+</div>
+
+
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">&copy; Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div><script>
+turl = new URL(document.URL);
+if (turl.hash != '')
+{
+	window.addEventListener('load',function(){scrollToId();});
+} 
+
+function scrollToId() {
+	ah_e = document.getElementById('ex_a' + turl.hash.substring(3));
+	ah_e.scrollIntoView({ block: "start" });
+}
+var cntr=0;</script>
+
+</div>
+
+<div id="f_r1" style="background-color:#e6e0d3">
+<div class="f" style="height:100%;border-left:1px solid #7f7f96;padding:0em"><div id="in" class="f fc jsb ci" style="width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div class="rel tc">
+<div id="right-rectangle-stick-1" class="ib" style="max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+</script>
+<div id="gglad" class="ib" style="max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+ <div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+  <div class="tc">
+	 <div id="right-rectangle-stick-2" class="ib" style="max-width:400px"></div>
+   <div id="btmad" class="ib" style="max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+	</div>
+ </div></div>
+</div>
+</div></div>
+</div>
+</div>
+
+</div>
+</div><div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: <a href="mailto:otklik@ilibrary.ru">otklik@ilibrary.ru</a></span><span class="bmi"><a href="/aboutilibrary/">О библиотеке</a></span><span class="bmi"><a href="/reklama.phtml">Реклама на сайте</a></span></div>
+<div>&copy;1996&#151;2026 Алексей Комаров. Подборка&nbsp;произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+<a href="https://metrika.yandex.ru/stat/?id=5179000&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/5179000/3_0_FFFFF0FF_E0E0D0FF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="5179000" data-lang="ru" /></a>
+<script type="text/javascript" >   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div><img src="https://mc.yandex.ru/watch/5179000" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+setBrackets();
+setArrows();setPoems();
+window.addEventListener('scroll',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+});
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(setBrackets)!=='undefined') setBrackets();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+if(cntr)document.write(cntr);</script>
+</div>
+</BODY>
+</HTML>
+<!-- 0.000539967 -->
