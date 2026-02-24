@@ -13,11 +13,11 @@ BASE = "https://ilibrary.ru"
 AUTHORS_PAGE = f"{BASE}/author.html"
 
 # Куда сохранять скачанные страницы
-OUT_DIR = "dump"
+OUT_DIR = "./task1/dump"
 # Файл, куда запишем подготовленный список ссылок
-URLS_TXT = "urls.txt"
+URLS_TXT = "./task1/urls.txt"
 # Файл индекса: номер_файла -> URL
-INDEX_TXT = "index.txt"
+INDEX_TXT = "./task1/index.txt"
 
 # Требование задания: скачать минимум 100 страниц
 MIN_PAGES_TO_DOWNLOAD = 100
